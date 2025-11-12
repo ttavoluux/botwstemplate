@@ -1,0 +1,252 @@
+[
+  {
+    "pregunta": "¿Quién es conocido como el 'Rey del Pop'?",
+    "opciones": ["Elvis Presley", "Freddie Mercury", "Michael Jackson", "Prince"],
+    "correcta": "Michael Jackson"
+  },
+  {
+    "pregunta": "¿Qué cantante interpretó 'Rolling in the Deep'?",
+    "opciones": ["Adele", "Rihanna", "Beyoncé", "Taylor Swift"],
+    "correcta": "Adele"
+  },
+  {
+    "pregunta": "¿De qué país es la banda BTS?",
+    "opciones": ["Japón", "China", "Corea del Sur", "Tailandia"],
+    "correcta": "Corea del Sur"
+  },
+  {
+    "pregunta": "¿Qué famoso guitarrista fue conocido como 'Mano Lenta' (Slowhand)?",
+    "opciones": ["Jimi Hendrix", "Eric Clapton", "Jimmy Page", "Keith Richards"],
+    "correcta": "Eric Clapton"
+  },
+  {
+    "pregunta": "¿Quién es la 'Reina del Pop'?",
+    "opciones": ["Whitney Houston", "Lady Gaga", "Madonna", "Janet Jackson"],
+    "correcta": "Madonna"
+  },
+  {
+    "pregunta": "¿Qué banda de rock lanzó el álbum 'The Dark Side of the Moon'?",
+    "opciones": ["Led Zeppelin", "The Beatles", "Pink Floyd", "Queen"],
+    "correcta": "Pink Floyd"
+  },
+  {
+    "pregunta": "¿Qué instrumento toca Yo-Yo Ma?",
+    "opciones": ["Violín", "Piano", "Flauta", "Violonchelo"],
+    "correcta": "Violonchelo"
+  },
+  {
+    "pregunta": "¿Quién es la cantante que popularizó la canción 'Hips Don't Lie'?",
+    "opciones": ["Jennifer Lopez", "Gloria Estefan", "Shakira", "Thalía"],
+    "correcta": "Shakira"
+  },
+  {
+    "pregunta": "¿Qué género musical surgió en Jamaica y popularizó Bob Marley?",
+    "opciones": ["Ska", "Salsa", "Reggae", "Calypso"],
+    "correcta": "Reggae"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la banda de rock liderada por Bono?",
+    "opciones": ["Coldplay", "The Cure", "U2", "Nirvana"],
+    "correcta": "U2"
+  },
+  {
+    "pregunta": "¿Qué compositor escribió 'Las Cuatro Estaciones'?",
+    "opciones": ["Bach", "Mozart", "Vivaldi", "Beethoven"],
+    "correcta": "Vivaldi"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre real del rapero Eminem?",
+    "opciones": ["Calvin Broadus", "Curtis Jackson", "Marshall Mathers", "Andre Young"],
+    "correcta": "Marshall Mathers"
+  },
+  {
+    "pregunta": "¿Qué cantante protagonizó la película 'A Star Is Born' (2018) junto a Bradley Cooper?",
+    "opciones": ["Lady Gaga", "Rihanna", "Dua Lipa", "Miley Cyrus"],
+    "correcta": "Lady Gaga"
+  },
+  {
+    "pregunta": "¿Qué banda de rock es famosa por el álbum 'Nevermind'?",
+    "opciones": ["Pearl Jam", "Soundgarden", "Nirvana", "Alice in Chains"],
+    "correcta": "Nirvana"
+  },
+  {
+    "pregunta": "¿Qué cantante mexicana es apodada 'La Diva de la Banda'?",
+    "opciones": ["Ana Gabriel", "Jenni Rivera", "Alejandra Guzmán", "Gloria Trevi"],
+    "correcta": "Jenni Rivera"
+  },
+  {
+    "pregunta": "¿Qué banda popularizó la canción 'Bohemian Rhapsody'?",
+    "opciones": ["The Beatles", "Queen", "Led Zeppelin", "The Who"],
+    "correcta": "Queen"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la cantante que es hermana de Beyoncé?",
+    "opciones": ["Kelly Rowland", "Solange", "Alicia Keys", "Ciara"],
+    "correcta": "Solange"
+  },
+  {
+    "pregunta": "¿Qué estilo de música es el 'Bolero'?",
+    "opciones": ["Un ritmo de baile europeo", "Un género de música de cámara", "Un ritmo de origen cubano lento", "Un tipo de ópera"],
+    "correcta": "Un ritmo de origen cubano lento"
+  },
+  {
+    "pregunta": "¿Qué artista lanzó la canción viral 'Old Town Road'?",
+    "opciones": ["Lil Nas X", "Post Malone", "Travis Scott", "Drake"],
+    "correcta": "Lil Nas X"
+  },
+  {
+    "pregunta": "¿Qué famoso grupo de pop se disolvió en 1970 tras el lanzamiento de su último álbum 'Let It Be'?",
+    "opciones": ["The Rolling Stones", "The Beatles", "The Doors", "ABBA"],
+    "correcta": "The Beatles"
+  },
+  {
+    "pregunta": "¿Qué cantante pop es conocida por la canción 'Toxic'?",
+    "opciones": ["Christina Aguilera", "Britney Spears", "Avril Lavigne", "Katy Perry"],
+    "correcta": "Britney Spears"
+  },
+  {
+    "pregunta": "¿Qué compositor es conocido por sus 9 sinfonías, siendo la Novena la más famosa?",
+    "opciones": ["Bach", "Haydn", "Schubert", "Beethoven"],
+    "correcta": "Beethoven"
+  },
+  {
+    "pregunta": "¿Qué género musical nació en el Bronx de Nueva York en los años 70?",
+    "opciones": ["Disco", "Reguetón", "Funk", "Hip-Hop"],
+    "correcta": "Hip-Hop"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del álbum debut de Taylor Swift?",
+    "opciones": ["Fearless", "Taylor Swift", "Red", "Speak Now"],
+    "correcta": "Taylor Swift"
+  },
+  {
+    "pregunta": "¿Qué cantante mexicano es apodado 'El Sol de México'?",
+    "opciones": ["Juan Gabriel", "Luis Miguel", "Alejandro Fernández", "Vicente Fernández"],
+    "correcta": "Luis Miguel"
+  },
+  {
+    "pregunta": "¿De qué país es la banda AC/DC?",
+    "opciones": ["Estados Unidos", "Reino Unido", "Australia", "Canadá"],
+    "correcta": "Australia"
+  },
+  {
+    "pregunta": "¿Qué cantante de ópera italiano era famoso por su voz de tenor?",
+    "opciones": ["Plácido Domingo", "Luciano Pavarotti", "Andrea Bocelli", "Enrico Caruso"],
+    "correcta": "Luciano Pavarotti"
+  },
+  {
+    "pregunta": "¿Qué famoso club de Liverpool fue cuna de The Beatles?",
+    "opciones": ["The Cavern Club", "The Star Club", "The Hacienda", "The Roxy"],
+    "correcta": "The Cavern Club"
+  },
+  {
+    "pregunta": "¿Quién es conocido como el 'Príncipe de la Canción'?",
+    "opciones": ["José José", "Julio Iglesias", "Camilo Sesto", "Raphael"],
+    "correcta": "José José"
+  },
+  {
+    "pregunta": "¿Qué artista estadounidense lanzó el álbum 'Thriller' en 1982?",
+    "opciones": ["Prince", "Lionel Richie", "Stevie Wonder", "Michael Jackson"],
+    "correcta": "Michael Jackson"
+  },
+  {
+    "pregunta": "¿Qué cantante es la vocalista principal de la banda No Doubt?",
+    "opciones": ["P!nk", "Alanis Morissette", "Gwen Stefani", "Avril Lavigne"],
+    "correcta": "Gwen Stefani"
+  },
+  {
+    "pregunta": "¿Qué instrumento es esencial en la música Tango?",
+    "opciones": ["Acordeón", "Ukelele", "Bandoneón", "Clarinete"],
+    "correcta": "Bandoneón"
+  },
+  {
+    "pregunta": "¿Quién es el rapero conocido por la canción 'God's Plan'?",
+    "opciones": ["Kendrick Lamar", "J. Cole", "Drake", "Kanye West"],
+    "correcta": "Drake"
+  },
+  {
+    "pregunta": "¿Qué cantante interpretó el himno de los Juegos Olímpicos de Barcelona 1992 ('Barcelona') con Montserrat Caballé?",
+    "opciones": ["Elton John", "Freddie Mercury", "George Michael", "Bono"],
+    "correcta": "Freddie Mercury"
+  },
+  {
+    "pregunta": "¿Qué banda popularizó el género Grunge en los años 90?",
+    "opciones": ["Metallica", "Guns N' Roses", "Red Hot Chili Peppers", "Nirvana"],
+    "correcta": "Nirvana"
+  },
+  {
+    "pregunta": "¿Qué cantante es famosa por el uso de una 'bola de demolición' en uno de sus videos ('Wrecking Ball')?",
+    "opciones": ["Ariana Grande", "Selena Gomez", "Miley Cyrus", "Demi Lovato"],
+    "correcta": "Miley Cyrus"
+  },
+  {
+    "pregunta": "¿Quién es el artista puertorriqueño apodado 'El Conejo Malo'?",
+    "opciones": ["Daddy Yankee", "J Balvin", "Bad Bunny", "Ozuna"],
+    "correcta": "Bad Bunny"
+  },
+  {
+    "pregunta": "¿Qué banda de rock alternativo lanzó el álbum 'OK Computer'?",
+    "opciones": ["Oasis", "Blur", "Radiohead", "Pulp"],
+    "correcta": "Radiohead"
+  },
+  {
+    "pregunta": "¿Cuál es el verdadero nombre de la cantante P!nk?",
+    "opciones": ["Kesha Rose Sebert", "Alecia Beth Moore", "Stefani Joanne Germanotta", "Robyn Rihanna Fenty"],
+    "correcta": "Alecia Beth Moore"
+  },
+  {
+    "pregunta": "¿Qué compositor fue un niño prodigio que empezó a componer a los 5 años?",
+    "opciones": ["Bach", "Haendel", "Mozart", "Vivaldi"],
+    "correcta": "Mozart"
+  },
+  {
+    "pregunta": "¿Qué cantante femenina lanzó el álbum 'Lemonade'?",
+    "opciones": ["Rihanna", "Beyoncé", "Adele", "SZA"],
+    "correcta": "Beyoncé"
+  },
+  {
+    "pregunta": "¿Qué género se caracteriza por el 'cuatro venezolano' como instrumento principal?",
+    "opciones": ["Cumbia", "Vallenato", "Joropo", "Salsa"],
+    "correcta": "Joropo"
+  },
+  {
+    "pregunta": "¿Qué legendaria cantante de jazz es famosa por la canción 'What a Wonderful World'?",
+    "opciones": ["Billie Holiday", "Ella Fitzgerald", "Etta James", "Louis Armstrong (cantante)"],
+    "correcta": "Louis Armstrong (cantante)"
+  },
+  {
+    "pregunta": "¿Qué grupo de pop sueco es conocido por éxitos como 'Dancing Queen'?",
+    "opciones": ["Roxette", "Ace of Base", "ABBA", "A-ha"],
+    "correcta": "ABBA"
+  },
+  {
+    "pregunta": "¿Qué vocalista era conocido por su amplio registro vocal y ser el líder de Queen?",
+    "opciones": ["Elton John", "Robert Plant", "Mick Jagger", "Freddie Mercury"],
+    "correcta": "Freddie Mercury"
+  },
+  {
+    "pregunta": "¿Qué cantante es conocida por su 'squad' de amigas famosas y la canción 'Shake It Off'?",
+    "opciones": ["Katy Perry", "Dua Lipa", "Taylor Swift", "Selena Gomez"],
+    "correcta": "Taylor Swift"
+  },
+  {
+    "pregunta": "¿Qué famosa banda de rock pesado lanzó el álbum 'Master of Puppets'?",
+    "opciones": ["Iron Maiden", "Megadeth", "Black Sabbath", "Metallica"],
+    "correcta": "Metallica"
+  },
+  {
+    "pregunta": "¿Quién es el cantante de la banda Coldplay?",
+    "opciones": ["Thom Yorke", "Alex Turner", "Chris Martin", "Brandon Flowers"],
+    "correcta": "Chris Martin"
+  },
+  {
+    "pregunta": "¿Qué canción se hizo famosa en 2017 por su ritmo de reguetón y su letra en español, rompiendo récords mundiales?",
+    "opciones": ["Despacito", "Mi Gente", "Súbeme la Radio", "Felices los 4"],
+    "correcta": "Despacito"
+  },
+  {
+    "pregunta": "¿Qué cantante fue conocido como 'El Rey del Rock and Roll'?",
+    "opciones": ["Chuck Berry", "Little Richard", "Elvis Presley", "Jerry Lee Lewis"],
+    "correcta": "Elvis Presley"
+  }
+]

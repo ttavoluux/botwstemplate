@@ -1,0 +1,527 @@
+[
+  {
+    "pregunta": "¿Quién fundó Microsoft?",
+    "opciones": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Elon Musk"],
+    "correcta": "Bill Gates"
+  },
+  {
+    "pregunta": "¿Qué significa 'AI' en inglés?",
+    "opciones": ["Advanced Interface", "Artificial Intelligence", "Automatic Internet", "Applied Innovation"],
+    "correcta": "Artificial Intelligence"
+  },
+  {
+    "pregunta": "¿Qué empresa creó el iPhone?",
+    "opciones": ["Samsung", "Apple", "Huawei", "Google"],
+    "correcta": "Apple"
+  },
+  {
+    "pregunta": "¿Quién es el fundador de Facebook (ahora Meta)?",
+    "opciones": ["Larry Page", "Jeff Bezos", "Mark Zuckerberg", "Jack Dorsey"],
+    "correcta": "Mark Zuckerberg"
+  },
+  {
+    "pregunta": "¿Cuál es el lenguaje utilizado para estructurar páginas web?",
+    "opciones": ["CSS", "JavaScript", "HTML", "Python"],
+    "correcta": "HTML"
+  },
+  {
+    "pregunta": "¿Qué componente es considerado el 'cerebro' de un ordenador?",
+    "opciones": ["RAM", "GPU", "CPU", "SSD"],
+    "correcta": "CPU"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'WWW'?",
+    "opciones": ["World Wide Web", "Wide World Web", "Web World Wide", "Web Wide World"],
+    "correcta": "World Wide Web"
+  },
+  {
+    "pregunta": "¿Qué empresa desarrolló el sistema operativo Android?",
+    "opciones": ["Microsoft", "Samsung", "Google", "Apple"],
+    "correcta": "Google"
+  },
+  {
+    "pregunta": "¿Quién es generalmente acreditado como el inventor de la World Wide Web?",
+    "opciones": ["Bill Gates", "Vint Cerf", "Tim Berners-Lee", "Steve Wozniak"],
+    "correcta": "Tim Berners-Lee"
+  },
+  {
+    "pregunta": "¿Qué significa la sigla 'RAM'?",
+    "opciones": ["Read Access Memory", "Random Access Memory", "Rapid Allocation Module", "Remote Access Machine"],
+    "correcta": "Random Access Memory"
+  },
+  {
+    "pregunta": "¿Quién es el fundador de Amazon?",
+    "opciones": ["Jeff Bezos", "Elon Musk", "Tim Cook", "Larry Ellison"],
+    "correcta": "Jeff Bezos"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'URL'?",
+    "opciones": ["User Registration Link", "Uniform Resource Locator", "Universal Read Line", "United Resource Loop"],
+    "correcta": "Uniform Resource Locator"
+  },
+  {
+    "pregunta": "¿Qué es un 'Arduino'?",
+    "opciones": ["Un lenguaje de programación", "Un microcontrolador de código abierto", "Un servidor web", "Un tipo de monitor"],
+    "correcta": "Un microcontrolador de código abierto"
+  },
+  {
+    "pregunta": "¿Cómo se llama el proceso de encontrar y corregir errores en un código?",
+    "opciones": ["Compilar", "Debugging (Depuración)", "Optimizar", "Ejecutar"],
+    "correcta": "Debugging (Depuración)"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'VR'?",
+    "opciones": ["Video Recording", "Virtual Reality", "Voice Recognition", "Vector Resolution"],
+    "correcta": "Virtual Reality"
+  },
+  {
+    "pregunta": "¿Qué tipo de software es 'Linux'?",
+    "opciones": ["Un antivirus", "Una base de datos", "Un sistema operativo", "Un editor de texto"],
+    "correcta": "Un sistema operativo"
+  },
+  {
+    "pregunta": "¿Qué famosa criptomoneda fue creada por Satoshi Nakamoto?",
+    "opciones": ["Ethereum", "Dogecoin", "Bitcoin", "Ripple"],
+    "correcta": "Bitcoin"
+  },
+  {
+    "pregunta": "¿Qué término se usa para describir el fraude que busca obtener datos personales a través de correos falsos?",
+    "opciones": ["Malware", "Phishing", "Spam", "Firewall"],
+    "correcta": "Phishing"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'IoT'?",
+    "opciones": ["Internet of Technology", "Internet of Things", "Internal Online Tools", "Information of Technology"],
+    "correcta": "Internet of Things"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de un router en una red doméstica?",
+    "opciones": ["Almacenar datos", "Gestionar el tráfico de red", "Mostrar imágenes", "Escribir código"],
+    "correcta": "Gestionar el tráfico de red"
+  },
+  {
+    "pregunta": "¿Cuál es el protocolo estándar para el envío de correos electrónicos?",
+    "opciones": ["POP3", "IMAP", "SMTP", "FTP"],
+    "correcta": "SMTP"
+  },
+  {
+    "pregunta": "¿Cuál es la unidad de medida para la capacidad de almacenamiento (mil millones de bytes)?",
+    "opciones": ["Megabyte (MB)", "Gigabyte (GB)", "Terabyte (TB)", "Kilobyte (KB)"],
+    "correcta": "Gigabyte (GB)"
+  },
+  {
+    "pregunta": "¿Qué significa '5G' en tecnología móvil?",
+    "opciones": ["5ta Generación", "5 Gigahercios", "5 Global", "5 Giga"],
+    "correcta": "5ta Generación"
+  },
+  {
+    "pregunta": "¿Quién es el actual CEO de Tesla y SpaceX?",
+    "opciones": ["Jeff Bezos", "Satya Nadella", "Elon Musk", "Tim Cook"],
+    "correcta": "Elon Musk"
+  },
+  {
+    "pregunta": "¿Qué es un 'firewall'?",
+    "opciones": ["Un tipo de virus", "Una herramienta de seguridad de red", "Un editor de imágenes", "Un tipo de navegador"],
+    "correcta": "Una herramienta de seguridad de red"
+  },
+  {
+    "pregunta": "¿Qué empresa creó la consola de videojuegos PlayStation?",
+    "opciones": ["Microsoft", "Nintendo", "Sony", "Sega"],
+    "correcta": "Sony"
+  },
+  {
+    "pregunta": "¿Qué lenguaje se usa para estilizar páginas web (colores, fuentes)?",
+    "opciones": ["HTML", "JavaScript", "CSS", "Python"],
+    "correcta": "CSS"
+  },
+  {
+    "pregunta": "¿Qué es 'Cloud Computing'?",
+    "opciones": ["Un nuevo hardware", "Entrega de servicios de computación por Internet", "Una red de satélites", "Un método de programación"],
+    "correcta": "Entrega de servicios de computación por Internet"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'LCD'?",
+    "opciones": ["Light Crystal Display", "Liquid Crystal Display", "Local Control Device", "Low Current Drawing"],
+    "correcta": "Liquid Crystal Display"
+  },
+  {
+    "pregunta": "¿Quién cofundó Apple junto a Steve Jobs?",
+    "opciones": ["Ronald Wayne", "Steve Wozniak", "Jony Ive", "Tim Cook"],
+    "correcta": "Steve Wozniak"
+  },
+  {
+    "pregunta": "¿Qué es 'Big Data'?",
+    "opciones": ["Un software pequeño", "Un conjunto de datos extremadamente grande", "Un tipo de virus", "Una base de datos antigua"],
+    "correcta": "Un conjunto de datos extremadamente grande"
+  },
+  {
+    "pregunta": "¿Cuál es el término para el acceso no autorizado a sistemas informáticos?",
+    "opciones": ["Phishing", "Spamming", "Hacking", "Indexing"],
+    "correcta": "Hacking"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'VPN'?",
+    "opciones": ["Virtual Public Network", "Very Private Network", "Visual Processing Node", "Virtual Private Network"],
+    "correcta": "Virtual Private Network"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito principal de una base de datos?",
+    "opciones": ["Crear documentos de texto", "Diseñar gráficos", "Almacenar y gestionar datos", "Enviar correos electrónicos"],
+    "correcta": "Almacenar y gestionar datos"
+  },
+  {
+    "pregunta": "¿Qué compañía es conocida por su motor de búsqueda y el sistema operativo Chrome OS?",
+    "opciones": ["Apple", "Amazon", "Google", "IBM"],
+    "correcta": "Google"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'AR'?",
+    "opciones": ["Automatic Retrieval", "Augmented Reality", "Advanced Router", "Access Restriction"],
+    "correcta": "Augmented Reality"
+  },
+  {
+    "pregunta": "¿Cuál es el sistema operativo utilizado en la mayoría de los ordenadores Apple?",
+    "opciones": ["Windows", "iOS", "macOS", "Linux"],
+    "correcta": "macOS"
+  },
+  {
+    "pregunta": "¿Cuál es la unidad de medida para la velocidad de un procesador?",
+    "opciones": ["Byte", "Hertz (Hz)", "Voltio", "Pixel"],
+    "correcta": "Hertz (Hz)"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'GPU'?",
+    "opciones": ["General Processing Unit", "Graphics Processing Unit", "Global Port Utility", "Gigabit Per Unit"],
+    "correcta": "Graphics Processing Unit"
+  },
+  {
+    "pregunta": "¿Qué es 'Malware'?",
+    "opciones": ["Un tipo de hardware", "Software diseñado para dañar o acceder sin permiso", "Un tipo de cable de red", "Una base de datos"],
+    "correcta": "Software diseñado para dañar o acceder sin permiso"
+  },
+  {
+    "pregunta": "¿Qué es 'Ethernet'?",
+    "opciones": ["Un tipo de red inalámbrica", "Un estándar de red cableada", "Un lenguaje de programación", "Un tipo de virus"],
+    "correcta": "Un estándar de red cableada"
+  },
+  {
+    "pregunta": "¿Qué es un 'Pixel'?",
+    "opciones": ["Un programa de diseño", "El componente más pequeño de una imagen digital", "Una unidad de almacenamiento", "Un tipo de conexión"],
+    "correcta": "El componente más pequeño de una imagen digital"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'GPS'?",
+    "opciones": ["Global Positioning System", "General Packet Switching", "Google Public Search", "Global Personal Security"],
+    "correcta": "Global Positioning System"
+  },
+  {
+    "pregunta": "¿Cuál es la tecnología detrás de los 'coches autónomos'?",
+    "opciones": ["Realidad Virtual", "Inteligencia Artificial", "Big Data", "Computación Cuántica"],
+    "correcta": "Inteligencia Artificial"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la plataforma en la nube de Microsoft?",
+    "opciones": ["AWS", "Google Cloud", "Azure", "IBM Cloud"],
+    "correcta": "Azure"
+  },
+  {
+    "pregunta": "¿Qué es 'Wi-Fi'?",
+    "opciones": ["Una conexión por cable", "Un estándar de red inalámbrica", "Un tipo de navegador", "Un sistema operativo"],
+    "correcta": "Un estándar de red inalámbrica"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'PDF'?",
+    "opciones": ["Print Document File", "Portable Document Format", "Personal Data File", "Program Development File"],
+    "correcta": "Portable Document Format"
+  },
+  {
+    "pregunta": "¿Qué empresa compró WhatsApp?",
+    "opciones": ["Google", "Tencent", "Meta (Facebook)", "Microsoft"],
+    "correcta": "Meta (Facebook)"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de una SSD (Unidad de Estado Sólido)?",
+    "opciones": ["Procesamiento de gráficos", "Almacenamiento de datos", "Cálculos matemáticos", "Conexión a internet"],
+    "correcta": "Almacenamiento de datos"
+  },
+  {
+    "pregunta": "¿Qué lenguaje es el estándar para gestionar bases de datos relacionales?",
+    "opciones": ["Python", "Java", "SQL", "C++"],
+    "correcta": "SQL"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'HTTP'?",
+    "opciones": ["HyperText Transfer Protocol", "High Technology Transfer Program", "Home Test Terminal Program", "Hyperlink Text Tool Provider"],
+    "correcta": "HyperText Transfer Protocol"
+  },
+  {
+    "pregunta": "¿Cuál es la unidad más pequeña de información en computación?",
+    "opciones": ["Byte", "Bit", "Kilobyte", "Hertz"],
+    "correcta": "Bit"
+  },
+  {
+    "pregunta": "¿Quién es conocido como el 'padre de la informática moderna'?",
+    "opciones": ["Charles Babbage", "Alan Turing", "John von Neumann", "Blaise Pascal"],
+    "correcta": "Alan Turing"
+  },
+  {
+    "pregunta": "¿Qué es la 'Realidad Aumentada'?",
+    "opciones": ["Un entorno totalmente simulado", "Una superposición digital sobre el mundo real", "Una simulación de voz", "Un tipo de algoritmo"],
+    "correcta": "Una superposición digital sobre el mundo real"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del primer virus informático conocido?",
+    "opciones": ["I Love You", "Morris Worm", "Creeper", "Melissa"],
+    "correcta": "Creeper"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'OS'?",
+    "opciones": ["Output System", "Online Server", "Operating System", "Open Source"],
+    "correcta": "Operating System"
+  },
+  {
+    "pregunta": "¿Cuál es la medida de 8 bits?",
+    "opciones": ["Un Byte", "Un Kilobit", "Un Hertz", "Un Megabyte"],
+    "correcta": "Un Byte"
+  },
+  {
+    "pregunta": "¿Cuál es la tecnología utilizada para pagos inalámbricos de corto alcance (tarjetas/móviles)?",
+    "opciones": ["Bluetooth", "Wi-Fi", "NFC", "GPS"],
+    "correcta": "NFC"
+  },
+  {
+    "pregunta": "¿Qué significa 'HTML5'?",
+    "opciones": ["Una aplicación de diseño", "La quinta revisión del estándar HTML", "Un nuevo sistema operativo", "Un lenguaje de programación"],
+    "correcta": "La quinta revisión del estándar HTML"
+  },
+  {
+    "pregunta": "¿Qué es el 'Aprendizaje Automático' (Machine Learning)?",
+    "opciones": ["Un tipo de red social", "Un subconjunto de la Inteligencia Artificial", "Un tipo de robot", "Un nuevo hardware"],
+    "correcta": "Un subconjunto de la Inteligencia Artificial"
+  },
+  {
+    "pregunta": "¿Qué simula un 'casco VR'?",
+    "opciones": ["La realidad aumentada", "Un entorno virtual tridimensional", "Un sistema de navegación", "Una interfaz de voz"],
+    "correcta": "Un entorno virtual tridimensional"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'USB'?",
+    "opciones": ["Universal Serial Bus", "United Service Box", "Unrestricted Software Beta", "Ultimate Security Backup"],
+    "correcta": "Universal Serial Bus"
+  },
+  {
+    "pregunta": "¿Qué compañía es conocida por sus procesadores (CPU) como Core i7 y Core i9?",
+    "opciones": ["AMD", "Nvidia", "Intel", "Qualcomm"],
+    "correcta": "Intel"
+  },
+  {
+    "pregunta": "¿Qué lenguaje de programación se utiliza a menudo para el análisis de datos y la IA?",
+    "opciones": ["C++", "Java", "Python", "Ruby"],
+    "correcta": "Python"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'IP' en una 'dirección IP'?",
+    "opciones": ["Internet Provider", "Internal Program", "Internet Protocol", "Information Packet"],
+    "correcta": "Internet Protocol"
+  },
+  {
+    "pregunta": "¿Qué es una 'Cookie' en términos de navegación web?",
+    "opciones": ["Un error del navegador", "Un archivo de datos almacenado por un sitio web", "Una aplicación de chat", "Un tipo de firewall"],
+    "correcta": "Un archivo de datos almacenado por un sitio web"
+  },
+  {
+    "pregunta": "¿Qué empresa es dueña de Instagram y WhatsApp?",
+    "opciones": ["Google", "Twitter", "Meta (Facebook)", "Amazon"],
+    "correcta": "Meta (Facebook)"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito del 'BIOS' en un ordenador?",
+    "opciones": ["Cargar el sistema operativo", "Ejecutar programas", "Diseñar gráficos", "Conectar a internet"],
+    "correcta": "Cargar el sistema operativo"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del sistema operativo conocido por ser de código abierto?",
+    "opciones": ["Windows", "macOS", "Linux", "Chrome OS"],
+    "correcta": "Linux"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'LED'?",
+    "opciones": ["Low Energy Display", "Light-Emitting Diode", "Liquid Electric Device", "Laser Emission Detector"],
+    "correcta": "Light-Emitting Diode"
+  },
+  {
+    "pregunta": "¿Qué es 'E-commerce'?",
+    "opciones": ["Entretenimiento online", "Comercio electrónico", "Educación a distancia", "Comunicación de emergencia"],
+    "correcta": "Comercio electrónico"
+  },
+  {
+    "pregunta": "¿Cuál es el término para una red mundial de computadoras interconectadas?",
+    "opciones": ["Intranet", "Extranet", "LAN", "Internet"],
+    "correcta": "Internet"
+  },
+  {
+    "pregunta": "¿Qué caracteriza al software de 'Código Abierto' (Open Source)?",
+    "opciones": ["Es gratuito", "Su código fuente está disponible para todos", "Solo funciona en Linux", "Es desarrollado por Google"],
+    "correcta": "Su código fuente está disponible para todos"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de un Sistema Operativo?",
+    "opciones": ["Instalar antivirus", "Gestionar los recursos de hardware y software", "Crear páginas web", "Enviar archivos"],
+    "correcta": "Gestionar los recursos de hardware y software"
+  },
+  {
+    "pregunta": "¿Qué lenguaje de programación es esencial para el desarrollo de aplicaciones iOS y macOS?",
+    "opciones": ["Java", "Swift", "C#", "Kotlin"],
+    "correcta": "Swift"
+  },
+  {
+    "pregunta": "¿Cuál es la base de datos de código abierto más popular?",
+    "opciones": ["Oracle", "SQL Server", "MySQL", "PostgreSQL"],
+    "correcta": "MySQL"
+  },
+  {
+    "pregunta": "¿Qué es un 'Algoritmo'?",
+    "opciones": ["Un tipo de virus", "Un conjunto de instrucciones para resolver un problema", "Un dispositivo de red", "Una base de datos"],
+    "correcta": "Un conjunto de instrucciones para resolver un problema"
+  },
+  {
+    "pregunta": "¿Qué significa 'HTTP' en una dirección web?",
+    "opciones": ["Define cómo se transfieren los datos en la web", "Define el diseño de la web", "Define la seguridad de la web", "Define el almacenamiento de la web"],
+    "correcta": "Define cómo se transfieren los datos en la web"
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el área de la informática que utiliza la mecánica cuántica?",
+    "opciones": ["Computación Biónica", "Computación Cuántica", "Computación Vectorial", "Computación Paralela"],
+    "correcta": "Computación Cuántica"
+  },
+  {
+    "pregunta": "¿Qué componente de hardware es el responsable de conectar la computadora a internet (física o inalámbricamente)?",
+    "opciones": ["Placa Madre", "Tarjeta de Red (NIC)", "Fuente de Poder", "Disco Duro"],
+    "correcta": "Tarjeta de Red (NIC)"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la suite de software ofimática más utilizada (procesador de texto, hojas de cálculo)?",
+    "opciones": ["Google Docs", "iWork", "Microsoft Office", "LibreOffice"],
+    "correcta": "Microsoft Office"
+  },
+  {
+    "pregunta": "¿Qué se requiere para que un 'Smartwatch' funcione con un teléfono móvil?",
+    "opciones": ["Un cable USB", "Tecnología Bluetooth", "Un sensor GPS", "Una conexión 5G"],
+    "correcta": "Tecnología Bluetooth"
+  },
+  {
+    "pregunta": "¿Qué es un 'troyano' en el contexto informático?",
+    "opciones": ["Un juego en línea", "Un tipo de virus malicioso", "Un sistema de seguridad", "Un editor de video"],
+    "correcta": "Un tipo de virus malicioso"
+  },
+  {
+    "pregunta": "¿Qué es la 'Latencia' en una conexión de red?",
+    "opciones": ["La velocidad de descarga", "El tiempo de respuesta de la red", "La potencia de la señal", "El número de dispositivos conectados"],
+    "correcta": "El tiempo de respuesta de la red"
+  },
+  {
+    "pregunta": "¿Qué empresa es conocida por sus tarjetas gráficas (GPU) de la serie GeForce?",
+    "opciones": ["Intel", "AMD", "Nvidia", "Samsung"],
+    "correcta": "Nvidia"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la tecnología que permite a una CPU tener varios núcleos de procesamiento?",
+    "opciones": ["Overclocking", "Multiprocesamiento", "Virtualización", "Núcleo Dual/Multi-Núcleo"],
+    "correcta": "Núcleo Dual/Multi-Núcleo"
+  },
+  {
+    "pregunta": "¿Qué significa la sigla 'Wi-Fi'?",
+    "opciones": ["Wireless Fidelity", "Wired Fiber", "Web Interface", "Worldwide Fiber"],
+    "correcta": "Wireless Fidelity"
+  },
+  {
+    "pregunta": "¿Qué tipo de pantalla utiliza diodos orgánicos emisores de luz?",
+    "opciones": ["LCD", "LED", "OLED", "CRT"],
+    "correcta": "OLED"
+  },
+  {
+    "pregunta": "¿Qué significa 'Banda Ancha'?",
+    "opciones": ["Conexión lenta", "Baja capacidad de datos", "Alta velocidad de transmisión de datos", "Solo conexiones inalámbricas"],
+    "correcta": "Alta velocidad de transmisión de datos"
+  },
+  {
+    "pregunta": "¿Qué sistema operativo móvil es el principal competidor de Android?",
+    "opciones": ["Windows Phone", "iOS", "BlackBerry OS", "Symbian"],
+    "correcta": "iOS"
+  },
+  {
+    "pregunta": "¿Cómo se llama el programa que traduce código fuente a código máquina?",
+    "opciones": ["Depurador", "Intérprete", "Compilador", "Editor"],
+    "correcta": "Compilador"
+  },
+  {
+    "pregunta": "¿Qué tecnología se utiliza para la mayoría de las videollamadas y teleconferencias?",
+    "opciones": ["VoIP (Voz sobre IP)", "SMTP", "IMAP", "FTP"],
+    "correcta": "VoIP (Voz sobre IP)"
+  },
+  {
+    "pregunta": "¿Qué significa 'SSD'?",
+    "opciones": ["Standard Storage Drive", "Solid State Drive", "Sequential System Disk", "Software Storage Device"],
+    "correcta": "Solid State Drive"
+  },
+  {
+    "pregunta": "¿Qué es un 'Dominio' en una dirección web (ej: .com, .org)?",
+    "opciones": ["El servidor", "El nombre de la página", "El Protocolo de Internet", "La extensión de la URL"],
+    "correcta": "La extensión de la URL"
+  },
+  {
+    "pregunta": "¿Qué tecnología permite transferir electricidad sin cables, como en la carga de teléfonos?",
+    "opciones": ["Carga Solar", "Inducción Electromagnética", "Carga Bluetooth", "Carga Óptica"],
+    "correcta": "Inducción Electromagnética"
+  },
+  {
+    "pregunta": "¿Qué tipo de base de datos se utiliza para almacenar grandes cantidades de datos no estructurados (NoSQL)?",
+    "opciones": ["Relacionales", "Jerárquicas", "De Grafos", "De Documentos (o Clave-Valor)"],
+    "correcta": "De Documentos (o Clave-Valor)"
+  },
+  {
+    "pregunta": "¿Qué significan las siglas 'PC'?",
+    "opciones": ["Professional Computer", "Personal Computer", "Power Consumption", "Portable Console"],
+    "correcta": "Personal Computer"
+  },
+  {
+    "pregunta": "¿Qué es un 'Token de Seguridad'?",
+    "opciones": ["Una contraseña", "Un dispositivo para generar códigos de autenticación", "Un tipo de virus", "Un archivo de sistema"],
+    "correcta": "Un dispositivo para generar códigos de autenticación"
+  },
+  {
+    "pregunta": "¿Qué es 'SaaS'?",
+    "opciones": ["Storage as a Service", "Software as a Service", "System and Server", "Security as a Solution"],
+    "correcta": "Software as a Service"
+  },
+  {
+    "pregunta": "¿Qué significa la sigla 'GIF'?",
+    "opciones": ["General Image Format", "Graphics Interchange Format", "Global Information File", "Graphical Interface Function"],
+    "correcta": "Graphics Interchange Format"
+  },
+  {
+    "pregunta": "¿Qué famoso ratón utiliza una manzana como logotipo?",
+    "opciones": ["Microsoft", "Samsung", "Apple", "IBM"],
+    "correcta": "Apple"
+  },
+  {
+    "pregunta": "¿Qué es la 'Biometría'?",
+    "opciones": ["Medición de datos biológicos para identificación", "Un tipo de base de datos", "Una conexión inalámbrica", "Un sistema de programación"],
+    "correcta": "Medición de datos biológicos para identificación"
+  },
+  {
+    "pregunta": "¿Qué tipo de lenguaje es el 'JavaScript'?",
+    "opciones": ["Lenguaje de hojas de estilo", "Lenguaje de programación para la web (front-end)", "Lenguaje de base de datos", "Lenguaje de hardware"],
+    "correcta": "Lenguaje de programación para la web (front-end)"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del navegador web creado por Google?",
+    "opciones": ["Firefox", "Safari", "Edge", "Chrome"],
+    "correcta": "Chrome"
+  },
+  {
+    "pregunta": "¿Qué término se utiliza para describir la conexión simultánea de millones de dispositivos a Internet?",
+    "opciones": ["Big Data", "IoT (Internet de las Cosas)", "Cloud Computing", "5G"],
+    "correcta": "IoT (Internet de las Cosas)"
+  }
+]

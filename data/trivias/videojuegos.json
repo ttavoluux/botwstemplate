@@ -1,0 +1,522 @@
+[
+  {
+    "pregunta": "¿Quién es el creador de Minecraft?",
+    "opciones": ["Notch", "Gabe Newell", "Shigeru Miyamoto", "Hideo Kojima"],
+    "correcta": "Notch"
+  },
+  {
+    "pregunta": "¿Qué personaje dice 'It's-a me, Mario!'?",
+    "opciones": ["Luigi", "Mario", "Wario", "Toad"],
+    "correcta": "Mario"
+  },
+  {
+    "pregunta": "¿En qué videojuego aparece Master Chief?",
+    "opciones": ["Halo", "Call of Duty", "Destiny", "Overwatch"],
+    "correcta": "Halo"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista mudo de 'The Legend of Zelda'?",
+    "opciones": ["Ganon", "Zelda", "Link", "Impa"],
+    "correcta": "Link"
+  },
+  {
+    "pregunta": "¿Qué famoso fontanero es la mascota de Nintendo?",
+    "opciones": ["Pac-Man", "Pikachu", "Mario", "Sonic"],
+    "correcta": "Mario"
+  },
+  {
+    "pregunta": "¿En qué juego de género Battle Royale es común saltar desde un avión y buscar equipo rápidamente?",
+    "opciones": ["Minecraft", "Free Fire", "Rocket League", "Among Us"],
+    "correcta": "Free Fire"
+  },
+  {
+    "pregunta": "¿Qué consola de Sony fue la primera en usar discos compactos (CD)?",
+    "opciones": ["PlayStation 2", "PlayStation 3", "PlayStation", "PSP"],
+    "correcta": "PlayStation"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista calvo y genético en la saga 'Hitman'?",
+    "opciones": ["Agente 007", "Agente 47", "Sam Fisher", "Max Payne"],
+    "correcta": "Agente 47"
+  },
+  {
+    "pregunta": "¿Qué saga de juegos de rol (RPG) incluye al personaje 'Cloud Strife'?",
+    "opciones": ["Dragon Quest", "Final Fantasy", "Kingdom Hearts", "Persona"],
+    "correcta": "Final Fantasy"
+  },
+  {
+    "pregunta": "¿Cómo se llama la moneda principal en la serie de juegos de Mario?",
+    "opciones": ["Diamantes", "Estrellas", "Monedas de oro", "Rubíes"],
+    "correcta": "Monedas de oro"
+  },
+  {
+    "pregunta": "¿Qué juego popularizó el género MOBA (Multiplayer Online Battle Arena)?",
+    "opciones": ["World of Warcraft", "League of Legends", "Dota 2", "StarCraft"],
+    "correcta": "League of Legends"
+  },
+  {
+    "pregunta": "¿Qué compañía es la creadora de la consola Xbox?",
+    "opciones": ["Sony", "Nintendo", "Microsoft", "Sega"],
+    "correcta": "Microsoft"
+  },
+  {
+    "pregunta": "¿Cuál es el arma principal y símbolo del protagonista de 'God of War' (Kratos)?",
+    "opciones": ["Martillo Mjölnir", "Espada Maestra", "Espadas del Caos", "Escudo Hyliano"],
+    "correcta": "Espadas del Caos"
+  },
+  {
+    "pregunta": "¿Cómo se llama el villano principal de la saga de Star Fox?",
+    "opciones": ["Bowser", "Sephiroth", "Andross", "Dr. Robotnik"],
+    "correcta": "Andross"
+  },
+  {
+    "pregunta": "¿Qué juego de rol masivo en línea (MMORPG) es conocido por el mundo de Azeroth?",
+    "opciones": ["Final Fantasy XIV", "World of Warcraft", "Guild Wars 2", "EVE Online"],
+    "correcta": "World of Warcraft"
+  },
+  {
+    "pregunta": "¿Qué animal es la mascota de la compañía Sega?",
+    "opciones": ["Mario", "Pikachu", "Sonic el Erizo", "Crash Bandicoot"],
+    "correcta": "Sonic el Erizo"
+  },
+  {
+    "pregunta": "¿Qué juego introdujo el concepto de 'Poké Ball' para capturar criaturas?",
+    "opciones": ["Digimon", "Monster Hunter", "Pokémon", "Yu-Gi-Oh!"],
+    "correcta": "Pokémon"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del estudio que desarrolló el juego 'Cyberpunk 2077'?",
+    "opciones": ["Rockstar Games", "CD Projekt Red", "Ubisoft", "BioWare"],
+    "correcta": "CD Projekt Red"
+  },
+  {
+    "pregunta": "¿En la saga 'Grand Theft Auto', ¿qué ciudad se basa en Los Ángeles?",
+    "opciones": ["Liberty City", "Vice City", "San Fierro", "Los Santos"],
+    "correcta": "Los Santos"
+  },
+  {
+    "pregunta": "¿Qué personaje es el principal protagonista de la saga 'Uncharted'?",
+    "opciones": ["Lara Croft", "Joel Miller", "Nathan Drake", "Sam Fisher"],
+    "correcta": "Nathan Drake"
+  },
+  {
+    "pregunta": "¿Qué es un 'NPC' en el contexto de los videojuegos?",
+    "opciones": ["Nuevo Personaje Creado", "Personaje No Jugador", "Nivel de Poder de Combate", "Nueva Partida Continua"],
+    "correcta": "Personaje No Jugador"
+  },
+  {
+    "pregunta": "¿Qué sistema de Nintendo fue el primero en introducir controles por movimiento?",
+    "opciones": ["Nintendo 64", "Nintendo Switch", "Wii", "GameCube"],
+    "correcta": "Wii"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del juego de terror de supervivencia con un perro llamado Mira?",
+    "opciones": ["Silent Hill 2", "Resident Evil 4", "Dead Space", "Fatal Frame"],
+    "correcta": "Silent Hill 2"
+  },
+  {
+    "pregunta": "¿Qué juego de 'Battle Royale' es conocido por su sistema de construcción rápida?",
+    "opciones": ["PUBG", "Free Fire", "Apex Legends", "Fortnite"],
+    "correcta": "Fortnite"
+  },
+  {
+    "pregunta": "¿Cómo se llama el arma principal de Samus Aran en la saga 'Metroid'?",
+    "opciones": ["El gancho", "El rayo de energía", "El cañón del brazo", "El látigo"],
+    "correcta": "El cañón del brazo"
+  },
+  {
+    "pregunta": "¿Qué famoso diseñador de videojuegos creó 'Metal Gear Solid' y 'Death Stranding'?",
+    "opciones": ["Shigeru Miyamoto", "Hironobu Sakaguchi", "Hideo Kojima", "Gabe Newell"],
+    "correcta": "Hideo Kojima"
+  },
+  {
+    "pregunta": "¿Qué estudio desarrolló la saga de rol 'The Elder Scrolls' y 'Fallout'?",
+    "opciones": ["CD Projekt Red", "BioWare", "Bethesda Game Studios", "Square Enix"],
+    "correcta": "Bethesda Game Studios"
+  },
+  {
+    "pregunta": "¿En 'Free Fire', ¿cuál es el objetivo del juego?",
+    "opciones": ["Construir una base", "Ser el último en pie", "Resolver acertijos", "Conducir coches de carreras"],
+    "correcta": "Ser el último en pie"
+  },
+  {
+    "pregunta": "¿Qué juego de lucha incluye a los personajes Ryu y Ken?",
+    "opciones": ["Mortal Kombat", "Tekken", "Street Fighter", "Super Smash Bros."],
+    "correcta": "Street Fighter"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del robot que acompaña a Aloy en 'Horizon Zero Dawn'?",
+    "opciones": ["Garrus", "Siri", "GAIA", "Aloy Bot"],
+    "correcta": "GAIA"
+  },
+  {
+    "pregunta": "¿Qué consola fue el primer sistema de juegos de cartuchos exitoso comercialmente?",
+    "opciones": ["Atari 2600", "NES", "ColecoVision", "Intellivision"],
+    "correcta": "Atari 2600"
+  },
+  {
+    "pregunta": "¿Qué videojuego de 2013 sigue a dos personajes, Joel y Ellie, en un mundo postapocalíptico?",
+    "opciones": ["BioShock Infinite", "The Last of Us", "Red Dead Redemption 2", "Gears of War"],
+    "correcta": "The Last of Us"
+  },
+  {
+    "pregunta": "¿Qué personaje de 'Final Fantasy VII' es un villano icónico con una espada larga?",
+    "opciones": ["Sefirot", "Jecht", "Kefka", "Golbez"],
+    "correcta": "Sefirot"
+  },
+  {
+    "pregunta": "¿En qué juego de Blizzard se basa el MOBA 'Heroes of the Storm'?",
+    "opciones": ["Diablo", "World of Warcraft", "StarCraft", "Incluye personajes de todas las sagas"],
+    "correcta": "Incluye personajes de todas las sagas"
+  },
+  {
+    "pregunta": "¿Qué tipo de juego es 'League of Legends' (LoL)?",
+    "opciones": ["FPS", "MMORPG", "MOBA", "Estrategia en tiempo real (RTS)"],
+    "correcta": "MOBA"
+  },
+  {
+    "pregunta": "¿Cuál es el verdadero nombre de Link en 'The Legend of Zelda'?",
+    "opciones": ["Zelda", "Ganon", "No tiene nombre", "Link"],
+    "correcta": "Link"
+  },
+  {
+    "pregunta": "¿Qué animal es la mascota del juego 'Spyro the Dragon'?",
+    "opciones": ["Un caballo", "Un dragón", "Un perro", "Un mono"],
+    "correcta": "Un dragón"
+  },
+  {
+    "pregunta": "¿Qué saga de juegos de lucha es conocida por sus 'Fatalities'?",
+    "opciones": ["Street Fighter", "Tekken", "Killer Instinct", "Mortal Kombat"],
+    "correcta": "Mortal Kombat"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la organización terrorista que se enfrenta a Snake en 'Metal Gear Solid'?",
+    "opciones": ["Aperture Science", "FOXHOUND", "Umbrella Corporation", "Cipher"],
+    "correcta": "FOXHOUND"
+  },
+  {
+    "pregunta": "¿Qué juego de 'Battle Royale' de 2018 fue el primero en popularizar el género en PC, antes que Fortnite o Free Fire?",
+    "opciones": ["Apex Legends", "PUBG (PlayerUnknown's Battlegrounds)", "H1Z1", "DayZ"],
+    "correcta": "PUBG (PlayerUnknown's Battlegrounds)"
+  },
+  {
+    "pregunta": "¿Cómo se llama el barco volador de Cloud en 'Final Fantasy VII'?",
+    "opciones": ["Highwind", "Black Jack", "Invincible", "Ragnarok"],
+    "correcta": "Highwind"
+  },
+  {
+    "pregunta": "¿Qué tipo de juego es 'Doom'?",
+    "opciones": ["FPS (First-Person Shooter)", "RTS", "RPG", "Plataformas"],
+    "correcta": "FPS (First-Person Shooter)"
+  },
+  {
+    "pregunta": "¿Qué personaje es el protagonista de la saga 'Tomb Raider'?",
+    "opciones": ["Chloe Frazer", "Nathan Drake", "Lara Croft", "Indiana Jones"],
+    "correcta": "Lara Croft"
+  },
+  {
+    "pregunta": "¿En qué año se lanzó la consola original PlayStation?",
+    "opciones": ["1992", "1994", "1996", "1998"],
+    "correcta": "1994"
+  },
+  {
+    "pregunta": "¿Qué personaje es el némesis de Sonic el Erizo?",
+    "opciones": ["Shadow", "Knuckles", "Dr. Eggman (Dr. Robotnik)", "Tails"],
+    "correcta": "Dr. Eggman (Dr. Robotnik)"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del mundo mágico donde ocurren los juegos de Pokémon?",
+    "opciones": ["Hyrule", "Kanto, Johto, Hoenn, etc.", "Aetherius", "Azeroth"],
+    "correcta": "Kanto, Johto, Hoenn, etc."
+  },
+  {
+    "pregunta": "¿Qué juego de PC popularizó el género de estrategia en tiempo real (RTS) con facciones como Terran, Zerg y Protoss?",
+    "opciones": ["Age of Empires", "WarCraft", "StarCraft", "Dune II"],
+    "correcta": "StarCraft"
+  },
+  {
+    "pregunta": "¿En 'Free Fire', ¿cuál es el término utilizado para el proceso de 'reanimar' a un compañero de equipo?",
+    "opciones": ["Curación", "Revivir", "Reanimar", "Rescate"],
+    "correcta": "Revivir"
+  },
+  {
+    "pregunta": "¿Qué juego incluye a los personajes Kratos y Atreus?",
+    "opciones": ["Horizon Zero Dawn", "Assassin's Creed", "God of War", "The Witcher"],
+    "correcta": "God of War"
+  },
+  {
+    "pregunta": "¿Cuál es el título del primer juego de la saga 'Assassin's Creed'?",
+    "opciones": ["Assassin's Creed II", "Assassin's Creed Revelations", "Assassin's Creed", "Assassin's Creed Brotherhood"],
+    "correcta": "Assassin's Creed"
+  },
+  {
+    "pregunta": "¿Qué consola de Nintendo utiliza 'Joy-Cons' como controladores?",
+    "opciones": ["Wii U", "Nintendo 3DS", "Nintendo Switch", "Game Boy"],
+    "correcta": "Nintendo Switch"
+  },
+  {
+    "pregunta": "¿Qué juego de terror presenta a los personajes Chris Redfield y Jill Valentine?",
+    "opciones": ["Amnesia", "Silent Hill", "Resident Evil", "Outlast"],
+    "correcta": "Resident Evil"
+  },
+  {
+    "pregunta": "¿Qué personaje es el protagonista de la saga 'Devil May Cry'?",
+    "opciones": ["Nero", "Vergil", "Dante", "Trish"],
+    "correcta": "Dante"
+  },
+  {
+    "pregunta": "¿Qué plataforma de videojuegos para PC es la más grande y popular, desarrollada por Valve?",
+    "opciones": ["Epic Games Store", "GOG", "Origin", "Steam"],
+    "correcta": "Steam"
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el protagonista de 'Minecraft' (por defecto)?",
+    "opciones": ["Creeper", "Steve", "Alex", "Herobrine"],
+    "correcta": "Steve"
+  },
+  {
+    "pregunta": "¿Cuál es el arma principal de Vayne en 'League of Legends'?",
+    "opciones": ["Espada", "Arco y flecha", "Ballesta", "Varita mágica"],
+    "correcta": "Ballesta"
+  },
+  {
+    "pregunta": "¿Qué significa 'RPG' en el contexto de los videojuegos?",
+    "opciones": ["Real-time Player Game", "Role-Playing Game", "Racing & Puzzles Game", "Random Player Generation"],
+    "correcta": "Role-Playing Game"
+  },
+  {
+    "pregunta": "¿Qué famoso diseñador de videojuegos creó la saga 'Final Fantasy'?",
+    "opciones": ["Hironobu Sakaguchi", "Yuji Naka", "Hideo Kojima", "Shigeru Miyamoto"],
+    "correcta": "Hironobu Sakaguchi"
+  },
+  {
+    "pregunta": "¿Qué consola introdujo los 'trofeos' y el sistema de logros en las consolas de nueva generación?",
+    "opciones": ["PlayStation 3 y Xbox 360", "PlayStation 4 y Xbox One", "Nintendo Switch y PS5", "Xbox Series X y PS5"],
+    "correcta": "PlayStation 3 y Xbox 360"
+  },
+  {
+    "pregunta": "¿Qué juego es conocido por el villano 'GLaDOS' y portales de teletransportación?",
+    "opciones": ["Half-Life", "Portal", "BioShock", "Mass Effect"],
+    "correcta": "Portal"
+  },
+  {
+    "pregunta": "¿Qué saga de juegos de lucha presenta el sistema 'rage art'?",
+    "opciones": ["Mortal Kombat", "Street Fighter", "Tekken", "Guilty Gear"],
+    "correcta": "Tekken"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del estudio detrás de la saga 'FIFA' (ahora EA Sports FC)?",
+    "opciones": ["Konami", "EA Sports", "2K Games", "Ubisoft"],
+    "correcta": "EA Sports"
+  },
+  {
+    "pregunta": "¿Qué juego de 'Battle Royale' es el que tiene partidas más rápidas en dispositivos móviles, favoreciendo el combate inmediato?",
+    "opciones": ["PUBG Mobile", "Fortnite Mobile", "Call of Duty Mobile", "Free Fire"],
+    "correcta": "Free Fire"
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el protagonista de 'Red Dead Redemption'?",
+    "opciones": ["Arthur Morgan", "Dutch van der Linde", "John Marston", "Micah Bell"],
+    "correcta": "John Marston"
+  },
+  {
+    "pregunta": "¿Qué tipo de juego es 'The Sims'?",
+    "opciones": ["Estrategia en tiempo real", "Simulación social", "Aventura gráfica", "Plataformas"],
+    "correcta": "Simulación social"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del continente donde transcurre la saga 'The Witcher'?",
+    "opciones": ["Westeros", "Middle-earth", "The Continent", "Tamriel"],
+    "correcta": "The Continent"
+  },
+  {
+    "pregunta": "¿Qué personaje es el maestro espadachín y líder de la banda 'FOXHOUND' en 'Metal Gear Solid'?",
+    "opciones": ["Solid Snake", "Revolver Ocelot", "Liquid Snake", "Big Boss"],
+    "correcta": "Liquid Snake"
+  },
+  {
+    "pregunta": "¿Cuál es el enemigo principal de Samus Aran en la saga 'Metroid'?",
+    "opciones": ["Mother Brain", "Ridley", "Dark Samus", "Los Metroids"],
+    "correcta": "Los Metroids"
+  },
+  {
+    "pregunta": "¿Qué personaje de 'Halo' es el principal aliado de Master Chief (una IA)?",
+    "opciones": ["Cortana", "Serina", "Rampant", "Isabel"],
+    "correcta": "Cortana"
+  },
+  {
+    "pregunta": "¿Qué juego popularizó el género 'Tower Defense' en dispositivos móviles?",
+    "opciones": ["Angry Birds", "Clash of Clans", "Plants vs Zombies", "Candy Crush"],
+    "correcta": "Plants vs Zombies"
+  },
+  {
+    "pregunta": "¿Qué personaje es el némesis de Link, buscando siempre el poder de la Trifuerza?",
+    "opciones": ["Ganondorf (Ganon)", "Zant", "Skull Kid", "Demise"],
+    "correcta": "Ganondorf (Ganon)"
+  },
+  {
+    "pregunta": "¿Cómo se llama la bola amarilla que come puntos y fantasmas?",
+    "opciones": ["Donkey Kong", "Pac-Man", "Frogger", "Pong"],
+    "correcta": "Pac-Man"
+  },
+  {
+    "pregunta": "¿Qué juego de 2017 de Nintendo Switch permitió el primer mundo abierto masivo para Mario?",
+    "opciones": ["New Super Mario Bros. U", "Super Mario Galaxy", "Super Mario Odyssey", "Super Mario 3D World"],
+    "correcta": "Super Mario Odyssey"
+  },
+  {
+    "pregunta": "¿Qué significa 'MMORPG'?",
+    "opciones": ["Multiplayer Modular Online Role-Playing Game", "Massively Multiplayer Online Role-Playing Game", "Mobile Multiplayer Online Role-Playing Game", "Mighty Magical Online Role-Playing Game"],
+    "correcta": "Massively Multiplayer Online Role-Playing Game"
+  },
+  {
+    "pregunta": "¿Qué juego introdujo el concepto de 'sistema Nemesis' para enemigos dinámicos?",
+    "opciones": ["Batman: Arkham City", "Middle-earth: Shadow of Mordor", "Assassin's Creed", "Watch Dogs"],
+    "correcta": "Middle-earth: Shadow of Mordor"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la consola portátil más exitosa de la historia (en unidades vendidas)?",
+    "opciones": ["PSP", "Game Boy", "Nintendo Switch", "Nintendo DS"],
+    "correcta": "Nintendo DS"
+  },
+  {
+    "pregunta": "¿Qué juego de 'Battle Royale' presenta la característica de mascotas que siguen a los jugadores?",
+    "opciones": ["PUBG", "Fortnite", "Free Fire", "Apex Legends"],
+    "correcta": "Free Fire"
+  },
+  {
+    "pregunta": "¿Qué personaje de 'Overwatch' es una gorila súper inteligente que usa un cañón de Tesla?",
+    "opciones": ["Reinhardt", "D.Va", "Winston", "Zarya"],
+    "correcta": "Winston"
+  },
+  {
+    "pregunta": "¿Qué juego de disparos se hizo famoso por su modo 'Zombis' cooperativo?",
+    "opciones": ["Battlefield", "Halo", "Call of Duty", "Gears of War"],
+    "correcta": "Call of Duty"
+  },
+  {
+    "pregunta": "¿En qué año se lanzó la consola PlayStation 2?",
+    "opciones": ["1999", "2000", "2001", "2002"],
+    "correcta": "2000"
+  },
+  {
+    "pregunta": "¿Qué estudio desarrolló la saga de 'Doom' (el relanzamiento moderno)?",
+    "opciones": ["Bungie", "id Software", "Epic Games", "Respawn Entertainment"],
+    "correcta": "id Software"
+  },
+  {
+    "pregunta": "¿Qué significa 'DLC' en el contexto de los videojuegos?",
+    "opciones": ["Data Link Controller", "Digital License Code", "Downloadable Content", "Dynamic Level Creation"],
+    "correcta": "Downloadable Content"
+  },
+  {
+    "pregunta": "¿Qué juego de carreras de Nintendo es conocido por sus objetos como el caparazón rojo y el plátano?",
+    "opciones": ["F-Zero", "Need for Speed", "Mario Kart", "Forza Horizon"],
+    "correcta": "Mario Kart"
+  },
+  {
+    "pregunta": "¿Cómo se llama el villano principal de la saga 'Diablo'?",
+    "opciones": ["Baal", "Mephisto", "Diablo", "Azmodan"],
+    "correcta": "Diablo"
+  },
+  {
+    "pregunta": "¿Qué personaje de 'Final Fantasy' es un dragón que se transforma en humano?",
+    "opciones": ["Bahamut", "Ifrit", "Shiva", "Sefirot"],
+    "correcta": "Bahamut"
+  },
+  {
+    "pregunta": "¿Qué videojuego de supervivencia en mundo abierto presenta un mapa lleno de dinosaurios?",
+    "opciones": ["Rust", "The Forest", "ARK: Survival Evolved", "Subnautica"],
+    "correcta": "ARK: Survival Evolved"
+  },
+  {
+    "pregunta": "¿Qué juego de simulación de vida de Maxis se hizo famoso por el concepto de 'Plumbob'?",
+    "opciones": ["SimCity", "The Sims", "Spore", "SimEarth"],
+    "correcta": "The Sims"
+  },
+  {
+    "pregunta": "¿Qué plataforma de videojuegos es la responsable de la tienda 'eShop'?",
+    "opciones": ["Sony", "Microsoft", "Nintendo", "Google"],
+    "correcta": "Nintendo"
+  },
+  {
+    "pregunta": "¿Qué estudio desarrolló la saga 'Dark Souls'?",
+    "opciones": ["Capcom", "FromSoftware", "Kojima Productions", "Bandai Namco"],
+    "correcta": "FromSoftware"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de 'Max Payne'?",
+    "opciones": ["Alex Vance", "Agent 47", "Max Payne", "Sam Fisher"],
+    "correcta": "Max Payne"
+  },
+  {
+    "pregunta": "¿Qué famosa consola de sobremesa fue lanzada en Japón en 1983?",
+    "opciones": ["Master System", "Atari 2600", "NES (Famicom)", "Sega Genesis"],
+    "correcta": "NES (Famicom)"
+  },
+  {
+    "pregunta": "¿Qué personaje es el rival de Sonic, conocido por su habilidad para volar con dos colas?",
+    "opciones": ["Knuckles", "Shadow", "Tails", "Amy Rose"],
+    "correcta": "Tails"
+  },
+  {
+    "pregunta": "¿En la saga 'The Elder Scrolls', ¿cómo se llama la provincia donde se desarrolla 'Skyrim'?",
+    "opciones": ["Cyrodiil", "Morrowind", "Skyrim", "Hammerfell"],
+    "correcta": "Skyrim"
+  },
+  {
+    "pregunta": "¿Qué juego de 'Battle Royale' móvil es popular en Asia y usa personajes con habilidades especiales?",
+    "opciones": ["PUBG Mobile", "Call of Duty Mobile", "Free Fire", "Fortnite Mobile"],
+    "correcta": "Free Fire"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del antagonista principal en 'Half-Life'?",
+    "opciones": ["G-Man", "Nihilanth", "Gordon Freeman", "Doctor Breen"],
+    "correcta": "G-Man"
+  },
+  {
+    "pregunta": "¿Qué juego introdujo el concepto de 'árbol de habilidades' y 'niveles de experiencia' en el RPG moderno?",
+    "opciones": ["Final Fantasy", "Diablo", "Baldur's Gate", "Ultima"],
+    "correcta": "Diablo"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista ciberpunk de 'Cyberpunk 2077'?",
+    "opciones": ["V", "Johnny Silverhand", "Jackie Welles", "Takemura"],
+    "correcta": "V"
+  },
+  {
+    "pregunta": "¿Qué personaje es la protagonista femenina de 'Horizon Zero Dawn'?",
+    "opciones": ["Aloy", "Erend", "Sylens", "Talanah"],
+    "correcta": "Aloy"
+  },
+  {
+    "pregunta": "¿Qué juego es conocido por el concepto de 'Guardians' que luchan contra la 'Darkness'?",
+    "opciones": ["Anthem", "Destiny", "The Division", "Warframe"],
+    "correcta": "Destiny"
+  },
+  {
+    "pregunta": "¿Qué videojuego de 2007 introdujo la mecánica de viaje en el tiempo con una pistola de portales?",
+    "opciones": ["BioShock", "Half-Life 2", "Portal", "Team Fortress 2"],
+    "correcta": "Portal"
+  },
+  {
+    "pregunta": "¿Cómo se llama el personaje principal de 'Halo'?",
+    "opciones": ["Sargento Johnson", "Inquisidor", "Master Chief", "Noble Six"],
+    "correcta": "Master Chief"
+  },
+  {
+    "pregunta": "¿Qué personaje de 'Street Fighter' es conocido por la técnica 'Hadouken'?",
+    "opciones": ["Chun-Li", "Ken", "Ryu", "Zangief"],
+    "correcta": "Ryu"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del creador de la saga 'Pokémon'?",
+    "opciones": ["Shigeru Miyamoto", "Satoru Iwata", "Ken Sugimori", "Satoshi Tajiri"],
+    "correcta": "Satoshi Tajiri"
+  },
+  {
+    "pregunta": "¿Qué personaje es el protagonista de 'Doom'?",
+    "opciones": ["Doom Slayer", "B.J. Blazkowicz", "Duke Nukem", "Master Chief"],
+    "correcta": "Doom Slayer"
+  }
+]

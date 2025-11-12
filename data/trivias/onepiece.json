@@ -1,0 +1,252 @@
+[
+  {
+    "pregunta": "¿Quién es el capitán de los Piratas del Sombrero de Paja?",
+    "opciones": ["Zoro", "Luffy", "Sanji", "Usopp"],
+    "correcta": "Luffy"
+  },
+  {
+    "pregunta": "¿Cuál es el sueño de Luffy?",
+    "opciones": ["Ser el rey de los piratas", "Encontrar el One Piece", "Tener su propio barco", "Derrotar a Kaido"],
+    "correcta": "Ser el rey de los piratas"
+  },
+  {
+    "pregunta": "¿Quién es el espadachín de la tripulación?",
+    "opciones": ["Zoro", "Sanji", "Brook", "Franky"],
+    "correcta": "Zoro"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la Fruta del Diablo de Luffy (antes de la revelación de su verdadero nombre)?",
+    "opciones": ["Moku Moku no Mi", "Gomu Gomu no Mi", "Mera Mera no Mi", "Bara Bara no Mi"],
+    "correcta": "Gomu Gomu no Mi"
+  },
+  {
+    "pregunta": "¿Cuál es el rol de Nami en la tripulación?",
+    "opciones": ["Arqueóloga", "Músico", "Navegante", "Doctora"],
+    "correcta": "Navegante"
+  },
+  {
+    "pregunta": "¿Cómo se llama el cocinero de la tripulación que solo usa las piernas para pelear?",
+    "opciones": ["Jinbe", "Zeff", "Sanji", "Brook"],
+    "correcta": "Sanji"
+  },
+  {
+    "pregunta": "¿Qué tipo de animal es Tony Tony Chopper?",
+    "opciones": ["Reno", "Mapache", "Perro", "Oso"],
+    "correcta": "Reno"
+  },
+  {
+    "pregunta": "¿Qué famoso pirata le dio el Sombrero de Paja a Luffy?",
+    "opciones": ["Barbablanca", "Gol D. Roger", "Shanks", "Barbanegra"],
+    "correcta": "Shanks"
+  },
+  {
+    "pregunta": "¿Cómo se llama el primer barco de los Piratas del Sombrero de Paja?",
+    "opciones": ["Thousand Sunny", "Moby Dick", "Going Merry", "Red Force"],
+    "correcta": "Going Merry"
+  },
+  {
+    "pregunta": "¿Cuál es el sueño de Roronoa Zoro?",
+    "opciones": ["Encontrar el All Blue", "Ser el mejor espadachín del mundo", "Dibujar el mapa del mundo", "Convertirse en almirante"],
+    "correcta": "Ser el mejor espadachín del mundo"
+  },
+  {
+    "pregunta": "¿Quién es el padre de Monkey D. Luffy?",
+    "opciones": ["Gol D. Roger", "Garp", "Sabo", "Monkey D. Dragon"],
+    "correcta": "Monkey D. Dragon"
+  },
+  {
+    "pregunta": "¿Qué personaje es el creador de las bombas en la tripulación (aunque su rol es francotirador)?",
+    "opciones": ["Usopp", "Franky", "Nami", "Brook"],
+    "correcta": "Usopp"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del Almirante de Flota de la Marina después del salto temporal?",
+    "opciones": ["Kizaru", "Akainu", "Aokiji", "Fujitora"],
+    "correcta": "Akainu"
+  },
+  {
+    "pregunta": "¿Qué fruta del diablo le permite a Nico Robin hacer florecer partes de su cuerpo?",
+    "opciones": ["Hana Hana no Mi", "Mero Mero no Mi", "Awa Awa no Mi", "Suke Suke no Mi"],
+    "correcta": "Hana Hana no Mi"
+  },
+  {
+    "pregunta": "¿Cómo se llama el segundo barco de los Sombrero de Paja?",
+    "opciones": ["Red Force", "Going Merry", "Thousand Sunny", "Oro Jackson"],
+    "correcta": "Thousand Sunny"
+  },
+  {
+    "pregunta": "¿Qué isla es conocida como la 'Isla del Cielo'?",
+    "opciones": ["Wano", "Dressrosa", "Skypiea", "Whole Cake Island"],
+    "correcta": "Skypiea"
+  },
+  {
+    "pregunta": "¿Cuántos tipos principales de Haki existen?",
+    "opciones": ["Uno", "Dos", "Tres", "Cuatro"],
+    "correcta": "Tres"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del hermano adoptivo de Luffy que tiene la Mera Mera no Mi?",
+    "opciones": ["Sabo", "Ace", "Bartholomew Kuma", "Trafalgar Law"],
+    "correcta": "Ace"
+  },
+  {
+    "pregunta": "¿Qué apodo tiene el pirata Eustass Kid?",
+    "opciones": ["El Cirujano de la Muerte", "El Mago", "El Demonio", "Capitán"],
+    "correcta": "Capitán"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del Barco de Shanks el Pelirrojo?",
+    "opciones": ["Red Force", "Moby Dick", "Thousand Sunny", "Oro Jackson"],
+    "correcta": "Red Force"
+  },
+  {
+    "pregunta": "¿Qué arma usa la navegante Nami en combate?",
+    "opciones": ["Bolas de pinchos", "Cuchillos", "Clima Tact", "Una katana"],
+    "correcta": "Clima Tact"
+  },
+  {
+    "pregunta": "¿Cómo se llaman las escrituras históricas que Nico Robin busca y la Marina prohíbe?",
+    "opciones": ["Textos Ancestrales", "Poneglyphs", "Escrituras de Shandora", "Libros de Ohara"],
+    "correcta": "Poneglyphs"
+  },
+  {
+    "pregunta": "¿Qué Emperador del Mar (Yonko) es conocido como 'Cien Bestias'?",
+    "opciones": ["Big Mom", "Shanks", "Kaido", "Barbanegra"],
+    "correcta": "Kaido"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del reino de la infancia de Vivi Nefertari?",
+    "opciones": ["Alabasta", "Drum", "Dressrosa", "Fish-Man Island"],
+    "correcta": "Alabasta"
+  },
+  {
+    "pregunta": "¿Quién es el carpintero de los Piratas del Sombrero de Paja?",
+    "opciones": ["Usopp", "Iceburg", "Franky", "Tom"],
+    "correcta": "Franky"
+  },
+  {
+    "pregunta": "¿Cuál es el apodo del usuario de la Fruta del Diablo de la oscuridad (Yami Yami no Mi)?",
+    "opciones": ["Marshall D. Teach", "Kurohige (Barbanegra)", "Trafalgar Law", "Gecko Moria"],
+    "correcta": "Kurohige (Barbanegra)"
+  },
+  {
+    "pregunta": "¿Qué base de la Marina era la principal hasta el salto temporal?",
+    "opciones": ["Marineford", "Enies Lobby", "Impel Down", "G-8"],
+    "correcta": "Marineford"
+  },
+  {
+    "pregunta": "¿Cuál es el rol de Brook en la tripulación?",
+    "opciones": ["Francotirador", "Navegante", "Músico", "Vigilante"],
+    "correcta": "Músico"
+  },
+  {
+    "pregunta": "¿Qué personaje posee el Haki del Conquistador (Haoshoku Haki)?",
+    "opciones": ["Sanji", "Nami", "Usopp", "Zoro"],
+    "correcta": "Zoro"
+  },
+  {
+    "pregunta": "¿Cómo se llama el lugar de encierro de máxima seguridad de la Marina?",
+    "opciones": ["Enies Lobby", "Sabaody", "Impel Down", "Marineford"],
+    "correcta": "Impel Down"
+  },
+  {
+    "pregunta": "¿Qué enfermedad padeció Tony Tony Chopper?",
+    "opciones": ["Síndrome de la Isla del Tesoro", "Sakura", "Mala suerte", "Ninguna"],
+    "correcta": "Ninguna"
+  },
+  {
+    "pregunta": "¿Quién fue el jefe de la organización criminal Baroque Works?",
+    "opciones": ["Donquixote Doflamingo", "Sir Crocodile", "Arlong", "Buggy"],
+    "correcta": "Sir Crocodile"
+  },
+  {
+    "pregunta": "¿Qué Almirante utilizó el poder del hielo (Hie Hie no Mi)?",
+    "opciones": ["Akainu", "Kizaru", "Fujitora", "Aokiji"],
+    "correcta": "Aokiji"
+  },
+  {
+    "pregunta": "¿Cómo se llama el último destino de la Grand Line, donde se encuentra el One Piece?",
+    "opciones": ["Raftel (Laugh Tale)", "La Isla del Cielo", "Wano Country", "El Red Line"],
+    "correcta": "Raftel (Laugh Tale)"
+  },
+  {
+    "pregunta": "¿Qué personaje es un gyojin y fue el Rey de la Isla Gyojin?",
+    "opciones": ["Hody Jones", "Arlong", "Jinbe", "Fishman"],
+    "correcta": "Jinbe"
+  },
+  {
+    "pregunta": "¿De qué color es la nariz de Buggy el Payaso?",
+    "opciones": ["Roja", "Azul", "Morada", "Verde"],
+    "correcta": "Roja"
+  },
+  {
+    "pregunta": "¿Qué Fruta del Diablo le permite a Sanji encender su pierna ('Diable Jambe')?",
+    "opciones": ["Logia de Fuego", "Zoan del Dragón", "Ninguna (es habilidad propia)", "Paramecia de la Explosión"],
+    "correcta": "Ninguna (es habilidad propia)"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del Rey de los Piratas que escondió el One Piece?",
+    "opciones": ["Shiki", "Barbanegra", "Gol D. Roger", "Barbablanca"],
+    "correcta": "Gol D. Roger"
+  },
+  {
+    "pregunta": "¿Qué tipo de arma usa Usopp principalmente?",
+    "opciones": ["Espadas", "Arcos y flechas", "Hondas", "Pistolas"],
+    "correcta": "Hondas"
+  },
+  {
+    "pregunta": "¿Quién es el científico loco que Luffy y Law rescatan en Punk Hazard?",
+    "opciones": ["Vegapunk", "Vinsmoke Judge", "Caesar Clown", "Dr. Hogback"],
+    "correcta": "Caesar Clown"
+  },
+  {
+    "pregunta": "¿Qué miembro de los Cuatro Emperadores es conocido por su amor a los dulces y la creación de su propio reino de comida?",
+    "opciones": ["Shanks", "Big Mom", "Kaido", "Barbanegra"],
+    "correcta": "Big Mom"
+  },
+  {
+    "pregunta": "¿Cómo se llama el abuelo de Luffy, vicealmirante de la Marina?",
+    "opciones": ["Sengoku", "Garp", "Kizaru", "Tsuru"],
+    "correcta": "Garp"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la isla donde Zoro entrenó con Mihawk durante el salto temporal?",
+    "opciones": ["Thriller Bark", "Kuraigana Island", "Amazon Lily", "Rusukaina"],
+    "correcta": "Kuraigana Island"
+  },
+  {
+    "pregunta": "¿Qué Fruta del Diablo le permite a Brook vivir después de su muerte?",
+    "opciones": ["Horo Horo no Mi", "Yomi Yomi no Mi", "Rezo Rezo no Mi", "Kage Kage no Mi"],
+    "correcta": "Yomi Yomi no Mi"
+  },
+  {
+    "pregunta": "¿Qué es el 'Red Line' en el mundo de One Piece?",
+    "opciones": ["Una tormenta en la Grand Line", "El nombre del primer mar", "Una cadena de islas", "Un continente de tierra roja"],
+    "correcta": "Un continente de tierra roja"
+  },
+  {
+    "pregunta": "¿Qué es el 'All Blue', el sueño de Sanji?",
+    "opciones": ["Un tesoro legendario", "Un mar donde se encuentran todos los peces del mundo", "El mar alrededor de Raftel", "Un tipo de pescado legendario"],
+    "correcta": "Un mar donde se encuentran todos los peces del mundo"
+  },
+  {
+    "pregunta": "¿Qué fruta del diablo le permite a Smoker transformarse en humo?",
+    "opciones": ["Moku Moku no Mi (Humohumo)", "Bara Bara no Mi", "Suna Suna no Mi", "Goro Goro no Mi"],
+    "correcta": "Moku Moku no Mi (Humohumo)"
+  },
+  {
+    "pregunta": "¿Cómo se llama el barco que fue 'enterrado' ceremonialmente en Water Seven?",
+    "opciones": ["Thousand Sunny", "Going Merry", "Oro Jackson", "Red Force"],
+    "correcta": "Going Merry"
+  },
+  {
+    "pregunta": "¿Cuál es el arma principal de Usopp después del salto temporal?",
+    "opciones": ["Pistola de chispa", "Kuro Kabuto", "Espadas", "Bazooka"],
+    "correcta": "Kuro Kabuto"
+  },
+  {
+    "pregunta": "¿Quién es la líder de las Kuja en Amazon Lily?",
+    "opciones": ["Boa Hancock", "Shakky", "Cindry", "Dadan"],
+    "correcta": "Boa Hancock"
+  }
+]

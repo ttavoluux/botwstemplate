@@ -1,0 +1,257 @@
+[
+  {
+    "pregunta": "¿Cuál es el archienemigo de Batman?",
+    "opciones": ["Lex Luthor", "Joker", "Riddler", "Harley Quinn"],
+    "correcta": "Joker"
+  },
+  {
+    "pregunta": "¿Cómo se llama el planeta natal de Superman?",
+    "opciones": ["Kripton", "Marte", "Venus", "Asgard"],
+    "correcta": "Kripton"
+  },
+  {
+    "pregunta": "¿Qué heroína pertenece a la Liga de la Justicia?",
+    "opciones": ["Capitana Marvel", "Viuda Negra", "Wonder Woman", "Gamora"],
+    "correcta": "Wonder Woman"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre real de The Flash (Barry Allen)?",
+    "opciones": ["Barry Allen", "Bruce Wayne", "Clark Kent", "Oliver Queen"],
+    "correcta": "Barry Allen"
+  },
+  {
+    "pregunta": "¿Qué ciudad protege Green Arrow?",
+    "opciones": ["Star City", "Central City", "Gotham City", "Metropolis"],
+    "correcta": "Star City"
+  },
+  {
+    "pregunta": "¿Quién es el líder de la Liga de la Justicia?",
+    "opciones": ["Superman", "Batman", "Wonder Woman", "Flash"],
+    "correcta": "Superman"
+  },
+  {
+    "pregunta": "¿Qué personaje usa un anillo de poder que se alimenta de la voluntad?",
+    "opciones": ["Green Lantern", "Flash", "Cyborg", "Aquaman"],
+    "correcta": "Green Lantern"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre real de Batman?",
+    "opciones": ["Bruce Wayne", "Clark Kent", "Barry Allen", "Oliver Queen"],
+    "correcta": "Bruce Wayne"
+  },
+  {
+    "pregunta": "¿Quién es el archienemigo de The Flash?",
+    "opciones": ["Zoom", "Reverse-Flash", "Captain Cold", "Gorilla Grodd"],
+    "correcta": "Reverse-Flash"
+  },
+  {
+    "pregunta": "¿Qué héroe es conocido como el 'Caballero Oscuro'?",
+    "opciones": ["Batman", "Green Arrow", "Nightwing", "Red Hood"],
+    "correcta": "Batman"
+  },
+  {
+    "pregunta": "¿Cómo se llama la hermana de The Flash en la serie?",
+    "opciones": ["Iris West", "Caitlin Snow", "Cecile Horton", "Allegra Garcia"],
+    "correcta": "Iris West"
+  },
+  {
+    "pregunta": "¿Qué personaje es el rey de la Atlántida?",
+    "opciones": ["Aquaman", "Ocean Master", "Black Manta", "Nereus"],
+    "correcta": "Aquaman"
+  },
+  {
+    "pregunta": "¿Quién interpreta a The Flash en la serie de CW?",
+    "opciones": ["Grant Gustin", "Stephen Amell", "Ezra Miller", "Candice Patton"],
+    "correcta": "Grant Gustin"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del equipo de héroes en 'Legends of Tomorrow'?",
+    "opciones": ["Los Legends", "Justice League", "Teen Titans", "Suicide Squad"],
+    "correcta": "Los Legends"
+  },
+  {
+    "pregunta": "¿Qué villano es conocido por usar acertijos y enigmas?",
+    "opciones": ["Riddler", "Joker", "Penguin", "Two-Face"],
+    "correcta": "Riddler"
+  },
+  {
+    "pregunta": "¿Quién es el padre biológico de Supergirl?",
+    "opciones": ["Zor-El", "Jor-El", "Dru-Zod", "Kal-El"],
+    "correcta": "Zor-El"
+  },
+  {
+    "pregunta": "¿Qué héroe tiene una debilidad por la kryptonita?",
+    "opciones": ["Superman", "Batman", "Wonder Woman", "Flash"],
+    "correcta": "Superman"
+  },
+  {
+    "pregunta": "¿Cómo se llama el alter ego de Black Canary?",
+    "opciones": ["Dinah Lance", "Laurel Lance", "Sara Lance", "Felicity Smoak"],
+    "correcta": "Dinah Lance"
+  },
+  {
+    "pregunta": "¿Quién es el fundador de STAR Labs?",
+    "opciones": ["Harrison Wells", "Cisco Ramon", "Caitlin Snow", "Ronnie Raymond"],
+    "correcta": "Harrison Wells"
+  },
+  {
+    "pregunta": "¿Qué personaje puede correr a la velocidad de la luz?",
+    "opciones": ["The Flash", "Superman", "Shazam", "Green Lantern"],
+    "correcta": "The Flash"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre real de Supergirl?",
+    "opciones": ["Kara Zor-El", "Kara Danvers", "Clark Kent", "Lena Luthor"],
+    "correcta": "Kara Zor-El"
+  },
+  {
+    "pregunta": "¿Quién es el vigilante que usa un arco y flechas?",
+    "opciones": ["Green Arrow", "Hawkeye", "Speedy", "Red Arrow"],
+    "correcta": "Green Arrow"
+  },
+  {
+    "pregunta": "¿Qué villano tiene dos caras?",
+    "opciones": ["Two-Face", "Joker", "Penguin", "Riddler"],
+    "correcta": "Two-Face"
+  },
+  {
+    "pregunta": "¿Cómo se llama el compañero de Batman?",
+    "opciones": ["Robin", "Nightwing", "Alfred", "Gordon"],
+    "correcta": "Robin"
+  },
+  {
+    "pregunta": "¿Quién es el dios griego que lucha con Wonder Woman?",
+    "opciones": ["Ares", "Zeus", "Hades", "Poseidon"],
+    "correcta": "Ares"
+  },
+  {
+    "pregunta": "¿Qué personaje es mitad humano mitad máquina?",
+    "opciones": ["Cyborg", "Steel", "Metallo", "Red Tornado"],
+    "correcta": "Cyborg"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del multiverso en DC?",
+    "opciones": ["Multiverso DC", "Crisis", "Speed Force", "Bleed"],
+    "correcta": "Multiverso DC"
+  },
+  {
+    "pregunta": "¿Quién es el enemigo principal en 'Arrow' temporada 1?",
+    "opciones": ["Malcolm Merlyn", "Slade Wilson", "Damien Darhk", "Ricardo Diaz"],
+    "correcta": "Malcolm Merlyn"
+  },
+  {
+    "pregunta": "¿Qué héroe puede volar y tiene visión de calor?",
+    "opciones": ["Superman", "Supergirl", "Martian Manhunter", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cómo se llama la fuerza que da poder a The Flash?",
+    "opciones": ["Speed Force", "Negative Speed Force", "Still Force", "Strength Force"],
+    "correcta": "Speed Force"
+  },
+  {
+    "pregunta": "¿Quién es el aliado tecnológico de Green Arrow?",
+    "opciones": ["Felicity Smoak", "Cisco Ramon", "Curtis Holt", "Walter Steele"],
+    "correcta": "Felicity Smoak"
+  },
+  {
+    "pregunta": "¿Qué villano es conocido como el 'Príncipe Payaso del Crimen'?",
+    "opciones": ["Joker", "Riddler", "Penguin", "Mad Hatter"],
+    "correcta": "Joker"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del periódico donde trabaja Clark Kent?",
+    "opciones": ["Daily Planet", "Gotham Gazette", "Central City Picture", "Star City Tribune"],
+    "correcta": "Daily Planet"
+  },
+  {
+    "pregunta": "¿Quién es la contraparte femenina de The Flash?",
+    "opciones": ["Jesse Quick", "XS", "Impulse", "Kid Flash"],
+    "correcta": "Jesse Quick"
+  },
+  {
+    "pregunta": "¿Qué equipo de villanos aparece en 'Suicide Squad'?",
+    "opciones": ["Escuadrón Suicida", "Legión del Mal", "Sociedad Secreta", "Injustice League"],
+    "correcta": "Escuadrón Suicida"
+  },
+  {
+    "pregunta": "¿Cómo se llama el mayordomo de Batman?",
+    "opciones": ["Alfred Pennyworth", "Lucius Fox", "James Gordon", "Dick Grayson"],
+    "correcta": "Alfred Pennyworth"
+  },
+  {
+    "pregunta": "¿Quién es el hermano de The Flash en la serie?",
+    "opciones": ["Wally West", "Eddie Thawne", "Julian Albert", "No tiene hermano"],
+    "correcta": "Wally West"
+  },
+  {
+    "pregunta": "¿Qué héroe tiene un martillo mágico?",
+    "opciones": ["Shazam", "Thor", "Wonder Woman", "Doctor Fate"],
+    "correcta": "Shazam"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre real de Reverse-Flash?",
+    "opciones": ["Eobard Thawne", "Hunter Zolomon", "Daniel West", "Edward Clariss"],
+    "correcta": "Eobard Thawne"
+  },
+  {
+    "pregunta": "¿Qué personaje es la novia de The Flash?",
+    "opciones": ["Iris West", "Caitlin Snow", "Linda Park", "Patty Spivot"],
+    "correcta": "Iris West"
+  },
+  {
+    "pregunta": "¿Quién es el fundador de Queen Consolidated?",
+    "opciones": ["Robert Queen", "Oliver Queen", "Malcolm Merlyn", "Walter Steele"],
+    "correcta": "Robert Queen"
+  },
+  {
+    "pregunta": "¿Qué villano puede controlar el clima?",
+    "opciones": ["Weather Wizard", "Captain Cold", "Heat Wave", "Trickster"],
+    "correcta": "Weather Wizard"
+  },
+  {
+    "pregunta": "¿Cómo se llama la hermana de Green Arrow?",
+    "opciones": ["Thea Queen", "Mia Smoak", "Sara Lance", "Laurel Lance"],
+    "correcta": "Thea Queen"
+  },
+  {
+    "pregunta": "¿Qué personaje es conocido como el 'Detective Marciano'?",
+    "opciones": ["Martian Manhunter", "Batman", "The Question", "Rorschach"],
+    "correcta": "Martian Manhunter"
+  },
+  {
+    "pregunta": "¿Quién es el líder de los Green Lanterns?",
+    "opciones": ["Sinestro", "Hal Jordan", "John Stewart", "Kilowog"],
+    "correcta": "Hal Jordan"
+  },
+  {
+    "pregunta": "¿Qué evento crossover unió todas las series de CW?",
+    "opciones": ["Crisis on Infinite Earths", "Flashpoint", "Invasion!", "Elseworlds"],
+    "correcta": "Crisis on Infinite Earths"
+  },
+  {
+    "pregunta": "¿Cómo se llama el alter ego de Killer Frost?",
+    "opciones": ["Caitlin Snow", "Louise Lincoln", "Crystal Frost", "Carla Moretti"],
+    "correcta": "Caitlin Snow"
+  },
+  {
+    "pregunta": "¿Quién es el enemigo que posee el anillo amarillo?",
+    "opciones": ["Sinestro", "Atrocitus", "Larfleeze", "Star Sapphire"],
+    "correcta": "Sinestro"
+  },
+  {
+    "pregunta": "¿Qué héroe tiene un lazo de la verdad?",
+    "opciones": ["Wonder Woman", "Batman", "Green Arrow", "Black Canary"],
+    "correcta": "Wonder Woman"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del hijo de Oliver Queen?",
+    "opciones": ["William Clayton", "Connor Hawke", "Roy Harper", "John Diggle Jr."],
+    "correcta": "William Clayton"
+  },
+  {
+    "pregunta": "¿Qué personaje puede cambiar de forma?",
+    "opciones": ["Martian Manhunter", "Plastic Man", "Clayface", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  }
+]

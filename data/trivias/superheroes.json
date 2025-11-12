@@ -1,0 +1,127 @@
+[
+  {
+    "pregunta": "¿Cuál es el verdadero nombre de Batman?",
+    "opciones": ["Clark Kent", "Tony Stark", "Bruce Wayne", "Peter Parker"],
+    "correcta": "Bruce Wayne"
+  },
+  {
+    "pregunta": "¿Qué superhéroe es conocido como 'El Hombre Araña'?",
+    "opciones": ["Iron Man", "Spider-Man", "Flash", "Superman"],
+    "correcta": "Spider-Man"
+  },
+  {
+    "pregunta": "¿Cuál es el punto débil de Superman?",
+    "opciones": ["Kriptonita", "Fuego", "Magia", "Luz solar"],
+    "correcta": "Kriptonita"
+  },
+  {
+    "pregunta": "¿Cómo se llama el martillo de Thor?",
+    "opciones": ["Stormbreaker", "Jarnbjorn", "Mjölnir", "Gungnir"],
+    "correcta": "Mjölnir"
+  },
+  {
+    "pregunta": "¿Quién es el archienemigo de Flash, conocido por su velocidad inversa?",
+    "opciones": ["Capitán Frío", "Reverse-Flash", "Zoom", "Profesor Zoom"],
+    "correcta": "Reverse-Flash"
+  },
+  {
+    "pregunta": "¿Qué actor interpretó a Iron Man en el Universo Cinematográfico de Marvel (UCM)?",
+    "opciones": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"],
+    "correcta": "Robert Downey Jr."
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del planeta natal de Wonder Woman?",
+    "opciones": ["Apokolips", "Themyscira", "Atlantis", "Metropolis"],
+    "correcta": "Themyscira"
+  },
+  {
+    "pregunta": "¿Qué gema del infinito posee Visión al inicio de su existencia?",
+    "opciones": ["Gema del Espacio", "Gema del Poder", "Gema de la Mente", "Gema del Tiempo"],
+    "correcta": "Gema de la Mente"
+  },
+  {
+    "pregunta": "¿Qué superhéroe es un experto en artes marciales y tiene el traje de murciélago?",
+    "opciones": ["Green Arrow", "Nightwing", "Daredevil", "Batman"],
+    "correcta": "Batman"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del primer villano importante que Spider-Man enfrenta en la primera película del UCM ('Homecoming')?",
+    "opciones": ["Duende Verde", "Doctor Octopus", "Vulture (El Buitre)", "Mysterio"],
+    "correcta": "Vulture (El Buitre)"
+  },
+  {
+    "pregunta": "¿Cómo se llama el mayordomo y mentor de Bruce Wayne?",
+    "opciones": ["Lucius Fox", "Jim Gordon", "Alfred Pennyworth", "Harvey Bullock"],
+    "correcta": "Alfred Pennyworth"
+  },
+  {
+    "pregunta": "¿Qué superhéroe de Marvel tiene la habilidad de encogerse y crecer de tamaño?",
+    "opciones": ["Hulk", "Ant-Man", "Wasp", "Iron Man"],
+    "correcta": "Ant-Man"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del principal enemigo de Black Panther en Wakanda, también conocido como Erik Stevens?",
+    "opciones": ["Ulysses Klaue", "M'Baku", "Killmonger", "Zemo"],
+    "correcta": "Killmonger"
+  },
+  {
+    "pregunta": "¿Qué grupo de superhéroes de Marvel se enfrenta a Thanos en 'Infinity War' y 'Endgame'?",
+    "opciones": ["X-Men", "Cuatro Fantásticos", "Vengadores (Avengers)", "Guardianes de la Galaxia"],
+    "correcta": "Vengadores (Avengers)"
+  },
+  {
+    "pregunta": "¿Qué superhéroe tiene el poder de la supervelocidad y es conocido como 'El Velocista Escarlata'?",
+    "opciones": ["Superman", "Quicksilver", "Flash", "Zoom"],
+    "correcta": "Flash"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del alter ego de la Capitana Marvel?",
+    "opciones": ["Natasha Romanoff", "Wanda Maximoff", "Carol Danvers", "Hope van Dyne"],
+    "correcta": "Carol Danvers"
+  },
+  {
+    "pregunta": "¿De qué elemento está hecho el esqueleto de Wolverine?",
+    "opciones": ["Vibranium", "Titanio", "Adamantium", "Kriptonita"],
+    "correcta": "Adamantium"
+  },
+  {
+    "pregunta": "¿Qué villano de DC es un genio criminal con un miedo irracional a los murciélagos?",
+    "opciones": ["El Acertijo", "El Pingüino", "El Joker", "Dos Caras"],
+    "correcta": "El Joker"
+  },
+  {
+    "pregunta": "¿Cómo se llama el escudo del Capitán América?",
+    "opciones": ["Adamantium", "Vibranium", "Promethium", "Uru"],
+    "correcta": "Vibranium"
+  },
+  {
+    "pregunta": "¿Qué actriz interpretó a la Mujer Maravilla (Wonder Woman) en las películas recientes de DC?",
+    "opciones": ["Brie Larson", "Scarlett Johansson", "Gal Gadot", "Margot Robbie"],
+    "correcta": "Gal Gadot"
+  },
+  {
+    "pregunta": "¿Cuál es el color principal del traje de Doctor Strange?",
+    "opciones": ["Rojo y Azul", "Verde y Naranja", "Azul y Dorado", "Rojo y Verde"],
+    "correcta": "Rojo y Azul"
+  },
+  {
+    "pregunta": "¿Qué miembro de los Vengadores es un arquero experto, conocido como 'Hawkeye'?",
+    "opciones": ["Clint Barton", "Scott Lang", "Sam Wilson", "Bucky Barnes"],
+    "correcta": "Clint Barton"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del lugar donde Spider-Man vive y trabaja como fotógrafo?",
+    "opciones": ["Gotham City", "Central City", "New York City", "Metropolis"],
+    "correcta": "New York City"
+  },
+  {
+    "pregunta": "¿Qué personaje de DC es un detective y tiene la habilidad de hablar con los muertos?",
+    "opciones": ["Constantine", "Deadman", "Zatanna", "Doctor Fate"],
+    "correcta": "Deadman"
+  },
+  {
+    "pregunta": "¿Cómo se llama el arma que utiliza Aquaman, un rey de la Atlántida?",
+    "opciones": ["Espada de Atenea", "Tridente", "Mjölnir", "Lanza del Destino"],
+    "correcta": "Tridente"
+  }
+]

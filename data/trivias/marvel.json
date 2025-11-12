@@ -1,0 +1,307 @@
+[
+  {
+    "pregunta": "¿Qué metal compone el escudo del Capitán América?",
+    "opciones": ["Adamantium", "Vibranium", "Titanio", "Hierro"],
+    "correcta": "Vibranium"
+  },
+  {
+    "pregunta": "¿Cuál es el verdadero nombre de Iron Man?",
+    "opciones": ["Steve Rogers", "Tony Stark", "Bruce Banner", "Peter Parker"],
+    "correcta": "Tony Stark"
+  },
+  {
+    "pregunta": "¿Qué gema controla la mente?",
+    "opciones": ["Gema del Tiempo", "Gema del Poder", "Gema de la Mente", "Gema del Espacio"],
+    "correcta": "Gema de la Mente"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la organización de espionaje y mantenimiento de la paz que Nick Fury dirige?",
+    "opciones": ["S.W.O.R.D.", "A.I.M.", "Hydra", "S.H.I.E.L.D."],
+    "correcta": "S.H.I.E.L.D."
+  },
+  {
+    "pregunta": "¿Cómo se llama el martillo de Thor antes de 'Ragnarok'?",
+    "opciones": ["Stormbreaker", "Jarnbjorn", "Gungnir", "Mjölnir"],
+    "correcta": "Mjölnir"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del planeta natal de Thor?",
+    "opciones": ["Vanaheim", "Midgard", "Asgard", "Jotunheim"],
+    "correcta": "Asgard"
+  },
+  {
+    "pregunta": "¿Quién es el actor que interpreta a Doctor Strange?",
+    "opciones": ["Tom Hiddleston", "Benedict Cumberbatch", "Jake Gyllenhaal", "Chris Pratt"],
+    "correcta": "Benedict Cumberbatch"
+  },
+  {
+    "pregunta": "¿Qué personaje es conocido por el apodo 'El Soldado del Invierno'?",
+    "opciones": ["Sam Wilson", "James Rhodes", "Bucky Barnes", "Clint Barton"],
+    "correcta": "Bucky Barnes"
+  },
+  {
+    "pregunta": "¿Quién es la hermana mayor de Thor?",
+    "opciones": ["Amora", "Lady Sif", "Hela", "Valkyrie"],
+    "correcta": "Hela"
+  },
+  {
+    "pregunta": "¿Cuál es la especialidad médica de Stephen Strange?",
+    "opciones": ["Cirujano Cardiovascular", "Neurocirujano", "Oftalmólogo", "Psiquiatra"],
+    "correcta": "Neurocirujano"
+  },
+  {
+    "pregunta": "¿En qué país ficticio se encuentra la fuente principal de Vibranium?",
+    "opciones": ["Latveria", "Sokovia", "Madripoor", "Wakanda"],
+    "correcta": "Wakanda"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del villano principal en 'Black Panther' (2018)?",
+    "opciones": ["Klaw", "Baron Zemo", "Killmonger", "M'Baku"],
+    "correcta": "Killmonger"
+  },
+  {
+    "pregunta": "¿Qué personaje de 'Guardianes de la Galaxia' solo dice 'Yo soy Groot'?",
+    "opciones": ["Rocket", "Drax", "Groot", "Mantis"],
+    "correcta": "Groot"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la inteligencia artificial de Tony Stark que luego se convierte en Visión?",
+    "opciones": ["F.R.I.D.A.Y.", "E.D.I.T.H.", "K.A.R.E.N.", "J.A.R.V.I.S."],
+    "correcta": "J.A.R.V.I.S."
+  },
+  {
+    "pregunta": "¿Qué personaje es conocido por encogerse a tamaño subatómico con su traje?",
+    "opciones": ["Wasp", "Giant-Man", "Capitana Marvel", "Ant-Man"],
+    "correcta": "Ant-Man"
+  },
+  {
+    "pregunta": "¿Cuál es la Gema del Infinito que Thanos entrega a cambio de Gamora?",
+    "opciones": ["Gema del Tiempo", "Gema del Alma", "Gema de la Realidad", "Gema del Espacio"],
+    "correcta": "Gema del Alma"
+  },
+  {
+    "pregunta": "¿Cuál es el verdadero nombre de Black Widow?",
+    "opciones": ["Yelena Belova", "Maria Hill", "Shuri", "Natasha Romanoff"],
+    "correcta": "Natasha Romanoff"
+  },
+  {
+    "pregunta": "¿Quién se convierte en el Capitán América después de Steve Rogers en el MCU?",
+    "opciones": ["Bucky Barnes", "James Rhodes", "Sam Wilson", "Scott Lang"],
+    "correcta": "Sam Wilson"
+  },
+  {
+    "pregunta": "¿Qué personaje se transforma en Hulk al exponerse a la radiación gamma?",
+    "opciones": ["Tony Stark", "Bruce Banner", "Clint Barton", "Hank Pym"],
+    "correcta": "Bruce Banner"
+  },
+  {
+    "pregunta": "¿Cómo se llama la base de operaciones de los Vengadores en 'Endgame'?",
+    "opciones": ["La Torre Stark", "El Triskelion", "La Granja", "El Complejo de los Vengadores"],
+    "correcta": "El Complejo de los Vengadores"
+  },
+  {
+    "pregunta": "¿Quién es el villano principal en 'Spider-Man: Homecoming'?",
+    "opciones": ["Mysterio", "El Buitre", "Doctor Octopus", "El Duende Verde"],
+    "correcta": "El Buitre"
+  },
+  {
+    "pregunta": "¿Cuál es la raza alienígena que invade la Tierra en 'The Avengers' (2012)?",
+    "opciones": ["Kree", "Skrulls", "Chitauri", "Eternos"],
+    "correcta": "Chitauri"
+  },
+  {
+    "pregunta": "¿Qué gema permite a Doctor Strange manipular el tiempo?",
+    "opciones": ["Gema del Poder", "Gema del Alma", "Gema del Tiempo", "Gema del Espacio"],
+    "correcta": "Gema del Tiempo"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del traje blindado más avanzado de Iron Man?",
+    "opciones": ["Máquina de Guerra", "Hulkbuster", "Mark LXXXV (85)", "Silver Centurion"],
+    "correcta": "Mark LXXXV (85)"
+  },
+  {
+    "pregunta": "¿Cuál es la frase icónica que Capitán América dice en la batalla?",
+    "opciones": ["¡Vengadores, uníos!", "¡A la izquierda!", "¡Hulk aplasta!", "¡Capitán América al ataque!"],
+    "correcta": "¡Vengadores, uníos!"
+  },
+  {
+    "pregunta": "¿Quién es el padre de Peter Quill (Star-Lord)?",
+    "opciones": ["Yondu", "Thanos", "Ego", "El Coleccionista"],
+    "correcta": "Ego"
+  },
+  {
+    "pregunta": "¿Qué personaje es el líder de los Guardianes de la Galaxia?",
+    "opciones": ["Gamora", "Rocket", "Drax", "Star-Lord"],
+    "correcta": "Star-Lord"
+  },
+  {
+    "pregunta": "¿En qué película del MCU debuta Black Panther?",
+    "opciones": ["Black Panther", "Capitán América: El Soldado del Invierno", "Capitán América: Civil War", "Avengers: Era de Ultrón"],
+    "correcta": "Capitán América: Civil War"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del hechicero supremo antes de Stephen Strange?",
+    "opciones": ["Wong", "Mordo", "El Anciano (Ancient One)", "Agamotto"],
+    "correcta": "El Anciano (Ancient One)"
+  },
+  {
+    "pregunta": "¿Qué superhéroe es un arquero experto en los Vengadores?",
+    "opciones": ["Falcon", "Hawkeye (Ojo de Halcón)", "War Machine", "Ant-Man"],
+    "correcta": "Hawkeye (Ojo de Halcón)"
+  },
+  {
+    "pregunta": "¿Qué tipo de arma blande Gamora?",
+    "opciones": ["Un rifle láser", "Una espada", "Un mazo", "Un arco y flecha"],
+    "correcta": "Una espada"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la organización de terrorismo que fue infiltrada en S.H.I.E.L.D.?",
+    "opciones": ["The Hand", "A.I.M.", "Hydra", "The Ten Rings"],
+    "correcta": "Hydra"
+  },
+  {
+    "pregunta": "¿Quién es el actor que interpreta a Loki?",
+    "opciones": ["Chris Hemsworth", "Idris Elba", "Tom Hiddleston", "Matt Damon"],
+    "correcta": "Tom Hiddleston"
+  },
+  {
+    "pregunta": "¿Cuál es el verdadero nombre de Hawkeye?",
+    "opciones": ["Scott Lang", "Clint Barton", "Pietro Maximoff", "Phil Coulson"],
+    "correcta": "Clint Barton"
+  },
+  {
+    "pregunta": "¿Qué personaje se sacrifica en Vormir por la Gema del Alma?",
+    "opciones": ["Iron Man", "Capitán América", "Hulk", "Black Widow"],
+    "correcta": "Black Widow"
+  },
+  {
+    "pregunta": "¿De qué planeta viene Capitana Marvel (Carol Danvers)?",
+    "opciones": ["Tierra", "Hala", "Xandar", "Titan"],
+    "correcta": "Tierra"
+  },
+  {
+    "pregunta": "¿Cómo se llama el 'nuevo' martillo/hacha de Thor forjado en 'Infinity War'?",
+    "opciones": ["Mjölnir", "Jarnbjorn", "Stormbreaker", "Gungnir"],
+    "correcta": "Stormbreaker"
+  },
+  {
+    "pregunta": "¿Quién fue el villano que intentó usar la Gema de la Mente en 'The Avengers' (2012)?",
+    "opciones": ["Thanos", "Ultrón", "Loki", "Malekith"],
+    "correcta": "Loki"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la novia científica de Thor?",
+    "opciones": ["Jane Foster", "Darcy Lewis", "Pepper Potts", "Betty Ross"],
+    "correcta": "Jane Foster"
+  },
+  {
+    "pregunta": "¿En qué película aparece por primera vez Thanos en una escena post-créditos?",
+    "opciones": ["Iron Man", "The Avengers (2012)", "Thor", "Guardianes de la Galaxia"],
+    "correcta": "The Avengers (2012)"
+  },
+  {
+    "pregunta": "¿Cuál es el verdadero nombre de la Bruja Escarlata?",
+    "opciones": ["Darcy Lewis", "Maria Hill", "Wanda Maximoff", "Shuri"],
+    "correcta": "Wanda Maximoff"
+  },
+  {
+    "pregunta": "¿Quién es el villano principal en 'Capitán América: El Primer Vengador'?",
+    "opciones": ["Baron Zemo", "Red Skull (Cráneo Rojo)", "Arnim Zola", "Crossbones"],
+    "correcta": "Red Skull (Cráneo Rojo)"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del traje de Iron Man con el que derrota a Obadiah Stane en la primera película?",
+    "opciones": ["Mark I", "Mark II", "Mark III", "Mark IV"],
+    "correcta": "Mark III"
+  },
+  {
+    "pregunta": "¿Qué personaje tiene la capacidad de cambiar de tamaño de forma masiva (encogerse y agrandarse)?",
+    "opciones": ["Iron Man", "Capitán América", "Hulk", "Ant-Man"],
+    "correcta": "Ant-Man"
+  },
+  {
+    "pregunta": "¿Qué Gema del Infinito estaba custodiada por El Coleccionista en Knowhere?",
+    "opciones": ["Gema del Poder", "Gema del Tiempo", "Gema del Alma", "Gema de la Mente"],
+    "correcta": "Gema del Poder"
+  },
+  {
+    "pregunta": "¿Qué animal es Rocket de 'Guardianes de la Galaxia'?",
+    "opciones": ["Tejón", "Mapache", "Conejo", "Zorro"],
+    "correcta": "Mapache"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del mentor de Peter Parker en 'Spider-Man: Homecoming'?",
+    "opciones": ["Tío Ben", "Nick Fury", "Tony Stark", "Happy Hogan"],
+    "correcta": "Tony Stark"
+  },
+  {
+    "pregunta": "¿Qué personaje es el jefe de Nick Fury en 'Capitán América: El Soldado del Invierno'?",
+    "opciones": ["Alexander Pierce", "Jasper Sitwell", "Maria Hill", "Peggy Carter"],
+    "correcta": "Alexander Pierce"
+  },
+  {
+    "pregunta": "¿Cómo se llama el reino cuántico al que viajan en 'Ant-Man'?",
+    "opciones": ["Microverse", "Quantum Realm", "Sub-atómico", "El Vacío"],
+    "correcta": "Quantum Realm"
+  },
+  {
+    "pregunta": "¿Qué objeto se utiliza para contener la Gema del Espacio al principio del MCU?",
+    "opciones": ["El Cetro", "El Ojo de Agamotto", "El Teseracto", "El Éter"],
+    "correcta": "El Teseracto"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del lugar donde se encuentra la Gema del Alma en 'Infinity War'?",
+    "opciones": ["Titan", "Knowhere", "Vormir", "Sakaar"],
+    "correcta": "Vormir"
+  },
+  {
+    "pregunta": "¿Quién es el villano que crea el androide Ultrón?",
+    "opciones": ["Loki", "Thanos", "Tony Stark y Bruce Banner", "Nick Fury"],
+    "correcta": "Tony Stark y Bruce Banner"
+  },
+  {
+    "pregunta": "¿Qué personaje utiliza un escudo de energía dorado en el MCU?",
+    "opciones": ["Máquina de Guerra", "Visión", "Capitana Marvel", "Doctor Strange"],
+    "correcta": "Capitana Marvel"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del perro que pertenece a la familia Barton (Hawkeye)?",
+    "opciones": ["Cosmo", "Lucky (Pizza Dog)", "Lockjaw", "Redwing"],
+    "correcta": "Lucky (Pizza Dog)"
+  },
+  {
+    "pregunta": "¿Quién es el Rey de Wakanda antes de T'Challa en la línea de tiempo principal del MCU?",
+    "opciones": ["Shuri", "N'Jobu", "T'Chaka", "M'Baku"],
+    "correcta": "T'Chaka"
+  },
+  {
+    "pregunta": "¿Cómo se llama el ex-agente de S.H.I.E.L.D. y amigo de Capitán América que se convierte en Falcon?",
+    "opciones": ["Bucky Barnes", "James Rhodes", "Sam Wilson", "Clint Barton"],
+    "correcta": "Sam Wilson"
+  },
+  {
+    "pregunta": "¿Qué personaje es conocido por su traje de 'Máquina de Guerra'?",
+    "opciones": ["Happy Hogan", "James Rhodes", "Obadiah Stane", "Pepper Potts"],
+    "correcta": "James Rhodes"
+  },
+  {
+    "pregunta": "¿En qué película del MCU se presenta al personaje de Shang-Chi?",
+    "opciones": ["Eternals", "Shang-Chi y la leyenda de los Diez Anillos", "Doctor Strange", "Spider-Man: No Way Home"],
+    "correcta": "Shang-Chi y la leyenda de los Diez Anillos"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la madre biológica de Peter Quill?",
+    "opciones": ["Meredith Quill", "Gamora", "Nebula", "Mantis"],
+    "correcta": "Meredith Quill"
+  },
+  {
+    "pregunta": "¿Quién es la actriz que interpreta a la Bruja Escarlata (Wanda Maximoff)?",
+    "opciones": ["Hayley Atwell", "Elizabeth Olsen", "Scarlett Johansson", "Tessa Thompson"],
+    "correcta": "Elizabeth Olsen"
+  },
+  {
+    "pregunta": "¿Qué Gema del Infinito puede alterar la realidad a voluntad?",
+    "opciones": ["Gema de la Realidad", "Gema del Poder", "Gema del Tiempo", "Gema del Espacio"],
+    "correcta": "Gema de la Realidad"
+  }
+]

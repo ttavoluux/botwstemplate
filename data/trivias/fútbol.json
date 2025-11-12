@@ -1,0 +1,632 @@
+[
+  {
+    "pregunta": "¿Qué selección ha ganado más Copas Mundiales de la FIFA?",
+    "opciones": ["Alemania", "Italia", "Argentina", "Brasil"],
+    "correcta": "Brasil"
+  },
+  {
+    "pregunta": "¿En qué país se celebró la Copa Mundial de 2014?",
+    "opciones": ["Alemania", "Sudáfrica", "Brasil", "Rusia"],
+    "correcta": "Brasil"
+  },
+  {
+    "pregunta": "¿Qué país ganó el Mundial de 2022, celebrado en Qatar?",
+    "opciones": ["Francia", "Argentina", "Croacia", "Marruecos"],
+    "correcta": "Argentina"
+  },
+  {
+    "pregunta": "¿Qué jugador es el máximo goleador histórico en la Copa Mundial de la FIFA?",
+    "opciones": ["Pelé", "Ronaldo Nazário", "Miroslav Klose", "Lionel Messi"],
+    "correcta": "Miroslav Klose"
+  },
+  {
+    "pregunta": "¿Qué selección es conocida como 'La Roja'?",
+    "opciones": ["Chile", "España", "Portugal", "Argentina"],
+    "correcta": "España"
+  },
+  {
+    "pregunta": "¿Cuál fue el primer país africano en llegar a cuartos de final de un Mundial?",
+    "opciones": ["Nigeria", "Camerún", "Senegal", "Ghana"],
+    "correcta": "Camerún"
+  },
+  {
+    "pregunta": "¿Cuántos Mundiales ha ganado Diego Maradona con Argentina?",
+    "opciones": ["Cero", "Uno", "Dos", "Tres"],
+    "correcta": "Uno"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1998 en su propio país?",
+    "opciones": ["Brasil", "Italia", "Francia", "Alemania"],
+    "correcta": "Francia"
+  },
+  {
+    "pregunta": "¿Quién es el único jugador en ganar tres Copas Mundiales de la FIFA?",
+    "opciones": ["Beckenbauer", "Maradona", "Zidane", "Pelé"],
+    "correcta": "Pelé"
+  },
+  {
+    "pregunta": "¿En qué país se celebrará el Mundial de 2026?",
+    "opciones": ["Estados Unidos, México y Canadá", "España, Portugal y Marruecos", "China", "Inglaterra y Escocia"],
+    "correcta": "Estados Unidos, México y Canadá"
+  },
+  {
+    "pregunta": "¿Cuál es la selección que más veces ha llegado a la final del Mundial sin ganarla?",
+    "opciones": ["Francia", "Países Bajos", "Hungría", "Bélgica"],
+    "correcta": "Países Bajos"
+  },
+  {
+    "pregunta": "¿Qué país fue sede del primer Mundial de la FIFA en 1930?",
+    "opciones": ["Italia", "Uruguay", "Brasil", "Argentina"],
+    "correcta": "Uruguay"
+  },
+  {
+    "pregunta": "¿Cuál es el apodo de la selección nacional de fútbol de Brasil?",
+    "opciones": ["La Celeste", "La Albiceleste", "La Canarinha", "Los Cafeteros"],
+    "correcta": "La Canarinha"
+  },
+  {
+    "pregunta": "¿Qué jugador anotó el gol de la victoria en la final del Mundial 2010 para España?",
+    "opciones": ["Xavi", "David Villa", "Andrés Iniesta", "Fernando Torres"],
+    "correcta": "Andrés Iniesta"
+  },
+  {
+    "pregunta": "¿Qué delantero brasileño es conocido como 'O Fenômeno'?",
+    "opciones": ["Pelé", "Romário", "Ronaldo Nazário", "Neymar"],
+    "correcta": "Ronaldo Nazário"
+  },
+  {
+    "pregunta": "¿Qué equipo ha ganado más veces la UEFA Champions League/Copa de Europa?",
+    "opciones": ["FC Barcelona", "AC Milan", "Real Madrid", "Bayern Múnich"],
+    "correcta": "Real Madrid"
+  },
+  {
+    "pregunta": "¿Quién es el máximo goleador histórico de la UEFA Champions League?",
+    "opciones": ["Raúl", "Lionel Messi", "Karim Benzema", "Cristiano Ronaldo"],
+    "correcta": "Cristiano Ronaldo"
+  },
+  {
+    "pregunta": "¿Cuántas Champions League ha ganado el FC Barcelona?",
+    "opciones": ["Tres", "Cuatro", "Cinco", "Seis"],
+    "correcta": "Cinco"
+  },
+  {
+    "pregunta": "¿Qué club inglés ganó la Champions League en 1999 con dos goles en el descuento contra el Bayern?",
+    "opciones": ["Liverpool", "Arsenal", "Manchester United", "Chelsea"],
+    "correcta": "Manchester United"
+  },
+  {
+    "pregunta": "¿Cuál es el único club neerlandés que ha ganado la Champions League en el formato moderno (desde 1992)?",
+    "opciones": ["PSV Eindhoven", "Feyenoord", "Ajax", "Ninguno"],
+    "correcta": "Ajax"
+  },
+  {
+    "pregunta": "¿Qué ciudad fue sede de la final de la Champions League de 2005 (El Milagro de Estambul)?",
+    "opciones": ["Atenas", "Milán", "Estambul", "Roma"],
+    "correcta": "Estambul"
+  },
+  {
+    "pregunta": "¿Qué jugador ha ganado más Champions League en la historia (incluyendo la Copa de Europa)?",
+    "opciones": ["Paolo Maldini", "Francisco Gento", "Cristiano Ronaldo", "Alfredo Di Stéfano"],
+    "correcta": "Francisco Gento"
+  },
+  {
+    "pregunta": "¿Cuál fue el primer equipo en ganar la Champions League sin perder un solo partido (en el formato moderno)?",
+    "opciones": ["AC Milan", "Real Madrid", "Manchester United", "Barcelona"],
+    "correcta": "AC Milan"
+  },
+  {
+    "pregunta": "¿Qué jugador ha marcado más goles en una sola edición de la Champions League?",
+    "opciones": ["Lionel Messi", "Robert Lewandowski", "Cristiano Ronaldo", "Benzema"],
+    "correcta": "Cristiano Ronaldo"
+  },
+  {
+    "pregunta": "¿Cuál es el máximo organismo rector del fútbol europeo?",
+    "opciones": ["FIFA", "CONMEBOL", "UEFA", "CAF"],
+    "correcta": "UEFA"
+  },
+  {
+    "pregunta": "¿Qué equipo venció el Real Madrid en la final de la Champions League de 2014 ('La Décima')?",
+    "opciones": ["Bayern Múnich", "Borussia Dortmund", "Atlético de Madrid", "Juventus"],
+    "correcta": "Atlético de Madrid"
+  },
+  {
+    "pregunta": "¿Qué equipo español aparte del Real Madrid y el Barcelona ha ganado la Champions League/Copa de Europa?",
+    "opciones": ["Atlético de Madrid", "Sevilla", "Valencia", "Ninguno"],
+    "correcta": "Ninguno"
+  },
+  {
+    "pregunta": "¿Cuántos clubes alemanes han ganado la Copa de Europa/Champions League?",
+    "opciones": ["Dos", "Tres", "Cuatro", "Cinco"],
+    "correcta": "Tres"
+  },
+  {
+    "pregunta": "¿Qué equipo francés ha ganado la Champions League?",
+    "opciones": ["PSG", "Olympique de Marsella", "AS Monaco", "Lyon"],
+    "correcta": "Olympique de Marsella"
+  },
+  {
+    "pregunta": "¿Cuál es el club con más títulos de liga en España (La Liga)?",
+    "opciones": ["Atlético de Madrid", "Valencia CF", "Real Madrid", "FC Barcelona"],
+    "correcta": "Real Madrid"
+  },
+  {
+    "pregunta": "¿Cuántos Balones de Oro ha ganado Lionel Messi?",
+    "opciones": ["Cinco", "Seis", "Ocho", "Siete"],
+    "correcta": "Ocho"
+  },
+  {
+    "pregunta": "¿En qué club hizo su debut profesional Lionel Messi?",
+    "opciones": ["Newell's Old Boys", "Paris Saint-Germain", "FC Barcelona", "Inter Miami"],
+    "correcta": "FC Barcelona"
+  },
+  {
+    "pregunta": "¿Qué entrenador llevó a Messi a su máximo rendimiento en el FC Barcelona, instaurando el 'Tiki-Taka'?",
+    "opciones": ["Frank Rijkaard", "Tito Vilanova", "Pep Guardiola", "Luis Enrique"],
+    "correcta": "Pep Guardiola"
+  },
+  {
+    "pregunta": "¿Qué torneo de selecciones ganó Messi por primera vez con Argentina en 2021?",
+    "opciones": ["Copa América", "Finalissima", "Copa Mundial", "Juegos Olímpicos"],
+    "correcta": "Copa América"
+  },
+  {
+    "pregunta": "¿Qué número de dorsal ha llevado Messi la mayor parte de su carrera en el Barça?",
+    "opciones": ["19", "10", "30", "7"],
+    "correcta": "10"
+  },
+  {
+    "pregunta": "¿En qué club comenzó Cristiano Ronaldo su carrera profesional?",
+    "opciones": ["Manchester United", "Sporting de Lisboa", "Juventus", "Real Madrid"],
+    "correcta": "Sporting de Lisboa"
+  },
+  {
+    "pregunta": "¿Cuántas Champions League ganó Cristiano Ronaldo con el Real Madrid?",
+    "opciones": ["Tres", "Cuatro", "Cinco", "Seis"],
+    "correcta": "Cuatro"
+  },
+  {
+    "pregunta": "¿Cuál fue el dorsal de Cristiano Ronaldo en el Manchester United y el Real Madrid?",
+    "opciones": ["7", "9", "17", "10"],
+    "correcta": "7"
+  },
+  {
+    "pregunta": "¿En qué año ganó Cristiano Ronaldo su primera Eurocopa con Portugal?",
+    "opciones": ["2004", "2012", "2016", "2021"],
+    "correcta": "2016"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del estadio del Real Madrid?",
+    "opciones": ["Camp Nou", "Wanda Metropolitano", "Santiago Bernabéu", "Mestalla"],
+    "correcta": "Santiago Bernabéu"
+  },
+  {
+    "pregunta": "¿Qué equipo español ganó la Copa Libertadores en 1992?",
+    "opciones": ["FC Barcelona", "Real Madrid", "Atlético de Madrid", "Ninguno"],
+    "correcta": "Ninguno"
+  },
+  {
+    "pregunta": "¿Qué club es el máximo ganador histórico de la Copa Libertadores?",
+    "opciones": ["Boca Juniors", "River Plate", "Peñarol", "Independiente"],
+    "correcta": "Independiente"
+  },
+  {
+    "pregunta": "¿Cuál es el clásico más famoso del fútbol español?",
+    "opciones": ["Derbi Madrileño", "Derbi Sevillano", "El Clásico (Barça vs Madrid)", "Derbi Vasco"],
+    "correcta": "El Clásico (Barça vs Madrid)"
+  },
+  {
+    "pregunta": "¿Qué país ha ganado más Copas América?",
+    "opciones": ["Argentina", "Uruguay", "Brasil", "Chile"],
+    "correcta": "Argentina"
+  },
+  {
+    "pregunta": "¿En qué equipo argentino debutó profesionalmente Diego Maradona?",
+    "opciones": ["Boca Juniors", "River Plate", "Argentinos Juniors", "Newell's Old Boys"],
+    "correcta": "Argentinos Juniors"
+  },
+  {
+    "pregunta": "¿Qué jugador brasileño es considerado el 'Rey' del fútbol?",
+    "opciones": ["Garrincha", "Zico", "Pelé", "Sócrates"],
+    "correcta": "Pelé"
+  },
+  {
+    "pregunta": "¿Cómo se llama el máximo torneo de clubes en el fútbol latinoamericano?",
+    "opciones": ["Copa Sudamericana", "Copa Mercosur", "Copa Libertadores", "Recopa Sudamericana"],
+    "correcta": "Copa Libertadores"
+  },
+  {
+    "pregunta": "¿Qué estadio es la casa del FC Barcelona?",
+    "opciones": ["Camp Nou", "Estadio Olímpico", "Spotify Camp Nou", "Wanda Metropolitano"],
+    "correcta": "Spotify Camp Nou"
+  },
+  {
+    "pregunta": "¿Quién fue el último jugador español en ganar el Balón de Oro (hasta 2024)?",
+    "opciones": ["Xavi", "Raúl", "Andrés Iniesta", "Luis Suárez Miramontes"],
+    "correcta": "Luis Suárez Miramontes"
+  },
+  {
+    "pregunta": "¿Qué club inglés es el máximo rival histórico del Liverpool FC?",
+    "opciones": ["Chelsea", "Arsenal", "Everton FC", "Manchester United"],
+    "correcta": "Manchester United"
+  },
+  {
+    "pregunta": "¿Qué país se considera la cuna del fútbol moderno?",
+    "opciones": ["Brasil", "Italia", "España", "Inglaterra"],
+    "correcta": "Inglaterra"
+  },
+  {
+    "pregunta": "¿Cómo se llama la ley que establece que el gol de visitante vale doble en un empate global (retirada por UEFA en 2021)?",
+    "opciones": ["Regla del Fuera de Juego", "Regla de Oro", "Regla del Gol de Visitante", "Regla del Desempate"],
+    "correcta": "Regla del Gol de Visitante"
+  },
+  {
+    "pregunta": "¿Qué defensor alemán es conocido como 'El Káiser'?",
+    "opciones": ["Lothar Matthäus", "Franz Beckenbauer", "Jürgen Klinsmann", "Philipp Lahm"],
+    "correcta": "Franz Beckenbauer"
+  },
+  {
+    "pregunta": "¿Quién es el máximo goleador histórico del FC Barcelona?",
+    "opciones": ["César Rodríguez", "Luis Suárez", "Kubala", "Lionel Messi"],
+    "correcta": "Lionel Messi"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre completo de Cristiano Ronaldo?",
+    "opciones": ["Cristiano Ronaldo dos Santos Aveiro", "Cristiano Santos Aveiro Ronaldo", "Ronaldo Luís Nazário de Lima", "Cristiano Nani Almeida"],
+    "correcta": "Cristiano Ronaldo dos Santos Aveiro"
+  },
+  {
+    "pregunta": "¿Qué famoso club italiano es conocido como 'La Vecchia Signora'?",
+    "opciones": ["AC Milan", "Inter de Milán", "Juventus", "AS Roma"],
+    "correcta": "Juventus"
+  },
+  {
+    "pregunta": "¿Qué equipo mexicano es el máximo ganador de la Liga MX?",
+    "opciones": ["América", "Guadalajara (Chivas)", "Cruz Azul", "Pumas"],
+    "correcta": "América"
+  },
+  {
+    "pregunta": "¿Qué arquero es el más famoso por la 'parada del escorpión'?",
+    "opciones": ["Iker Casillas", "René Higuita", "Gianluigi Buffon", "Peter Schmeichel"],
+    "correcta": "René Higuita"
+  },
+  {
+    "pregunta": "¿Qué equipo ha ganado más veces la UEFA Europa League/Copa UEFA?",
+    "opciones": ["Inter de Milán", "Atlético de Madrid", "Sevilla FC", "Liverpool FC"],
+    "correcta": "Sevilla FC"
+  },
+  {
+    "pregunta": "¿En qué ciudad se celebra anualmente la final de la Copa del Rey de España?",
+    "opciones": ["Madrid", "Barcelona", "Bilbao", "Varía"],
+    "correcta": "Varía"
+  },
+  {
+    "pregunta": "¿Cuántos Balones de Oro ha ganado Cristiano Ronaldo?",
+    "opciones": ["Cuatro", "Cinco", "Seis", "Siete"],
+    "correcta": "Cinco"
+  },
+  {
+    "pregunta": "¿Qué club inglés de Londres tiene el apodo 'Los Gunners'?",
+    "opciones": ["Chelsea", "Tottenham Hotspur", "Arsenal", "West Ham United"],
+    "correcta": "Arsenal"
+  },
+  {
+    "pregunta": "¿En qué club comenzó Neymar Jr. su carrera profesional?",
+    "opciones": ["FC Barcelona", "PSG", "Santos FC", "Real Madrid"],
+    "correcta": "Santos FC"
+  },
+  {
+    "pregunta": "¿Cuál es el país de origen de la Copa América?",
+    "opciones": ["Brasil", "Argentina", "Uruguay", "Chile"],
+    "correcta": "Argentina"
+  },
+  {
+    "pregunta": "¿Quién es el máximo goleador histórico de la selección española?",
+    "opciones": ["Fernando Torres", "Raúl", "David Villa", "Emilio Butragueño"],
+    "correcta": "David Villa"
+  },
+  {
+    "pregunta": "¿Qué jugador fue apodado 'El Pibe de Oro' antes que Messi?",
+    "opciones": ["Alfredo Di Stéfano", "Ricardo Bochini", "Mario Kempes", "Diego Maradona"],
+    "correcta": "Diego Maradona"
+  },
+  {
+    "pregunta": "¿Qué equipo brasileño es el máximo ganador de la Copa Libertadores (empatado con Peñarol)?",
+    "opciones": ["Santos FC", "Palmeiras", "São Paulo FC", "Flamengo"],
+    "correcta": "São Paulo FC"
+  },
+  {
+    "pregunta": "¿Qué jugador brasileño es conocido como 'Dinho'?",
+    "opciones": ["Ronaldo Nazário", "Roberto Carlos", "Ronaldinho", "Kaká"],
+    "correcta": "Ronaldinho"
+  },
+  {
+    "pregunta": "¿Qué selección fue la primera en ganar un Mundial fuera de su continente (en 1958)?",
+    "opciones": ["Argentina", "Brasil", "Alemania", "Italia"],
+    "correcta": "Brasil"
+  },
+  {
+    "pregunta": "¿Qué club colombiano es el único en ganar la Copa Intercontinental?",
+    "opciones": ["América de Cali", "Deportivo Cali", "Atlético Nacional", "Millonarios"],
+    "correcta": "Atlético Nacional"
+  },
+  {
+    "pregunta": "¿Quién fue el portero legendario del Real Madrid apodado 'San Iker'?",
+    "opciones": ["Paco Buyo", "Santiago Cañizares", "Iker Casillas", "Keylor Navas"],
+    "correcta": "Iker Casillas"
+  },
+  {
+    "pregunta": "¿Qué jugador africano ganó el Balón de Oro en 1995?",
+    "opciones": ["Didier Drogba", "Samuel Eto'o", "George Weah", "Roger Milla"],
+    "correcta": "George Weah"
+  },
+  {
+    "pregunta": "¿Qué país europeo tiene la mayor cantidad de Balones de Oro ganados por sus jugadores?",
+    "opciones": ["Alemania", "Italia", "Francia", "Portugal"],
+    "correcta": "Francia"
+  },
+  {
+    "pregunta": "¿En qué club español debutó Diego Simeone como entrenador?",
+    "opciones": ["Sevilla FC", "Real Madrid", "Atlético de Madrid", "Racing Club (Argentina)"],
+    "correcta": "Atlético de Madrid"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del trofeo de la Copa del Mundo de la FIFA?",
+    "opciones": ["Copa Jules Rimet", "Copa Mundial", "Copa FIFA", "Copa de Oro"],
+    "correcta": "Copa Mundial"
+  },
+  {
+    "pregunta": "¿Qué club italiano es el máximo ganador de la Serie A (Liga Italiana)?",
+    "opciones": ["AC Milan", "Inter de Milán", "Juventus", "AS Roma"],
+    "correcta": "Juventus"
+  },
+  {
+    "pregunta": "¿Qué jugador es conocido como 'El Buitre' del Real Madrid?",
+    "opciones": ["Raúl", "Emilio Butragueño", "Hugo Sánchez", "Alfredo Di Stéfano"],
+    "correcta": "Emilio Butragueño"
+  },
+  {
+    "pregunta": "¿Qué selección fue la primera en ganar un Mundial después de ganar la Eurocopa (en el mismo año)?",
+    "opciones": ["Alemania", "Francia", "España", "Italia"],
+    "correcta": "Francia"
+  },
+  {
+    "pregunta": "¿Quién es el máximo goleador histórico de la Juventus?",
+    "opciones": ["Alessandro Del Piero", "Michel Platini", "Roberto Baggio", "Gianluca Vialli"],
+    "correcta": "Alessandro Del Piero"
+  },
+  {
+    "pregunta": "¿Qué jugador chileno es apodado 'El Niño Maravilla'?",
+    "opciones": ["Arturo Vidal", "Marcelo Salas", "Iván Zamorano", "Alexis Sánchez"],
+    "correcta": "Alexis Sánchez"
+  },
+  {
+    "pregunta": "¿Qué equipo inglés es apodado 'The Red Devils'?",
+    "opciones": ["Liverpool FC", "Manchester United", "Arsenal", "Chelsea"],
+    "correcta": "Manchester United"
+  },
+  {
+    "pregunta": "¿Cuál es el récord de goles de Messi en una sola temporada de La Liga?",
+    "opciones": ["46", "50", "55", "48"],
+    "correcta": "50"
+  },
+  {
+    "pregunta": "¿En qué club europeo jugó Cristiano Ronaldo justo antes de ir al Real Madrid?",
+    "opciones": ["Sporting de Lisboa", "Juventus", "Manchester United", "PSG"],
+    "correcta": "Manchester United"
+  },
+  {
+    "pregunta": "¿Qué entrenador argentino es conocido por su filosofía 'Menottismo'?",
+    "opciones": ["Carlos Bilardo", "César Luis Menotti", "Marcelo Bielsa", "Alejandro Sabella"],
+    "correcta": "César Luis Menotti"
+  },
+  {
+    "pregunta": "¿Qué país fue el campeón de la Copa Libertadores más reciente (al cierre de 2024)?",
+    "opciones": ["Boca Juniors", "Fluminense", "Palmeiras", "River Plate"],
+    "correcta": "Fluminense"
+  },
+  {
+    "pregunta": "¿Qué equipo inglés ha ganado más títulos de liga (Premier League y sus predecesoras)?",
+    "opciones": ["Liverpool FC", "Chelsea", "Manchester United", "Arsenal"],
+    "correcta": "Manchester United"
+  },
+  {
+    "pregunta": "¿Qué leyenda es el máximo goleador histórico del Real Madrid?",
+    "opciones": ["Raúl", "Alfredo Di Stéfano", "Karim Benzema", "Cristiano Ronaldo"],
+    "correcta": "Cristiano Ronaldo"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del torneo de fútbol entre selecciones de Sudamérica?",
+    "opciones": ["Copa Libertadores", "Copa América", "Copa Mercosur", "Eliminatorias CONMEBOL"],
+    "correcta": "Copa América"
+  },
+  {
+    "pregunta": "¿Qué jugador brasileño es el único que ha anotado en 4 Mundiales diferentes?",
+    "opciones": ["Pelé", "Ronaldo Nazário", "Neymar", "Zico"],
+    "correcta": "Neymar"
+  },
+  {
+    "pregunta": "¿Quién fue el capitán del FC Barcelona en la era de Pep Guardiola?",
+    "opciones": ["Carles Puyol", "Xavi", "Iniesta", "Gerard Piqué"],
+    "correcta": "Carles Puyol"
+  },
+  {
+    "pregunta": "¿Qué club ganó la primera edición de la Copa de Europa en 1956?",
+    "opciones": ["FC Barcelona", "Stade de Reims", "AC Milan", "Real Madrid"],
+    "correcta": "Real Madrid"
+  },
+  {
+    "pregunta": "¿Cuántos jugadores españoles han ganado el Balón de Oro (hasta 2024)?",
+    "opciones": ["Uno", "Dos", "Tres", "Cuatro"],
+    "correcta": "Uno"
+  },
+  {
+    "pregunta": "¿Qué jugador argentino ganó el Balón de Oro antes de Messi y Maradona?",
+    "opciones": ["Mario Kempes", "Alfredo Di Stéfano", "Omar Sívori", "Daniel Passarella"],
+    "correcta": "Alfredo Di Stéfano"
+  },
+  {
+    "pregunta": "¿Qué país se convirtió en la primera nación asiática en llegar a semifinales del Mundial (en 2002)?",
+    "opciones": ["Japón", "Corea del Sur", "Arabia Saudita", "China"],
+    "correcta": "Corea del Sur"
+  },
+  {
+    "pregunta": "¿Qué delantero neerlandés es conocido por su 'vuelta al fútbol total'?",
+    "opciones": ["Marco van Basten", "Ruud Gullit", "Johan Cruyff", "Dennis Bergkamp"],
+    "correcta": "Johan Cruyff"
+  },
+  {
+    "pregunta": "¿Cuál es el equipo con más títulos de Copa del Rey de España?",
+    "opciones": ["Real Madrid", "Athletic Club", "Atlético de Madrid", "FC Barcelona"],
+    "correcta": "FC Barcelona"
+  },
+  {
+    "pregunta": "¿Qué club inglés tiene el apodo 'The Blues'?",
+    "opciones": ["Manchester City", "Chelsea", "Arsenal", "Everton"],
+    "correcta": "Chelsea"
+  },
+  {
+    "pregunta": "¿En qué año se retiró Pelé del fútbol profesional?",
+    "opciones": ["1977", "1971", "1980", "1969"],
+    "correcta": "1977"
+  },
+  {
+    "pregunta": "¿Qué país fue sede del primer Mundial de la historia en el que se utilizó el VAR (videoarbitraje)?",
+    "opciones": ["Brasil 2014", "Rusia 2018", "Qatar 2022", "Sudáfrica 2010"],
+    "correcta": "Rusia 2018"
+  },
+  {
+    "pregunta": "¿Quién es el máximo goleador histórico de la Liga Española (La Liga)?",
+    "opciones": ["Zarra", "Cristiano Ronaldo", "Hugo Sánchez", "Lionel Messi"],
+    "correcta": "Lionel Messi"
+  },
+  {
+    "pregunta": "¿Cuál fue el único Mundial que no se disputó a causa de la Segunda Guerra Mundial?",
+    "opciones": ["1938 y 1942", "1942 y 1946", "1946 y 1950", "1934 y 1938"],
+    "correcta": "1942 y 1946"
+  },
+  {
+    "pregunta": "¿Qué famoso delantero francés fue expulsado en la final del Mundial 2006?",
+    "opciones": ["Thierry Henry", "David Trezeguet", "Zinedine Zidane", "Franck Ribéry"],
+    "correcta": "Zinedine Zidane"
+  },
+  {
+    "pregunta": "¿Cuántos equipos descienden a la segunda división en La Liga (normalmente)?",
+    "opciones": ["Dos", "Tres", "Cuatro", "Uno"],
+    "correcta": "Tres"
+  },
+  {
+    "pregunta": "¿Qué club uruguayo es el segundo máximo ganador de la Copa Libertadores?",
+    "opciones": ["Nacional", "Peñarol", "Defensor Sporting", "Danubio"],
+    "correcta": "Peñarol"
+  },
+  {
+    "pregunta": "¿Qué ciudad es la sede del equipo de fútbol Boca Juniors?",
+    "opciones": ["Rosario", "Córdoba", "Buenos Aires", "Mendoza"],
+    "correcta": "Buenos Aires"
+  },
+  {
+    "pregunta": "¿Quién fue el entrenador del Real Madrid cuando ganaron la primera Champions League moderna en 1998?",
+    "opciones": ["Vicente del Bosque", "Fabio Capello", "Jupp Heynckes", "John Toshack"],
+    "correcta": "Jupp Heynckes"
+  },
+  {
+    "pregunta": "¿Qué jugador es el único en ganar la Liga, la Champions League y la Copa del Mundo en la misma temporada (en 2010)?",
+    "opciones": ["Lionel Messi", "Andrés Iniesta", "Wesley Sneijder", "Xavi"],
+    "correcta": "Ninguno"
+  },
+  {
+    "pregunta": "¿Qué país es conocido por su estilo de juego 'Catenaccio'?",
+    "opciones": ["Alemania", "Italia", "Brasil", "Argentina"],
+    "correcta": "Italia"
+  },
+  {
+    "pregunta": "¿Qué club ha ganado más veces la Liga de Campeones Femenina de la UEFA?",
+    "opciones": ["Olympique de Lyon", "FC Barcelona", "VfL Wolfsburg", "Frankfurt"],
+    "correcta": "Olympique de Lyon"
+  },
+  {
+    "pregunta": "¿Qué jugador brasileño es conocido como 'El Dios del Fútbol' en su país, y jugó en el PSG y el Real Madrid?",
+    "opciones": ["Romario", "Kaká", "Ronaldo Nazário", "Ronaldinho"],
+    "correcta": "Ronaldo Nazário"
+  },
+  {
+    "pregunta": "¿Cuál fue el último club de Messi en Europa antes de ir a EE. UU.?",
+    "opciones": ["FC Barcelona", "PSG", "Manchester City", "Chelsea"],
+    "correcta": "PSG"
+  },
+  {
+    "pregunta": "¿En qué país nació Zinedine Zidane?",
+    "opciones": ["Francia", "Argelia", "Italia", "España"],
+    "correcta": "Francia"
+  },
+  {
+    "pregunta": "¿Quién es el máximo goleador histórico de la selección portuguesa?",
+    "opciones": ["Eusébio", "Luis Figo", "Pauleta", "Cristiano Ronaldo"],
+    "correcta": "Cristiano Ronaldo"
+  },
+  {
+    "pregunta": "¿Qué número llevaba Johan Cruyff en el Ajax y la selección neerlandesa?",
+    "opciones": ["9", "10", "14", "11"],
+    "correcta": "14"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del trofeo de la liga española?",
+    "opciones": ["Trofeo Zamora", "Trofeo Pichichi", "Trofeo Alfredo Di Stéfano", "Copa de La Liga"],
+    "correcta": "Copa de La Liga"
+  },
+  {
+    "pregunta": "¿Qué famoso delantero búlgaro jugó en el FC Barcelona en los años 90?",
+    "opciones": ["Dimitar Berbatov", "Hristo Stoichkov", "Krassimir Balakov", "Emil Kostadinov"],
+    "correcta": "Hristo Stoichkov"
+  },
+  {
+    "pregunta": "¿Qué país fue el campeón de la Eurocopa 2020 (jugada en 2021)?",
+    "opciones": ["Inglaterra", "Portugal", "Italia", "Francia"],
+    "correcta": "Italia"
+  },
+  {
+    "pregunta": "¿Qué jugador fue apodado 'El Tigre' en Colombia?",
+    "opciones": ["Carlos Valderrama", "James Rodríguez", "Radamel Falcao", "René Higuita"],
+    "correcta": "Radamel Falcao"
+  },
+  {
+    "pregunta": "¿Quién es el jugador más joven en debutar con el FC Barcelona en La Liga?",
+    "opciones": ["Ansu Fati", "Bojan Krkić", "Gavi", "Lionel Messi"],
+    "correcta": "Gavi"
+  },
+  {
+    "pregunta": "¿En qué año ganó Messi su primer Balón de Oro?",
+    "opciones": ["2007", "2008", "2009", "2010"],
+    "correcta": "2009"
+  },
+  {
+    "pregunta": "¿Qué club ha perdido más finales de la Copa Libertadores (sin ganar ninguna)?",
+    "opciones": ["América de Cali", "Peñarol", "Cruz Azul", "Unión Española"],
+    "correcta": "América de Cali"
+  },
+  {
+    "pregunta": "¿Qué número de dorsal llevó Diego Maradona durante la mayor parte de su carrera?",
+    "opciones": ["9", "10", "8", "11"],
+    "correcta": "10"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del torneo de fútbol entre selecciones de Norte y Centroamérica?",
+    "opciones": ["Copa Centroamericana", "Copa Oro", "Concacaf Nations League", "Copa América"],
+    "correcta": "Copa Oro"
+  },
+  {
+    "pregunta": "¿Qué equipo fue el primero en ganar el triplete (Liga, Copa, Champions) en Europa?",
+    "opciones": ["FC Barcelona", "Manchester United", "Celtic FC", "Ajax"],
+    "correcta": "Celtic FC"
+  },
+  {
+    "pregunta": "¿Qué jugador fue apodado 'El Pelusa'?",
+    "opciones": ["Maradona", "Kempes", "Batistuta", "Caniggia"],
+    "correcta": "Maradona"
+  },
+  {
+    "pregunta": "¿Qué equipo fue el campeón invicto de La Liga en 1930?",
+    "opciones": ["Real Madrid", "FC Barcelona", "Athletic Club", "Real Sociedad"],
+    "correcta": "Athletic Club"
+  }
+]

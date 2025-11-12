@@ -1,0 +1,247 @@
+[
+  {
+    "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
+    "opciones": ["Venus", "Marte", "Júpiter", "Saturno"],
+    "correcta": "Marte"
+  },
+  {
+    "pregunta": "¿Cuál es el elemento químico del agua?",
+    "opciones": ["H2O", "O2", "CO2", "NaCl"],
+    "correcta": "H2O"
+  },
+  {
+    "pregunta": "¿Quién desarrolló la teoría de la relatividad?",
+    "opciones": ["Newton", "Einstein", "Galileo", "Tesla"],
+    "correcta": "Einstein"
+  },
+  {
+    "pregunta": "¿Qué partícula subatómica tiene carga positiva?",
+    "opciones": ["Protón", "Electrón", "Neutrón", "Fotón"],
+    "correcta": "Protón"
+  },
+  {
+    "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+    "opciones": ["Piel", "Hígado", "Cerebro", "Corazón"],
+    "correcta": "Piel"
+  },
+  {
+    "pregunta": "¿Qué gas necesitan las plantas para realizar la fotosíntesis?",
+    "opciones": ["Dióxido de carbono", "Oxígeno", "Nitrógeno", "Hidrógeno"],
+    "correcta": "Dióxido de carbono"
+  },
+  {
+    "pregunta": "¿Qué científico propuso la teoría de la evolución?",
+    "opciones": ["Charles Darwin", "Gregor Mendel", "Louis Pasteur", "Alfred Wallace"],
+    "correcta": "Charles Darwin"
+  },
+  {
+    "pregunta": "¿Cuál es la velocidad de la luz en el vacío?",
+    "opciones": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+    "correcta": "300,000 km/s"
+  },
+  {
+    "pregunta": "¿Qué planeta tiene anillos visibles desde la Tierra?",
+    "opciones": ["Saturno", "Júpiter", "Urano", "Neptuno"],
+    "correcta": "Saturno"
+  },
+  {
+    "pregunta": "¿Qué elemento químico tiene el símbolo 'Au'?",
+    "opciones": ["Oro", "Plata", "Aluminio", "Argón"],
+    "correcta": "Oro"
+  },
+  {
+    "pregunta": "¿Qué tipo de sangre es el donante universal?",
+    "opciones": ["O negativo", "A positivo", "B negativo", "AB positivo"],
+    "correcta": "O negativo"
+  },
+  {
+    "pregunta": "¿Qué planeta es el más cercano al Sol?",
+    "opciones": ["Mercurio", "Venus", "Tierra", "Marte"],
+    "correcta": "Mercurio"
+  },
+  {
+    "pregunta": "¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?",
+    "opciones": ["Gravedad", "Magnetismo", "Fricción", "Presión"],
+    "correcta": "Gravedad"
+  },
+  {
+    "pregunta": "¿Qué gas producen las plantas durante la fotosíntesis?",
+    "opciones": ["Oxígeno", "Dióxido de carbono", "Nitrógeno", "Hidrógeno"],
+    "correcta": "Oxígeno"
+  },
+  {
+    "pregunta": "¿Qué partícula no se encuentra en el núcleo atómico?",
+    "opciones": ["Electrón", "Protón", "Neutrón", "Nucleón"],
+    "correcta": "Electrón"
+  },
+  {
+    "pregunta": "¿Qué vitamina se produce cuando la piel se expone al sol?",
+    "opciones": ["Vitamina D", "Vitamina C", "Vitamina A", "Vitamina K"],
+    "correcta": "Vitamina D"
+  },
+  {
+    "pregunta": "¿Qué instrumento se usa para medir la presión arterial?",
+    "opciones": ["Esfigmomanómetro", "Termómetro", "Estetoscopio", "Tensiómetro"],
+    "correcta": "Esfigmomanómetro"
+  },
+  {
+    "pregunta": "¿Qué planeta es conocido por la 'Gran Mancha Roja'?",
+    "opciones": ["Júpiter", "Marte", "Saturno", "Venus"],
+    "correcta": "Júpiter"
+  },
+  {
+    "pregunta": "¿Qué científico descubrió la penicilina?",
+    "opciones": ["Alexander Fleming", "Louis Pasteur", "Robert Koch", "Marie Curie"],
+    "correcta": "Alexander Fleming"
+  },
+  {
+    "pregunta": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+    "opciones": ["Nitrógeno", "Oxígeno", "Dióxido de carbono", "Argón"],
+    "correcta": "Nitrógeno"
+  },
+  {
+    "pregunta": "¿Qué tipo de enlace comparten electrones entre átomos?",
+    "opciones": ["Covalente", "Iónico", "Metálico", "Dipolo-dipolo"],
+    "correcta": "Covalente"
+  },
+  {
+    "pregunta": "¿Qué órgano produce insulina en el cuerpo humano?",
+    "opciones": ["Páncreas", "Hígado", "Riñón", "Bazo"],
+    "correcta": "Páncreas"
+  },
+  {
+    "pregunta": "¿Qué planeta tiene más lunas?",
+    "opciones": ["Júpiter", "Saturno", "Urano", "Neptuno"],
+    "correcta": "Saturno"
+  },
+  {
+    "pregunta": "¿Qué elemento tiene el número atómico 1?",
+    "opciones": ["Hidrógeno", "Helio", "Litio", "Oxígeno"],
+    "correcta": "Hidrógeno"
+  },
+  {
+    "pregunta": "¿Qué proceso utilizan las plantas para obtener energía?",
+    "opciones": ["Fotosíntesis", "Respiración", "Digestión", "Transpiración"],
+    "correcta": "Fotosíntesis"
+  },
+  {
+    "pregunta": "¿Qué científico formuló las tres leyes del movimiento?",
+    "opciones": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nicolás Copérnico"],
+    "correcta": "Isaac Newton"
+  },
+  {
+    "pregunta": "¿Qué gas utilizan los humanos para respirar?",
+    "opciones": ["Oxígeno", "Dióxido de carbono", "Nitrógeno", "Hidrógeno"],
+    "correcta": "Oxígeno"
+  },
+  {
+    "pregunta": "¿Qué célula sanguírea transporta oxígeno?",
+    "opciones": ["Glóbulos rojos", "Glóbulos blancos", "Plaquetas", "Plasma"],
+    "correcta": "Glóbulos rojos"
+  },
+  {
+    "pregunta": "¿Qué planeta es el más caliente del sistema solar?",
+    "opciones": ["Venus", "Mercurio", "Marte", "Júpiter"],
+    "correcta": "Venus"
+  },
+  {
+    "pregunta": "¿Qué partícula tiene carga negativa?",
+    "opciones": ["Electrón", "Protón", "Neutrón", "Positrón"],
+    "correcta": "Electrón"
+  },
+  {
+    "pregunta": "¿Qué vitamina previene el escorbuto?",
+    "opciones": ["Vitamina C", "Vitamina D", "Vitamina A", "Vitamina B12"],
+    "correcta": "Vitamina C"
+  },
+  {
+    "pregunta": "¿Qué instrumento se usa para observar células?",
+    "opciones": ["Microscopio", "Telescopio", "Periscopio", "Kaleidoscopio"],
+    "correcta": "Microscopio"
+  },
+  {
+    "pregunta": "¿Qué planeta tiene el día más largo?",
+    "opciones": ["Venus", "Mercurio", "Júpiter", "Marte"],
+    "correcta": "Venus"
+  },
+  {
+    "pregunta": "¿Qué científico propuso el modelo heliocéntrico?",
+    "opciones": ["Copérnico", "Ptolomeo", "Galileo", "Kepler"],
+    "correcta": "Copérnico"
+  },
+  {
+    "pregunta": "¿Qué gas causa el efecto invernadero?",
+    "opciones": ["Dióxido de carbono", "Oxígeno", "Nitrógeno", "Helio"],
+    "correcta": "Dióxido de carbono"
+  },
+  {
+    "pregunta": "¿Qué tipo de sangre es el receptor universal?",
+    "opciones": ["AB positivo", "O negativo", "A positivo", "B negativo"],
+    "correcta": "AB positivo"
+  },
+  {
+    "pregunta": "¿Qué planeta es conocido como 'el gigante de hielo'?",
+    "opciones": ["Urano", "Neptuno", "Saturno", "Júpiter"],
+    "correcta": "Urano"
+  },
+  {
+    "pregunta": "¿Qué elemento es esencial para la formación de huesos?",
+    "opciones": ["Calcio", "Hierro", "Potasio", "Sodio"],
+    "correcta": "Calcio"
+  },
+  {
+    "pregunta": "¿Qué proceso conviente alimento en energía?",
+    "opciones": ["Respiración celular", "Fotosíntesis", "Digestión", "Circulación"],
+    "correcta": "Respiración celular"
+  },
+  {
+    "pregunta": "¿Qué científico descubrió la radiactividad?",
+    "opciones": ["Henri Becquerel", "Marie Curie", "Ernest Rutherford", "Niels Bohr"],
+    "correcta": "Henri Becquerel"
+  },
+  {
+    "pregunta": "¿Qué gas hace que la voz suene más aguda cuando se inhala?",
+    "opciones": ["Helio", "Oxígeno", "Nitrógeno", "Hidrógeno"],
+    "correcta": "Helio"
+  },
+  {
+    "pregunta": "¿Qué célula defiende al cuerpo de infecciones?",
+    "opciones": ["Glóbulos blancos", "Glóbulos rojos", "Plaquetas", "Neuronas"],
+    "correcta": "Glóbulos blancos"
+  },
+  {
+    "pregunta": "¿Qué planeta tiene los anillos más visibles?",
+    "opciones": ["Saturno", "Júpiter", "Urano", "Neptuno"],
+    "correcta": "Saturno"
+  },
+  {
+    "pregunta": "¿Qué elemento tiene el símbolo 'Fe'?",
+    "opciones": ["Hierro", "Flúor", "Francio", "Fermio"],
+    "correcta": "Hierro"
+  },
+  {
+    "pregunta": "¿Qué vitamina ayuda a la coagulación de la sangre?",
+    "opciones": ["Vitamina K", "Vitamina C", "Vitamina D", "Vitamina E"],
+    "correcta": "Vitamina K"
+  },
+  {
+    "pregunta": "¿Qué instrumento mide la temperatura?",
+    "opciones": ["Termómetro", "Barómetro", "Hidrómetro", "Anemómetro"],
+    "correcta": "Termómetro"
+  },
+  {
+    "pregunta": "¿Qué planeta es el más grande del sistema solar?",
+    "opciones": ["Júpiter", "Saturno", "Urano", "Neptuno"],
+    "correcta": "Júpiter"
+  },
+  {
+    "pregunta": "¿Qué científico propuso la teoría del Big Bang?",
+    "opciones": ["Georges Lemaître", "Albert Einstein", "Stephen Hawking", "Edwin Hubble"],
+    "correcta": "Georges Lemaître"
+  },
+  {
+    "pregunta": "¿Qué gas es emitido por los volcanes?",
+    "opciones": ["Dióxido de azufre", "Oxígeno", "Nitrógeno", "Hidrógeno"],
+    "correcta": "Dióxido de azufre"
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "pregunta": "¿Cómo se llama el padre de Goku?",
+    "opciones": ["Raditz", "Bardock", "Vegeta", "Nappa"],
+    "correcta": "Bardock"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del planeta natal de los Saiyajin?",
+    "opciones": ["Namek", "Tierra", "Planeta Vegeta", "Kaioshin"],
+    "correcta": "Planeta Vegeta"
+  },
+  {
+    "pregunta": "¿Quién derrotó a Cell?",
+    "opciones": ["Goku", "Gohan", "Vegeta", "Trunks"],
+    "correcta": "Gohan"
+  },
+  {
+    "pregunta": "¿Qué objeto usa Goku para teletransportarse?",
+    "opciones": ["Nube Voladora", "Cápsula", "Instante", "Tele-trans"],
+    "correcta": "Instante"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del dios de la destrucción del universo 7?",
+    "opciones": ["Whis", "Beerus", "Champa", "Zen-Oh"],
+    "correcta": "Beerus"
+  },
+  {
+    "pregunta": "¿Qué transformación Saiyajin tiene el pelo rojo?",
+    "opciones": ["Super Saiyajin Dios", "Super Saiyajin 4", "Ultra Instinto", "Super Saiyajin Azul"],
+    "correcta": "Super Saiyajin Dios"
+  },
+  {
+    "pregunta": "¿Quién es el hermano mayor de Goku?",
+    "opciones": ["Bardock", "Raditz", "Vegeta", "Turles"],
+    "correcta": "Raditz"
+  },
+  {
+    "pregunta": "¿Cuántas Dragon Balls hay?",
+    "opciones": ["5", "6", "7", "8"],
+    "correcta": "7"
+  },
+  {
+    "pregunta": "¿Qué personaje puede convertirse en Gran Mono?",
+    "opciones": ["Todos los Saiyajin", "Solo Goku", "Solo Vegeta", "Solo los humanos"],
+    "correcta": "Todos los Saiyajin"
+  },
+  {
+    "pregunta": "¿Quién mató a Freezer por primera vez?",
+    "opciones": ["Goku", "Trunks", "Vegeta", "King Cold"],
+    "correcta": "Trunks"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre real de Mr. Satán?",
+    "opciones": ["Hercule", "Mark", "Videl", "No tiene otro nombre"],
+    "correcta": "Hercule"
+  },
+  {
+    "pregunta": "¿Qué personaje creó las Dragon Balls de la Tierra?",
+    "opciones": ["Kami-sama", "Piccolo", "Dende", "El Gran Kaio"],
+    "correcta": "Kami-sama"
+  },
+  {
+    "pregunta": "¿Cómo se llama la técnica característica de Goku?",
+    "opciones": ["Kamehameha", "Galick Ho", "Final Flash", "Makankosappo"],
+    "correcta": "Kamehameha"
+  },
+  {
+    "pregunta": "¿Quién entrenó a Goku cuando niño?",
+    "opciones": ["Maestro Roshi", "Kami-sama", "Mr. Popo", "Bulma"],
+    "correcta": "Maestro Roshi"
+  },
+  {
+    "pregunta": "¿Qué significa SSJ?",
+    "opciones": ["Super Saiyajin", "Super Soldado Japonés", "Súper Salto Jinete", "Saiyajin Supremo Joven"],
+    "correcta": "Super Saiyajin"
+  },
+  {
+    "pregunta": "¿Quién es el primer enemigo al que Goku se enfrenta como Super Saiyajin?",
+    "opciones": ["Freezer", "Cell", "Majin Buu", "Vegeta"],
+    "correcta": "Freezer"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del planeta Namek?",
+    "opciones": ["Namek", "No tiene otro nombre", "Planeta Freezer 79", "New Namek"],
+    "correcta": "Namek"
+  },
+  {
+    "pregunta": "¿Quién se sacrifica para vencer a Majin Buu?",
+    "opciones": ["Goku", "Vegeta", "Gohan", "Mr. Satán"],
+    "correcta": "Vegeta"
+  },
+  {
+    "pregunta": "¿Qué personaje puede absorber a otros?",
+    "opciones": ["Cell", "Majin Buu", "Freezer", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la hija de Goku?",
+    "opciones": ["Bra", "Pan", "Videl", "No tiene hija"],
+    "correcta": "No tiene hija"
+  },
+  {
+    "pregunta": "¿Quién es el dios de la destrucción del universo 6?",
+    "opciones": ["Beerus", "Champa", "Vados", "Whis"],
+    "correcta": "Champa"
+  },
+  {
+    "pregunta": "¿Qué transformación aparece en Dragon Ball GT?",
+    "opciones": ["Super Saiyajin 4", "Super Saiyajin God", "Ultra Instinto", "Super Saiyajin Azul"],
+    "correcta": "Super Saiyajin 4"
+  },
+  {
+    "pregunta": "¿Quién mató a Krillin por primera vez?",
+    "opciones": ["Tambourine", "Piccolo", "Freezer", "Cell"],
+    "correcta": "Tambourine"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la esposa de Vegeta?",
+    "opciones": ["Bulma", "Chi-Chi", "Android 18", "Videl"],
+    "correcta": "Bulma"
+  },
+  {
+    "pregunta": "¿Qué personaje tiene la capacidad de regenerarse?",
+    "opciones": ["Piccolo", "Cell", "Majin Buu", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Quién es el Gran Kaio?",
+    "opciones": ["El dios del universo", "El rey de los Saiyajin", "El gobernante del Norte", "El maestro de Goku después de morir"],
+    "correcta": "El maestro de Goku después de morir"
+  },
+  {
+    "pregunta": "¿Qué es el Ultra Instinto?",
+    "opciones": ["Una transformación", "Una técnica de pelea", "Un arma", "Un planeta"],
+    "correcta": "Una técnica de pelea"
+  },
+  {
+    "pregunta": "¿Quién creó a los androides?",
+    "opciones": ["Bulma", "Dr. Gero", "Dr. Brief", "Mr. Popo"],
+    "correcta": "Dr. Gero"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del hijo de Goku?",
+    "opciones": ["Gohan", "Goten", "Ambos", "Ninguno"],
+    "correcta": "Ambos"
+  },
+  {
+    "pregunta": "¿Qué personaje puede congelar el tiempo?",
+    "opciones": ["Hit", "Jiren", "Toppo", "Dyspo"],
+    "correcta": "Hit"
+  },
+  {
+    "pregunta": "¿Quién es el hermano gemelo de Beerus?",
+    "opciones": ["Champa", "Whis", "Vados", "Mojito"],
+    "correcta": "Champa"
+  },
+  {
+    "pregunta": "¿Qué significa Genki Dama?",
+    "opciones": ["Bola de Energía Vital", "Bola del Dragón", "Onda Vital", "Esfera Letal"],
+    "correcta": "Bola de Energía Vital"
+  },
+  {
+    "pregunta": "¿Quién es el maestro de Whis?",
+    "opciones": ["El Gran Sacerdote", "Zen-Oh", "Beerus", "No tiene maestro"],
+    "correcta": "El Gran Sacerdote"
+  },
+  {
+    "pregunta": "¿Qué personaje se fusiona con Goku usando los Pendientes Potara?",
+    "opciones": ["Vegeta", "Gohan", "Piccolo", "Krillin"],
+    "correcta": "Vegeta"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del resultado de la fusión entre Goku y Vegeta?",
+    "opciones": ["Gogeta", "Vegito", "Kakarot", "Gogito"],
+    "correcta": "Vegito"
+  },
+  {
+    "pregunta": "¿Quién es el dios supremo de todos los universos?",
+    "opciones": ["Zen-Oh", "El Gran Sacerdote", "Beerus", "Dios de la Creación"],
+    "correcta": "Zen-Oh"
+  },
+  {
+    "pregunta": "¿Qué personaje puede abrir portales dimensionales?",
+    "opciones": ["Hit", "Whis", "Zamasu", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la técnica de Piccolo que perfora el cuerpo?",
+    "opciones": ["Makankosappo", "Kienzan", "Taiyoken", "Final Flash"],
+    "correcta": "Makankosappo"
+  },
+  {
+    "pregunta": "¿Quién es el primer Super Saiyajin de la historia?",
+    "opciones": ["Goku", "Bardock", "Vegeta", "Yamoshi"],
+    "correcta": "Yamoshi"
+  },
+  {
+    "pregunta": "¿Qué personaje puede copiar técnicas con solo verlas?",
+    "opciones": ["Goku", "Cell", "Piccolo", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del torneo entre el universo 6 y 7?",
+    "opciones": ["Torneo del Poder", "Torneo de la Fuerza", "Torneo de la Supervivencia", "Torneo Interuniversal"],
+    "correcta": "Torneo de la Fuerza"
+  },
+  {
+    "pregunta": "¿Quién mata a Goku por primera vez?",
+    "opciones": ["Piccolo", "Raditz", "Vegeta", "Freezer"],
+    "correcta": "Raditz"
+  },
+  {
+    "pregunta": "¿Qué personaje tiene el pelo morado en Super Saiyajin God?",
+    "opciones": ["Goku", "Vegeta", "Gohan", "Ninguno"],
+    "correcta": "Ninguno"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la nave de Freezer?",
+    "opciones": ["Nave de Freezer", "No tiene nombre", "Red Ribbon", "Cooler"],
+    "correcta": "No tiene nombre"
+  },
+  {
+    "pregunta": "¿Quién es el hermano de Freezer?",
+    "opciones": ["Cooler", "King Cold", "Frost", "No tiene hermano"],
+    "correcta": "Cooler"
+  },
+  {
+    "pregunta": "¿Qué personaje puede dividirse en copias de sí mismo?",
+    "opciones": ["Cell", "Majin Buu", "Freezer", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del padre de Freezer?",
+    "opciones": ["King Cold", "Cooler", "Frost", "Chilled"],
+    "correcta": "King Cold"
+  },
+  {
+    "pregunta": "¿Quién entrena a Gohan para luchar contra Cell?",
+    "opciones": ["Goku", "Piccolo", "Vegeta", "El Gran Kaio"],
+    "correcta": "Goku"
+  },
+  {
+    "pregunta": "¿Qué personaje puede leer la mente?",
+    "opciones": ["Guldo", "Recoome", "Burter", "Jeice"],
+    "correcta": "Guldo"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del planeta de Beerus?",
+    "opciones": ["Planeta Beerus", "No tiene nombre", "Planeta de la Destrucción", "Planeta Sagrado"],
+    "correcta": "No tiene nombre"
+  },
+  {
+    "pregunta": "¿Quién es el dios de la creación del universo 7?",
+    "opciones": ["Kaiō-shin", "Dende", "Kami-sama", "No se menciona"],
+    "correcta": "No se menciona"
+  },
+  {
+    "pregunta": "¿Qué personaje puede teletransportarse sin usar las manos?",
+    "opciones": ["Whis", "Hit", "Zamasu", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la técnica de Vegeta que crea una gran explosión?",
+    "opciones": ["Final Flash", "Big Bang Attack", "Galick Ho", "Final Explosion"],
+    "correcta": "Big Bang Attack"
+  },
+  {
+    "pregunta": "¿Quién es el más fuerte de la Patrulla Roja?",
+    "opciones": ["Recoome", "Burter", "Jeice", "Guldo"],
+    "correcta": "Recoome"
+  },
+  {
+    "pregunta": "¿Qué personaje puede congelar a sus oponentes?",
+    "opciones": ["Freezer", "Cooler", "Frost", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del hermano de Gohan?",
+    "opciones": ["Goten", "Trunks", "No tiene hermano", "Goku"],
+    "correcta": "Goten"
+  },
+  {
+    "pregunta": "¿Quién mata a Vegeta por primera vez?",
+    "opciones": ["Freezer", "Cell", "Majin Buu", "Goku"],
+    "correcta": "Freezer"
+  },
+  {
+    "pregunta": "¿Qué personaje puede absorber energía?",
+    "opciones": ["Cell", "Majin Buu", "Morocco", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la madre de Goku?",
+    "opciones": ["Gine", "Bulma", "Chi-Chi", "No se menciona"],
+    "correcta": "Gine"
+  },
+  {
+    "pregunta": "¿Quién es el primer enemigo que Goku enfrenta en Dragon Ball?",
+    "opciones": ["Oolong", "Yamcha", "Pilaf", "Emperador Pilaf"],
+    "correcta": "Emperador Pilaf"
+  },
+  {
+    "pregunta": "¿Qué personaje puede crear copias de sí mismo?",
+    "opciones": ["Cell", "Majin Buu", "Freezer", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del maestro de Gohan?",
+    "opciones": ["Piccolo", "Goku", "Vegeta", "El Gran Kaio"],
+    "correcta": "Piccolo"
+  },
+  {
+    "pregunta": "¿Quién es el dios de la destrucción del universo 11?",
+    "opciones": ["Toppo", "Jiren", "Belmod", "Marmito"],
+    "correcta": "Belmod"
+  },
+  {
+    "pregunta": "¿Qué personaje puede viajar en el tiempo?",
+    "opciones": ["Trunks", "Cell", "Zamasu", "Todos los anteriores"],
+    "correcta": "Trunks"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la técnica de Goku que crea múltiples imágenes?",
+    "opciones": ["Taiyoken", "Kamehameha", "Afterimage Technique", "Solar Flare"],
+    "correcta": "Afterimage Technique"
+  },
+  {
+    "pregunta": "¿Quién es el más rápido de la Patrulla Roja?",
+    "opciones": ["Burter", "Recoome", "Jeice", "Guldo"],
+    "correcta": "Burter"
+  },
+  {
+    "pregunta": "¿Qué personaje puede regenerar miembros?",
+    "opciones": ["Piccolo", "Cell", "Majin Buu", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del hermano de Cell?",
+    "opciones": ["Cell Jr.", "No tiene hermano", "Android 17", "Android 18"],
+    "correcta": "No tiene hermano"
+  },
+  {
+    "pregunta": "¿Quién mata a Piccolo por primera vez?",
+    "opciones": ["Nappa", "Raditz", "Freezer", "Cell"],
+    "correcta": "Nappa"
+  },
+  {
+    "pregunta": "¿Qué personaje puede volverse invisible?",
+    "opciones": ["Guldo", "Recoome", "Burter", "Jeice"],
+    "correcta": "Guldo"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del planeta de Kaiō-shin?",
+    "opciones": ["Planeta Kaiō-shin", "Planeta Sagrado", "No tiene nombre", "Planeta de los Kai"],
+    "correcta": "Planeta Sagrado"
+  },
+  {
+    "pregunta": "¿Quién es el dios de la destrucción del universo 10?",
+    "opciones": ["Rumsshi", "Iwan", "Beerus", "Champa"],
+    "correcta": "Rumsshi"
+  },
+  {
+    "pregunta": "¿Qué personaje puede teletransportar objetos?",
+    "opciones": ["Whis", "Hit", "Zamasu", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la técnica de Krillin que crea discos de energía?",
+    "opciones": ["Kienzan", "Taiyoken", "Kamehameha", "Final Flash"],
+    "correcta": "Kienzan"
+  },
+  {
+    "pregunta": "¿Quién es el más fuerte de los Guerreros Z?",
+    "opciones": ["Goku", "Vegeta", "Gohan", "Depende del momento"],
+    "correcta": "Depende del momento"
+  },
+  {
+    "pregunta": "¿Qué personaje puede cambiar de forma?",
+    "opciones": ["Freezer", "Cell", "Majin Buu", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del hermano de Goten?",
+    "opciones": ["Gohan", "Trunks", "No tiene hermano", "Goku"],
+    "correcta": "Gohan"
+  },
+  {
+    "pregunta": "¿Quién mata a Krillin por segunda vez?",
+    "opciones": ["Freezer", "Cell", "Majin Buu", "Tambourine"],
+    "correcta": "Freezer"
+  },
+  {
+    "pregunta": "¿Qué personaje puede absorber a otros?",
+    "opciones": ["Cell", "Majin Buu", "Freezer", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la madre de Vegeta?",
+    "opciones": ["No se menciona", "Bulma", "Chi-Chi", "Gine"],
+    "correcta": "No se menciona"
+  },
+  {
+    "pregunta": "¿Quién es el primer enemigo que Goku enfrenta como Super Saiyajin 3?",
+    "opciones": ["Majin Buu", "Cell", "Freezer", "Vegeta"],
+    "correcta": "Majin Buu"
+  },
+  {
+    "pregunta": "¿Qué personaje puede crear armas de energía?",
+    "opciones": ["Goku", "Vegeta", "Piccolo", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del hermano de Gohan?",
+    "opciones": ["Goten", "Trunks", "No tiene hermano", "Goku"],
+    "correcta": "Goten"
+  },
+  {
+    "pregunta": "¿Quién mata a Vegeta por segunda vez?",
+    "opciones": ["Majin Buu", "Cell", "Freezer", "Goku"],
+    "correcta": "Majin Buu"
+  },
+  {
+    "pregunta": "¿Qué personaje puede teletransportarse sin usar las manos?",
+    "opciones": ["Whis", "Hit", "Zamasu", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la técnica de Goku que crea una esfera de energía?",
+    "opciones": ["Genki Dama", "Kamehameha", "Taiyoken", "Final Flash"],
+    "correcta": "Genki Dama"
+  },
+  {
+    "pregunta": "¿Quién es el más fuerte de los dioses de la destrucción?",
+    "opciones": ["Beerus", "Quitela", "Belmod", "No se sabe"],
+    "correcta": "No se sabe"
+  },
+  {
+    "pregunta": "¿Qué personaje puede regenerar su cuerpo completo?",
+    "opciones": ["Cell", "Majin Buu", "Piccolo", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del hermano de Cell?",
+    "opciones": ["Cell Jr.", "No tiene hermano", "Android 17", "Android 18"],
+    "correcta": "No tiene hermano"
+  },
+  {
+    "pregunta": "¿Quién mata a Piccolo por segunda vez?",
+    "opciones": ["Cell", "Nappa", "Freezer", "Raditz"],
+    "correcta": "Cell"
+  },
+  {
+    "pregunta": "¿Qué personaje puede congelar el tiempo?",
+    "opciones": ["Hit", "Guldo", "Whis", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del planeta de los Namekianos?",
+    "opciones": ["Namek", "New Namek", "Planeta Verde", "Planeta Piccolo"],
+    "correcta": "Namek"
+  },
+  {
+    "pregunta": "¿Quién es el dios de la destrucción del universo 2?",
+    "opciones": ["Heles", "Beerus", "Champa", "Belmod"],
+    "correcta": "Heles"
+  },
+  {
+    "pregunta": "¿Qué personaje puede teletransportar a otros?",
+    "opciones": ["Whis", "Hit", "Zamasu", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la técnica de Vegeta que sacrifica su vida?",
+    "opciones": ["Final Explosion", "Big Bang Attack", "Final Flash", "Galick Ho"],
+    "correcta": "Final Explosion"
+  },
+  {
+    "pregunta": "¿Quién es el más fuerte de los Saiyajin?",
+    "opciones": ["Goku", "Vegeta", "Broly", "Depende del momento"],
+    "correcta": "Depende del momento"
+  },
+  {
+    "pregunta": "¿Qué personaje puede absorber habilidades?",
+    "opciones": ["Cell", "Majin Buu", "Morocco", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la madre de Gohan?",
+    "opciones": ["Chi-Chi", "Bulma", "Videl", "Android 18"],
+    "correcta": "Chi-Chi"
+  },
+  {
+    "pregunta": "¿Quién es el primer enemigo que Goku enfrenta en Dragon Ball Z?",
+    "opciones": ["Raditz", "Vegeta", "Nappa", "Freezer"],
+    "correcta": "Raditz"
+  },
+  {
+    "pregunta": "¿Qué personaje puede crear dimensiones paralelas?",
+    "opciones": ["Hit", "Zamasu", "Whis", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del hermano de Goten?",
+    "opciones": ["Gohan", "Trunks", "No tiene hermano", "Goku"],
+    "correcta": "Gohan"
+  },
+  {
+    "pregunta": "¿Quién mata a Krillin por tercera vez?",
+    "opciones": ["Majin Buu", "Cell", "Freezer", "Tambourine"],
+    "correcta": "Majin Buu"
+  },
+  {
+    "pregunta": "¿Qué personaje puede teletransportarse instantáneamente?",
+    "opciones": ["Goku", "Whis", "Hit", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la técnica de Goku que usa en el Torneo del Poder?",
+    "opciones": ["Ultra Instinto", "Super Saiyajin God", "Super Saiyajin Azul", "Kaioken"],
+    "correcta": "Ultra Instinto"
+  },
+  {
+    "pregunta": "¿Quién es el más fuerte de los dioses de la destrucción?",
+    "opciones": ["Beerus", "Quitela", "Belmod", "No se sabe"],
+    "correcta": "No se sabe"
+  },
+  {
+    "pregunta": "¿Qué personaje puede regenerar su cerebro?",
+    "opciones": ["Cell", "Majin Buu", "Piccolo", "Todos los anteriores"],
+    "correcta": "Todos los anteriores"
+  }
+]

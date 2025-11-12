@@ -1,0 +1,267 @@
+[
+  {
+    "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+    "opciones": ["1914", "1939", "1945", "1929"],
+    "correcta": "1939"
+  },
+  {
+    "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+    "opciones": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+    "correcta": "George Washington"
+  },
+  {
+    "pregunta": "¿Qué civilización construyó las pirámides de Egipto?",
+    "opciones": ["Griega", "Romana", "Egipcia", "Maya"],
+    "correcta": "Egipcia"
+  },
+  {
+    "pregunta": "¿En qué año cayó el Muro de Berlín, marcando el fin simbólico de la Guerra Fría?",
+    "opciones": ["1985", "1991", "1989", "1979"],
+    "correcta": "1989"
+  },
+  {
+    "pregunta": "¿Quién fue el líder de la Alemania nazi durante la Segunda Guerra Mundial?",
+    "opciones": ["Benito Mussolini", "Joseph Stalin", "Winston Churchill", "Adolf Hitler"],
+    "correcta": "Adolf Hitler"
+  },
+  {
+    "pregunta": "¿Quién descubrió América en 1492?",
+    "opciones": ["Américo Vespucio", "Hernán Cortés", "Cristóbal Colón", "Fernando de Magallanes"],
+    "correcta": "Cristóbal Colón"
+  },
+  {
+    "pregunta": "¿Cuál fue el principal evento que desencadenó la Primera Guerra Mundial?",
+    "opciones": ["Invasión de Polonia", "Hundimiento del Titanic", "Asesinato del Archiduque Francisco Fernando", "Crisis de los misiles de Cuba"],
+    "correcta": "Asesinato del Archiduque Francisco Fernando"
+  },
+  {
+    "pregunta": "¿Cómo se llama el código de leyes creado por el emperador de Babilonia?",
+    "opciones": ["Código de Dracón", "Código de Hammurabi", "Ley de las Doce Tablas", "Código de Justiniano"],
+    "correcta": "Código de Hammurabi"
+  },
+  {
+    "pregunta": "¿Qué revolución llevó a la ejecución del rey Luis XVI en Francia?",
+    "opciones": ["Revolución Rusa", "Revolución Industrial", "Revolución Francesa", "Revolución Gloriosa"],
+    "correcta": "Revolución Francesa"
+  },
+  {
+    "pregunta": "¿Quién fue el famoso general cartaginés que cruzó los Alpes con elefantes para atacar Roma?",
+    "opciones": ["Julio César", "Aníbal Barca", "Escipión el Africano", "Alejandro Magno"],
+    "correcta": "Aníbal Barca"
+  },
+  {
+    "pregunta": "¿En qué año se firmó la Declaración de Independencia de Estados Unidos?",
+    "opciones": ["1776", "1789", "1800", "1765"],
+    "correcta": "1776"
+  },
+  {
+    "pregunta": "¿Qué civilización precolombina se desarrolló en la península de Yucatán y Centroamérica?",
+    "opciones": ["Azteca", "Inca", "Olmeca", "Maya"],
+    "correcta": "Maya"
+  },
+  {
+    "pregunta": "¿Cuál fue la capital del Imperio Bizantino?",
+    "opciones": ["Roma", "Atenas", "Constantinopla", "Alejandría"],
+    "correcta": "Constantinopla"
+  },
+  {
+    "pregunta": "¿Quién fue la famosa reina de Egipto que se alió con Marco Antonio?",
+    "opciones": ["Nefertiti", "Hatshepsut", "Cleopatra VII", "Tiy"],
+    "correcta": "Cleopatra VII"
+  },
+  {
+    "pregunta": "¿Qué evento puso fin oficialmente a la Segunda Guerra Mundial?",
+    "opciones": ["Día D", "Rendición de Alemania", "Bombardeos de Hiroshima y Nagasaki", "Tratado de Versalles"],
+    "correcta": "Bombardeos de Hiroshima y Nagasaki"
+  },
+  {
+    "pregunta": "¿Quién fue el líder revolucionario cubano que derrocó a Fulgencio Batista?",
+    "opciones": ["Fidel Castro", "Che Guevara", "Camilo Cienfuegos", "Raúl Castro"],
+    "correcta": "Fidel Castro"
+  },
+  {
+    "pregunta": "¿En qué siglo tuvo lugar el Renacimiento en Europa?",
+    "opciones": ["Siglo XII", "Siglo XIV", "Siglo XVI", "Siglo XVIII"],
+    "correcta": "Siglo XVI"
+  },
+  {
+    "pregunta": "¿Qué batalla naval de 1805 consolidó el dominio marítimo británico?",
+    "opciones": ["Batalla de Lepanto", "Batalla de Waterloo", "Batalla de Trafalgar", "Batalla de Midway"],
+    "correcta": "Batalla de Trafalgar"
+  },
+  {
+    "pregunta": "¿Quién escribió 'El Príncipe', una obra fundamental de la filosofía política renacentista?",
+    "opciones": ["Leonardo da Vinci", "Miguel Ángel", "Nicolás Maquiavelo", "Erasmo de Róterdam"],
+    "correcta": "Nicolás Maquiavelo"
+  },
+  {
+    "pregunta": "¿Cuál fue el principal material utilizado por la humanidad durante la Edad de Piedra?",
+    "opciones": ["Bronce", "Hierro", "Arcilla", "Piedra"],
+    "correcta": "Piedra"
+  },
+  {
+    "pregunta": "¿Cómo se llama el periodo de la historia de la humanidad que comienza con la invención de la escritura?",
+    "opciones": ["Prehistoria", "Antigüedad", "Historia Antigua", "Edad Media"],
+    "correcta": "Historia Antigua"
+  },
+  {
+    "pregunta": "¿Qué emperador romano legalizó el cristianismo con el Edicto de Milán?",
+    "opciones": ["Nerón", "Augusto", "Constantino I", "Diocleciano"],
+    "correcta": "Constantino I"
+  },
+  {
+    "pregunta": "¿Quién fue el monje alemán que inició la Reforma Protestante en 1517?",
+    "opciones": ["Juan Calvino", "Martín Lutero", "Enrique VIII", "Ulrico Zuinglio"],
+    "correcta": "Martín Lutero"
+  },
+  {
+    "pregunta": "¿Qué conflicto histórico se conoce como la 'Guerra de los Cien Años'?",
+    "opciones": ["Entre Francia e Inglaterra", "Entre España y Portugal", "Entre Roma y Cartago", "Entre Austria y Prusia"],
+    "correcta": "Entre Francia e Inglaterra"
+  },
+  {
+    "pregunta": "¿Qué cultura construyó la Gran Muralla China?",
+    "opciones": ["Dinastía Ming", "Dinastía Han", "Dinastía Qin", "Dinastía Tang"],
+    "correcta": "Dinastía Qin"
+  },
+  {
+    "pregunta": "¿En qué año se fundó la Organización de las Naciones Unidas (ONU)?",
+    "opciones": ["1919", "1945", "1950", "1962"],
+    "correcta": "1945"
+  },
+  {
+    "pregunta": "¿Quién fue el científico que propuso la teoría de la relatividad?",
+    "opciones": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Stephen Hawking"],
+    "correcta": "Albert Einstein"
+  },
+  {
+    "pregunta": "¿Qué acontecimiento ocurrió el 11 de septiembre de 2001 en Estados Unidos?",
+    "opciones": ["Caída del Muro de Berlín", "Ataques terroristas a las Torres Gemelas", "Inicio de la Guerra del Golfo", "Asesinato de John F. Kennedy"],
+    "correcta": "Ataques terroristas a las Torres Gemelas"
+  },
+  {
+    "pregunta": "¿Qué civilización inventó la escritura cuneiforme?",
+    "opciones": ["Egipcia", "Mesopotámica (Sumeria)", "Griega", "India"],
+    "correcta": "Mesopotámica (Sumeria)"
+  },
+  {
+    "pregunta": "¿Quién fue el líder soviético que implementó la 'Perestroika' y la 'Glasnost'?",
+    "opciones": ["Vladimir Lenin", "Joseph Stalin", "Nikita Jrushchov", "Mijaíl Gorbachov"],
+    "correcta": "Mijaíl Gorbachov"
+  },
+  {
+    "pregunta": "¿Cómo se llama el periodo de la historia de España donde convivieron cristianos, musulmanes y judíos?",
+    "opciones": ["La Reconquista", "Al-Ándalus", "El Siglo de Oro", "La Ilustración"],
+    "correcta": "Al-Ándalus"
+  },
+  {
+    "pregunta": "¿Qué famoso explorador portugués dirigió la primera expedición que circunnavegó la Tierra (aunque él murió en el camino)?",
+    "opciones": ["Vasco da Gama", "Juan Sebastián Elcano", "Bartolomé Díaz", "Fernando de Magallanes"],
+    "correcta": "Fernando de Magallanes"
+  },
+  {
+    "pregunta": "¿Qué hito se alcanzó con el 'Día D' durante la Segunda Guerra Mundial?",
+    "opciones": ["Ataque a Pearl Harbor", "Invasión de Polonia", "Desembarco en Normandía", "Batalla de Stalingrado"],
+    "correcta": "Desembarco en Normandía"
+  },
+  {
+    "pregunta": "¿Quién fue el emperador romano que ordenó construir el Coliseo?",
+    "opciones": ["Nerón", "Vespasiano", "Tiberio", "Domiciano"],
+    "correcta": "Vespasiano"
+  },
+  {
+    "pregunta": "¿Cuál fue la última dinastía imperial en China?",
+    "opciones": ["Dinastía Tang", "Dinastía Ming", "Dinastía Qing", "Dinastía Song"],
+    "correcta": "Dinastía Qing"
+  },
+  {
+    "pregunta": "¿Qué rey británico fue obligado a firmar la Carta Magna en 1215?",
+    "opciones": ["Ricardo Corazón de León", "Enrique VIII", "Juan Sin Tierra", "Guillermo el Conquistador"],
+    "correcta": "Juan Sin Tierra"
+  },
+  {
+    "pregunta": "¿Qué filósofo griego fue maestro de Alejandro Magno?",
+    "opciones": ["Platón", "Sócrates", "Aristóteles", "Homero"],
+    "correcta": "Aristóteles"
+  },
+  {
+    "pregunta": "¿Qué tratado puso fin formalmente a la Primera Guerra Mundial?",
+    "opciones": ["Tratado de París", "Tratado de Versalles", "Tratado de Nankín", "Acuerdos de Múnich"],
+    "correcta": "Tratado de Versalles"
+  },
+  {
+    "pregunta": "¿Qué invento clave se asocia al comienzo de la Revolución Industrial?",
+    "opciones": ["El telégrafo", "La imprenta", "La máquina de vapor", "El automóvil"],
+    "correcta": "La máquina de vapor"
+  },
+  {
+    "pregunta": "¿Qué líder fue derrocado durante la Revolución Rusa de 1917?",
+    "opciones": ["Nicolás II (Zar)", "Lenin", "Stalin", "Kerensky"],
+    "correcta": "Nicolás II (Zar)"
+  },
+  {
+    "pregunta": "¿Cómo se llamaban los guerreros de élite del Japón feudal?",
+    "opciones": ["Ronin", "Shogun", "Daimio", "Samuráis"],
+    "correcta": "Samuráis"
+  },
+  {
+    "pregunta": "¿Qué país colonizó la mayor parte de América del Sur?",
+    "opciones": ["Francia", "Inglaterra", "España", "Portugal"],
+    "correcta": "España"
+  },
+  {
+    "pregunta": "¿Qué figura histórica está asociada con la frase 'Vini, vidi, vici'?",
+    "opciones": ["Marco Antonio", "Julio César", "Cicerón", "Augusto"],
+    "correcta": "Julio César"
+  },
+  {
+    "pregunta": "¿Cuál fue el principal motivo de la Guerra del Peloponeso?",
+    "opciones": ["Conflictos religiosos", "Rivalidad entre Atenas y Esparta", "Invasión persa", "Disputas comerciales"],
+    "correcta": "Rivalidad entre Atenas y Esparta"
+  },
+  {
+    "pregunta": "¿Qué guerra del siglo XIX resultó en la unificación de Alemania?",
+    "opciones": ["Guerra de los Treinta Años", "Guerra de Crimea", "Guerra Franco-Prusiana", "Guerra Civil Americana"],
+    "correcta": "Guerra Franco-Prusiana"
+  },
+  {
+    "pregunta": "¿Quién fue la primera mujer en ganar un Premio Nobel?",
+    "opciones": ["Marie Curie", "Ada Lovelace", "Rosalind Franklin", "Madre Teresa"],
+    "correcta": "Marie Curie"
+  },
+  {
+    "pregunta": "¿Qué ciudad fue destruida por la erupción del Vesubio en el año 79 d.C.?",
+    "opciones": ["Herculano", "Ostia", "Pompeya", "Neápolis"],
+    "correcta": "Pompeya"
+  },
+  {
+    "pregunta": "¿Qué filósofo es conocido por su famosa máxima 'Pienso, luego existo'?",
+    "opciones": ["Platón", "Descartes", "Kant", "Voltaire"],
+    "correcta": "Descartes"
+  },
+  {
+    "pregunta": "¿Cuál fue el principal producto comercial de la 'Ruta de la Seda' de China?",
+    "opciones": ["Especias", "Té", "Porcelana", "Seda"],
+    "correcta": "Seda"
+  },
+  {
+    "pregunta": "¿En qué siglo se abolió la esclavitud en Estados Unidos?",
+    "opciones": ["Siglo XVIII", "Siglo XIX", "Siglo XVII", "Siglo XX"],
+    "correcta": "Siglo XIX"
+  },
+  {
+    "pregunta": "¿Qué personaje histórico está asociado con el concepto de la No Violencia y la independencia de la India?",
+    "opciones": ["Jawaharlal Nehru", "Indira Gandhi", "Mahatma Gandhi", "Muhammad Ali Jinnah"],
+    "correcta": "Mahatma Gandhi"
+  },
+  {
+    "pregunta": "¿Qué líder político fue encarcelado en Sudáfrica durante 27 años antes de convertirse en presidente?",
+    "opciones": ["Desmond Tutu", "Nelson Mandela", "F.W. de Klerk", "Thabo Mbeki"],
+    "correcta": "Nelson Mandela"
+  },
+  {
+    "pregunta": "¿Qué civilización precolombina fundó la ciudad de Tenochtitlan?",
+    "opciones": ["Inca", "Azteca", "Maya", "Tolteca"],
+    "correcta": "Azteca"
+  }
+]

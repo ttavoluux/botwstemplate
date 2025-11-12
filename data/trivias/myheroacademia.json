@@ -1,0 +1,252 @@
+[
+  {
+    "pregunta": "¿Quién es el protagonista de My Hero Academia?",
+    "opciones": ["Bakugo", "Todoroki", "Midoriya", "All Might"],
+    "correcta": "Midoriya"
+  },
+  {
+    "pregunta": "¿Cuál es el poder de All Might?",
+    "opciones": ["One for All", "All for One", "Explosion", "Super Speed"],
+    "correcta": "One for All"
+  },
+  {
+    "pregunta": "¿Qué número lleva Deku en su traje de héroe?",
+    "opciones": ["1", "13", "9", "0"],
+    "correcta": "13"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del Quirk de Katsuki Bakugo?",
+    "opciones": ["Explosión", "Mitad Frío Mitad Caliente", "Gravedad Cero", "Endeavor"],
+    "correcta": "Explosión"
+  },
+  {
+    "pregunta": "¿Cómo se llama el villano principal que puede robar y otorgar Quirks?",
+    "opciones": ["Shigaraki Tomura", "Stain", "All for One", "Overhaul"],
+    "correcta": "All for One"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de héroe de Izuku Midoriya?",
+    "opciones": ["Great Deku", "Dynamight", "Deku", "Ingenium"],
+    "correcta": "Deku"
+  },
+  {
+    "pregunta": "¿Cómo se llama el Quirk de Ochako Uraraka?",
+    "opciones": ["Telekinesis", "Gravedad Cero", "Flotar", "Super Fuerza"],
+    "correcta": "Gravedad Cero"
+  },
+  {
+    "pregunta": "¿Cuál es el Quirk de Shoto Todoroki?",
+    "opciones": ["Fuego", "Hielo", "Mitad Frío Mitad Caliente", "Fusión"],
+    "correcta": "Mitad Frío Mitad Caliente"
+  },
+  {
+    "pregunta": "¿Quién es el héroe profesional conocido como 'Eraser Head'?",
+    "opciones": ["Present Mic", "Midnight", "Aizawa Shota", "Cementoss"],
+    "correcta": "Aizawa Shota"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la academia de héroes a la que asisten los protagonistas?",
+    "opciones": ["Shiketsu", "UA", "Ketsubutsu", "Seiai"],
+    "correcta": "UA"
+  },
+  {
+    "pregunta": "¿Qué parte de su cuerpo se daña Deku con frecuencia al usar el One for All al principio?",
+    "opciones": ["Piernas", "Cabeza", "Brazos/Dedos", "Torso"],
+    "correcta": "Brazos/Dedos"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de héroe de Tenya Iida?",
+    "opciones": ["Ingenium", "Froppy", "Chargebolt", "Red Riot"],
+    "correcta": "Ingenium"
+  },
+  {
+    "pregunta": "¿Cuál es el Quirk de Eijiro Kirishima?",
+    "opciones": ["Endurecimiento", "Lanzamiento de Ácido", "Explosión", "Fuerza Bruta"],
+    "correcta": "Endurecimiento"
+  },
+  {
+    "pregunta": "¿Quién es el actual héroe número 1 (después de la retirada de All Might)?",
+    "opciones": ["Hawks", "Best Jeanist", "Endeavor", "Edgeshot"],
+    "correcta": "Endeavor"
+  },
+  {
+    "pregunta": "¿Cuál es el color de pelo natural de All Might en su forma musculosa?",
+    "opciones": ["Rubio", "Marrón", "Negro", "Azul"],
+    "correcta": "Rubio"
+  },
+  {
+    "pregunta": "¿Cómo se llama el Quirk de Mina Ashido?",
+    "opciones": ["Lanzamiento de Rocas", "Ácido", "Flotar", "Pegamento"],
+    "correcta": "Ácido"
+  },
+  {
+    "pregunta": "¿Qué clase de la UA contiene a los protagonistas?",
+    "opciones": ["Clase 1-B", "Clase 2-A", "Clase 1-A", "Clase 3-A"],
+    "correcta": "Clase 1-A"
+  },
+  {
+    "pregunta": "¿Quién es el profesor de inglés de la Clase 1-A, famoso por sus gritos?",
+    "opciones": ["Cementoss", "Present Mic", "Midnight", "Recovery Girl"],
+    "correcta": "Present Mic"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la liga de villanos liderada por Shigaraki Tomura?",
+    "opciones": ["El Frente de Liberación Paranormal", "La Yakuza", "La Liga de Villanos", "Los Ochos Preceptos de la Muerte"],
+    "correcta": "La Liga de Villanos"
+  },
+  {
+    "pregunta": "¿Qué personaje puede crear cosas inorgánicas a partir de su cuerpo?",
+    "opciones": ["Jiro Kyoka", "Momo Yaoyorozu", "Tsuyu Asui", "Toru Hagakure"],
+    "correcta": "Momo Yaoyorozu"
+  },
+  {
+    "pregunta": "¿Qué nombre de héroe adoptó Yuga Aoyama?",
+    "opciones": ["Can't Stop Twinkling", "Creati", "Ingenium", "Tailman"],
+    "correcta": "Can't Stop Twinkling"
+  },
+  {
+    "pregunta": "¿Cuál es el Quirk de Tsuyu Asui?",
+    "opciones": ["Serpiente", "Rana", "Lagarto", "Pulpo"],
+    "correcta": "Rana"
+  },
+  {
+    "pregunta": "¿Cómo se llama el maestro que transfiere el Quirk One for All a Deku?",
+    "opciones": ["Gran Torino", "Endeavor", "All Might", "Best Jeanist"],
+    "correcta": "All Might"
+  },
+  {
+    "pregunta": "¿Qué personaje posee el Quirk 'Dark Shadow'?",
+    "opciones": ["Koji Koda", "Fumikage Tokoyami", "Mashirao Ojiro", "Hanta Sero"],
+    "correcta": "Fumikage Tokoyami"
+  },
+  {
+    "pregunta": "¿Quién es el jefe de los 'Ochos Preceptos de la Muerte'?",
+    "opciones": ["Stain", "Shigaraki", "Overhaul", "Twice"],
+    "correcta": "Overhaul"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de héroe de Kyoka Jiro?",
+    "opciones": ["Earphone Jack", "Creati", "Pinky", "Froppy"],
+    "correcta": "Earphone Jack"
+  },
+  {
+    "pregunta": "¿Qué personaje tiene el Quirk de 'Motor' en sus pantorrillas?",
+    "opciones": ["Izuku Midoriya", "Tenya Iida", "Katsuki Bakugo", "Mezo Shoji"],
+    "correcta": "Tenya Iida"
+  },
+  {
+    "pregunta": "¿Cuál es la 'debilidad' del Quirk de Shoto Todoroki que lo obliga a usar ambos lados?",
+    "opciones": ["Calor excesivo", "Enfriamiento excesivo", "El Quirk lo cansa rápido", "Ninguna"],
+    "correcta": "Enfriamiento excesivo"
+  },
+  {
+    "pregunta": "¿Cómo se llama el héroe profesional que es también el padre de Shoto Todoroki?",
+    "opciones": ["Best Jeanist", "Hawks", "Eraser Head", "Endeavor"],
+    "correcta": "Endeavor"
+  },
+  {
+    "pregunta": "¿Qué objeto usa Melissa Shield para ayudar a Deku en la película 'Two Heroes'?",
+    "opciones": ["Una espada", "Un guante que mejora el Quirk", "Un escudo", "Un traje de invisibilidad"],
+    "correcta": "Un guante que mejora el Quirk"
+  },
+  {
+    "pregunta": "¿Qué villano es conocido como el 'Asesino de Héroes'?",
+    "opciones": ["All for One", "Stain", "Dabi", "Twice"],
+    "correcta": "Stain"
+  },
+  {
+    "pregunta": "¿Cuál es el Quirk de Denki Kaminari?",
+    "opciones": ["Generación de Viento", "Lanzamiento de Rayos", "Electricidad", "Magnetismo"],
+    "correcta": "Electricidad"
+  },
+  {
+    "pregunta": "¿Qué personaje se vuelve 'tonto' si excede el límite de su Quirk de descarga eléctrica?",
+    "opciones": ["Mina Ashido", "Hanta Sero", "Denki Kaminari", "Minoru Mineta"],
+    "correcta": "Denki Kaminari"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del Quirk que permite a Mirio Togata atravesar objetos (incluida la Tierra)?",
+    "opciones": ["Permeación", "Teletransporte", "Intangibilidad", "Fase"],
+    "correcta": "Permeación"
+  },
+  {
+    "pregunta": "¿Qué famosa heroína tiene el Quirk 'Zero Gravity'?",
+    "opciones": ["Tsuyu Asui", "Momo Yaoyorozu", "Ochako Uraraka", "Toru Hagakure"],
+    "correcta": "Ochako Uraraka"
+  },
+  {
+    "pregunta": "¿Qué personaje puede curar a otros con un beso?",
+    "opciones": ["Midnight", "Recovery Girl", "Mount Lady", "Nejire Hado"],
+    "correcta": "Recovery Girl"
+  },
+  {
+    "pregunta": "¿Quién es el estudiante de la UA conocido por su Quirk de 'Cola'?",
+    "opciones": ["Mashirao Ojiro", "Rikido Sato", "Mezo Shoji", "Koji Koda"],
+    "correcta": "Mashirao Ojiro"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la heroína que puede crecer a un tamaño gigante?",
+    "opciones": ["Ryukyu", "Nejire Hado", "Mount Lady", "Mirko"],
+    "correcta": "Mount Lady"
+  },
+  {
+    "pregunta": "¿Qué villano usa el Quirk de 'Decay' (Deterioro)?",
+    "opciones": ["Dabi", "Spinner", "Shigaraki Tomura", "Toga Himiko"],
+    "correcta": "Shigaraki Tomura"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de héroe de la heroína invisible?",
+    "opciones": ["Invisible Girl", "Toru Hagakure", "Mancha", "Creati"],
+    "correcta": "Invisible Girl"
+  },
+  {
+    "pregunta": "¿Qué personaje es el mejor amigo de Bakugo desde la infancia?",
+    "opciones": ["Eijiro Kirishima", "Shoto Todoroki", "Izuku Midoriya", "Denki Kaminari"],
+    "correcta": "Izuku Midoriya"
+  },
+  {
+    "pregunta": "¿Cuál es el Quirk de Minoru Mineta?",
+    "opciones": ["Pegajoso", "Gravedad Cero", "Creación", "Motor"],
+    "correcta": "Pegajoso"
+  },
+  {
+    "pregunta": "¿Qué personaje es un estudiante de tercer año en la UA, parte de 'Los Tres Grandes'?",
+    "opciones": ["Shindo Yo", "Mirio Togata", "Inasa Yoarashi", "Tetsutetsu Tetsutetsu"],
+    "correcta": "Mirio Togata"
+  },
+  {
+    "pregunta": "¿Qué villana tiene la capacidad de transformarse en otras personas al ingerir su sangre?",
+    "opciones": ["Twice", "Magne", "Toga Himiko", "Mr. Compress"],
+    "correcta": "Toga Himiko"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la heroína profesional con el Quirk 'Ryuukyuu' (dragón)?",
+    "opciones": ["Ryukyu", "Mirko", "Mount Lady", "Midnight"],
+    "correcta": "Ryukyu"
+  },
+  {
+    "pregunta": "¿Cuál fue la primera gran prueba que enfrentaron los estudiantes de la Clase 1-A en el anime?",
+    "opciones": ["El Festival Deportivo", "La Prueba de Licencia Provisional", "El Arco USJ", "El Arco de Shie Hassaikai"],
+    "correcta": "El Arco USJ"
+  },
+  {
+    "pregunta": "¿Qué personaje tiene el Quirk de hacer crecer múltiples apéndices de su cuerpo?",
+    "opciones": ["Mezo Shoji", "Ojiro Mashirao", "Koji Koda", "Sero Hanta"],
+    "correcta": "Mezo Shoji"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la madre de Izuku Midoriya?",
+    "opciones": ["Mitsuwa", "Inko", "Rei", "Nana"],
+    "correcta": "Inko"
+  },
+  {
+    "pregunta": "¿Cuál es el alias de héroe de Denki Kaminari?",
+    "opciones": ["Chargebolt", "Red Riot", "Suneater", "Cellophane"],
+    "correcta": "Chargebolt"
+  },
+  {
+    "pregunta": "¿Qué personaje usa una bufanda como arma, hecha de un material especial?",
+    "opciones": ["All Might", "Present Mic", "Aizawa Shota", "Best Jeanist"],
+    "correcta": "Aizawa Shota"
+  }
+]

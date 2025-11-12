@@ -1,0 +1,252 @@
+[
+  {
+    "pregunta": "¿Cómo se llama el profesor en 'La Casa de Papel'?",
+    "opciones": ["Berlín", "Tokio", "Sergio", "Río"],
+    "correcta": "Sergio"
+  },
+  {
+    "pregunta": "¿En qué ciudad se desarrolla 'Friends'?",
+    "opciones": ["Los Ángeles", "Nueva York", "Chicago", "Miami"],
+    "correcta": "Nueva York"
+  },
+  {
+    "pregunta": "¿Qué serie popular presenta dragones y casas nobles?",
+    "opciones": ["Vikings", "Game of Thrones", "The Witcher", "Shadow and Bone"],
+    "correcta": "Game of Thrones"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la niña con poderes psíquicos en 'Stranger Things'?",
+    "opciones": ["Max", "Nancy", "Eleven (Once)", "Robin"],
+    "correcta": "Eleven (Once)"
+  },
+  {
+    "pregunta": "¿Cuál es el juego infantil principal en 'El Juego del Calamar' (Squid Game)?",
+    "opciones": ["Escondite", "Luz Roja, Luz Verde", "Carrera de Sacos", "Rayuela"],
+    "correcta": "Luz Roja, Luz Verde"
+  },
+  {
+    "pregunta": "¿Cómo se llama el brujo protagonista de la serie 'The Witcher'?",
+    "opciones": ["Dandelion", "Vesemir", "Jaskier", "Geralt de Rivia"],
+    "correcta": "Geralt de Rivia"
+  },
+  {
+    "pregunta": "¿Qué nombre de escuela de élite es el centro de la trama de la serie 'Élite'?",
+    "opciones": ["Las Encinas", "Alhambra", "San Esteban", "Montepinar"],
+    "correcta": "Las Encinas"
+  },
+  {
+    "pregunta": "¿Qué personaje es el principal protagonista en 'Peaky Blinders'?",
+    "opciones": ["Arthur Shelby", "Alfie Solomons", "Thomas Shelby", "John Shelby"],
+    "correcta": "Thomas Shelby"
+  },
+  {
+    "pregunta": "¿A qué familia de ficción pertenece la protagonista de 'Wednesday' (Merlina)?",
+    "opciones": ["Munster", "Drácula", "Addams", "Bates"],
+    "correcta": "Addams"
+  },
+  {
+    "pregunta": "¿Qué serie tiene como protagonista a un consejero financiero que lava dinero para un cartel?",
+    "opciones": ["The Ozarks", "Fargo", "Narcos", "Ozark"],
+    "correcta": "Ozark"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la dimension paralela en 'Stranger Things'?",
+    "opciones": ["The Void", "El Otro Lado", "Upside Down (Mundo al Revés)", "Shadow Realm"],
+    "correcta": "Upside Down (Mundo al Revés)"
+  },
+  {
+    "pregunta": "¿Qué serie sigue la vida de la Reina Isabel II de Inglaterra?",
+    "opciones": ["Downton Abbey", "The Crown", "Victoria", "Bridgerton"],
+    "correcta": "The Crown"
+  },
+  {
+    "pregunta": "¿Qué personaje es el terapeuta sexual en 'Sex Education'?",
+    "opciones": ["Otis Milburn", "Eric Effiong", "Jean Milburn", "Maeve Wiley"],
+    "correcta": "Jean Milburn"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista traficante de drogas en 'Breaking Bad'?",
+    "opciones": ["Jesse Pinkman", "Saul Goodman", "Walter White", "Gustavo Fring"],
+    "correcta": "Walter White"
+  },
+  {
+    "pregunta": "¿En qué país transcurre la mayor parte de la serie 'Narcos' (temporadas iniciales)?",
+    "opciones": ["México", "Colombia", "Perú", "Chile"],
+    "correcta": "Colombia"
+  },
+  {
+    "pregunta": "¿Qué personaje es un maestro del disfraz e hijo de un famoso ladrón en la serie 'Lupin'?",
+    "opciones": ["Assane Diop", "Omar Sy", "Ganimard", "Benjamín"],
+    "correcta": "Assane Diop"
+  },
+  {
+    "pregunta": "¿Qué personaje es conocido como el 'Profesor' en la serie 'La Casa de Papel'?",
+    "opciones": ["Berlín", "Río", "Denver", "Sergio"],
+    "correcta": "Sergio"
+  },
+  {
+    "pregunta": "¿Cómo se llama el pueblo alemán donde ocurren los viajes en el tiempo en 'Dark'?",
+    "opciones": ["Winden", "Berlín", "Aquisgrán", "Múnich"],
+    "correcta": "Winden"
+  },
+  {
+    "pregunta": "¿Qué personaje principal de 'The Umbrella Academy' tiene el poder de teletransportarse?",
+    "opciones": ["Número Uno", "Número Cinco", "Número Siete", "Número Dos"],
+    "correcta": "Número Cinco"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la protagonista ajedrecista en 'Gambito de Dama'?",
+    "opciones": ["Beth Harmon", "Jolene", "Annette", "Cleo"],
+    "correcta": "Beth Harmon"
+  },
+  {
+    "pregunta": "¿Qué serie de drama adolescente trata sobre un grupo de 'Pogues' en busca de un tesoro?",
+    "opciones": ["Élite", "Riverdale", "Outer Banks", "The OA"],
+    "correcta": "Outer Banks"
+  },
+  {
+    "pregunta": "¿Qué famoso director y productor es uno de los creadores de 'Stranger Things'?",
+    "opciones": ["Guillermo del Toro", "Hermanos Duffer", "Stephen King", "J.J. Abrams"],
+    "correcta": "Hermanos Duffer"
+  },
+  {
+    "pregunta": "¿Qué personaje es un ex-ángel que trabaja como detective en 'Lucifer'?",
+    "opciones": ["Amenadiel", "Mazikeen", "Lucifer Morningstar", "Dan Espinoza"],
+    "correcta": "Lucifer Morningstar"
+  },
+  {
+    "pregunta": "¿Qué actriz interpreta a la protagonista en 'Orange is the New Black' (Piper Chapman)?",
+    "opciones": ["Taylor Schilling", "Uzo Aduba", "Laverne Cox", "Laura Prepon"],
+    "correcta": "Taylor Schilling"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del actor que interpreta a Geralt de Rivia en 'The Witcher'?",
+    "opciones": ["Chris Hemsworth", "Henry Cavill", "Ben Affleck", "Ryan Reynolds"],
+    "correcta": "Henry Cavill"
+  },
+  {
+    "pregunta": "¿Qué saga se desarrolla en torno a un dojo de Karate y sus rivalidades?",
+    "opciones": ["Daredevil", "Iron Fist", "Cobra Kai", "Sense8"],
+    "correcta": "Cobra Kai"
+  },
+  {
+    "pregunta": "¿Qué popular serie adolescente gira en torno a un misterio tras el suicidio de Hannah Baker?",
+    "opciones": ["Riverdale", "The End of the F***ing World", "13 Reasons Why", "Gossip Girl"],
+    "correcta": "13 Reasons Why"
+  },
+  {
+    "pregunta": "¿Cómo se llama el edificio que asaltan en la primera temporada de 'La Casa de Papel'?",
+    "opciones": ["Banco de España", "Fábrica Nacional de Moneda y Timbre", "El Banco Central", "Museo del Prado"],
+    "correcta": "Fábrica Nacional de Moneda y Timbre"
+  },
+  {
+    "pregunta": "¿Qué animal es el principal compañero de la princesa Bean en 'Desencanto'?",
+    "opciones": ["Un caballo", "Un elfo", "Un demonio", "Un gato"],
+    "correcta": "Un demonio"
+  },
+  {
+    "pregunta": "¿Qué actor protagoniza la serie 'You' (Joe Goldberg)?",
+    "opciones": ["Penn Badgley", "Dylan Minnette", "Noah Centineo", "Grant Gustin"],
+    "correcta": "Penn Badgley"
+  },
+  {
+    "pregunta": "¿Cómo se llama el villano Demogorgon en la primera temporada de 'Stranger Things'?",
+    "opciones": ["The Mind Flayer", "Vecna", "Demogorgon", "El Sombra"],
+    "correcta": "Demogorgon"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la matriarca de la familia Byrde en 'Ozark'?",
+    "opciones": ["Wendy", "Ruth", "Darlene", "Charlotte"],
+    "correcta": "Wendy"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del lugar donde Eleanor Shellstrop cree estar al inicio de 'The Good Place'?",
+    "opciones": ["The Bad Place", "The Medium Place", "The Good Place", "El Purgatorio"],
+    "correcta": "The Good Place"
+  },
+  {
+    "pregunta": "¿Qué serie de antología de ciencia ficción presenta historias independientes sobre el impacto de la tecnología?",
+    "opciones": ["Westworld", "Black Mirror", "Love, Death & Robots", "Philip K. Dick's Electric Dreams"],
+    "correcta": "Black Mirror"
+  },
+  {
+    "pregunta": "¿Qué personaje es el mejor amigo de Otis Milburn en 'Sex Education'?",
+    "opciones": ["Jackson Marchetti", "Adam Groff", "Eric Effiong", "Connor Swindells"],
+    "correcta": "Eric Effiong"
+  },
+  {
+    "pregunta": "¿Quién es el actor que interpreta a Tommy Shelby en 'Peaky Blinders'?",
+    "opciones": ["Tom Hardy", "Cillian Murphy", "Sam Claflin", "Paul Anderson"],
+    "correcta": "Cillian Murphy"
+  },
+  {
+    "pregunta": "¿Qué saga se centra en la vida de la familia real británica después de 1947?",
+    "opciones": ["Victoria", "The Crown", "Downton Abbey", "Outlander"],
+    "correcta": "The Crown"
+  },
+  {
+    "pregunta": "¿Cuál es el título que recibe el perdedor de 'El Juego del Calamar'?",
+    "opciones": ["Eliminado", "Perdedor", "Jugador", "Cadáver"],
+    "correcta": "Cadáver"
+  },
+  {
+    "pregunta": "¿Cómo se llama la heroína y compañera de Lucifer en la comisaría?",
+    "opciones": ["Chloe Decker", "Ella Lopez", "Linda Martin", "Trixie Espinoza"],
+    "correcta": "Chloe Decker"
+  },
+  {
+    "pregunta": "¿En qué película o serie se basa 'Cobra Kai'?",
+    "opciones": ["Rocky", "Karate Kid", "Bloodsport", "Enter the Dragon"],
+    "correcta": "Karate Kid"
+  },
+  {
+    "pregunta": "¿Qué actriz da vida a Merlina (Wednesday) Addams en la serie de Netflix?",
+    "opciones": ["Christina Ricci", "Jenna Ortega", "Catherine Zeta-Jones", "Emma Myers"],
+    "correcta": "Jenna Ortega"
+  },
+  {
+    "pregunta": "¿Qué es 'Jaskier' en 'The Witcher'?",
+    "opciones": ["Un mago", "Un bardo", "Un caballero", "Un monstruo"],
+    "correcta": "Un bardo"
+  },
+  {
+    "pregunta": "¿Qué personaje es el arqueólogo de la serie 'Dark' que viaja en el tiempo?",
+    "opciones": ["Ulrich Nielsen", "Jonas Kahnwald", "Noah", "El Desconocido"],
+    "correcta": "Jonas Kahnwald"
+  },
+  {
+    "pregunta": "¿En 'La Casa de Papel', ¿cuál es el nombre de la ladrona que cuenta la historia y es la narradora?",
+    "opciones": ["Nairobi", "Estocolmo", "Tokio", "Lisboa"],
+    "correcta": "Tokio"
+  },
+  {
+    "pregunta": "¿Qué cantante protagoniza la serie 'Hannah Montana'?",
+    "opciones": ["Ariana Grande", "Selena Gomez", "Miley Cyrus", "Demi Lovato"],
+    "correcta": "Miley Cyrus"
+  },
+  {
+    "pregunta": "¿Qué criatura mitológica es central en la trama de 'Sweet Tooth'?",
+    "opciones": ["Vampiros", "Híbridos (niño-animal)", "Zombis", "Hombres lobo"],
+    "correcta": "Híbridos (niño-animal)"
+  },
+  {
+    "pregunta": "¿Cuál es el apellido de la familia que se muda a la casa embrujada en 'La Maldición de Hill House'?",
+    "opciones": ["Crain", "Crane", "Flanagan", "Dunn"],
+    "correcta": "Crain"
+  },
+  {
+    "pregunta": "¿Quién es el creador de la serie 'Merlina' (Wednesday) y conocido por su estilo gótico?",
+    "opciones": ["Ryan Murphy", "Tim Burton", "Mike Flanagan", "Guillermo del Toro"],
+    "correcta": "Tim Burton"
+  },
+  {
+    "pregunta": "¿Qué personaje es conocido por su famosa línea 'Friends don't lie' ('Los amigos no mienten') en 'Stranger Things'?",
+    "opciones": ["Mike Wheeler", "Dustin Henderson", "Lucas Sinclair", "Will Byers"],
+    "correcta": "Mike Wheeler"
+  },
+  {
+    "pregunta": "¿Qué serie de época narra las historias de amor y matrimonio en la alta sociedad londinense?",
+    "opciones": ["Outlander", "The Crown", "Bridgerton", "Poldark"],
+    "correcta": "Bridgerton"
+  }
+]

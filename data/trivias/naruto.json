@@ -1,0 +1,397 @@
+[
+  {
+    "pregunta": "¿Cuál es el nombre completo del protagonista de la serie?",
+    "opciones": ["Uzumaki Nagato", "Uzumaki Kushina", "Uzumaki Naruto", "Uchiha Sasuke"],
+    "correcta": "Uzumaki Naruto"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del demonio zorro de nueve colas sellado dentro de Naruto?",
+    "opciones": ["Shukaku", "Gyuki", "Kurama", "Matatabi"],
+    "correcta": "Kurama"
+  },
+  {
+    "pregunta": "¿Cómo se llama el sensei del Equipo 7 (Naruto, Sasuke, Sakura)?",
+    "opciones": ["Jiraiya", "Might Guy", "Kakashi Hatake", "Asuma Sarutobi"],
+    "correcta": "Kakashi Hatake"
+  },
+  {
+    "pregunta": "¿Cuál es la técnica característica de Naruto Uzumaki que gira el chakra?",
+    "opciones": ["Chidori", "Jutsu Bola de Fuego", "Rasengan", "Puño Suave"],
+    "correcta": "Rasengan"
+  },
+  {
+    "pregunta": "¿Cuál es el Kekkei Genkai del Clan Uchiha?",
+    "opciones": ["Byakugan", "Sharingan", "Rinnegan", "Ketsuryugan"],
+    "correcta": "Sharingan"
+  },
+  {
+    "pregunta": "¿Qué Hokage fue el padre de Naruto Uzumaki?",
+    "opciones": ["Primer Hokage", "Segundo Hokage", "Tercer Hokage", "Cuarto Hokage"],
+    "correcta": "Cuarto Hokage"
+  },
+  {
+    "pregunta": "¿Cómo se llama el equipo que se dedica a capturar a los Jinchurikis?",
+    "opciones": ["ANBU", "Fundación", "Akatsuki", "Sannin"],
+    "correcta": "Akatsuki"
+  },
+  {
+    "pregunta": "¿Quién es conocido como el 'Ninja Copia' de Konoha?",
+    "opciones": ["Might Guy", "Kakashi Hatake", "Yamato", "Kurenai Yuhi"],
+    "correcta": "Kakashi Hatake"
+  },
+  {
+    "pregunta": "¿Cuál es el verdadero nombre del 'Fantasma del Clan Uchiha' que manipuló a la Akatsuki?",
+    "opciones": ["Madara Uchiha", "Izuna Uchiha", "Obito Uchiha", "Shisui Uchiha"],
+    "correcta": "Obito Uchiha"
+  },
+  {
+    "pregunta": "¿Qué técnica médica es el jutsu característico de Tsunade y Sakura?",
+    "opciones": ["Palma Mística", "Arte Ninja de Creación de Renacimiento", "Sello de Fuerza de Cien", "Regeneración Mitótica"],
+    "correcta": "Palma Mística"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del Kekkei Genkai de Neji Hyuga y su clan?",
+    "opciones": ["Sharingan", "Byakugan", "Rinnegan", "Mangekyo Sharingan"],
+    "correcta": "Byakugan"
+  },
+  {
+    "pregunta": "¿Quién es conocido como el 'Sabio de los Sapos' (Sapo Sannin)?",
+    "opciones": ["Orochimaru", "Jiraiya", "Minato Namikaze", "Hiruzen Sarutobi"],
+    "correcta": "Jiraiya"
+  },
+  {
+    "pregunta": "¿Cómo se llama la aldea oculta de la arena?",
+    "opciones": ["Kumogakure", "Iwagakure", "Sunagakure", "Kirigakure"],
+    "correcta": "Sunagakure"
+  },
+  {
+    "pregunta": "¿Cuál es el elemento principal del jutsu Chidori de Sasuke y Kakashi?",
+    "opciones": ["Agua", "Fuego", "Rayo", "Tierra"],
+    "correcta": "Rayo"
+  },
+  {
+    "pregunta": "¿Cuál es el jutsu que Itachi Uchiha utiliza para atrapar a sus oponentes en un mundo de ilusión y tortura temporal?",
+    "opciones": ["Tsukuyomi", "Amaterasu", "Susano'o", "Izanagi"],
+    "correcta": "Tsukuyomi"
+  },
+  {
+    "pregunta": "¿Quién es la Quinta Hokage?",
+    "opciones": ["Kushina Uzumaki", "Tsunade Senju", "Mei Terumi", "Konan"],
+    "correcta": "Tsunade Senju"
+  },
+  {
+    "pregunta": "¿Qué personaje es el único que puede usar las 'Ocho Puertas Internas' al máximo sin morir (por un tiempo)?",
+    "opciones": ["Rock Lee", "Might Guy", "Kakashi Hatake", "Neji Hyuga"],
+    "correcta": "Might Guy"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del jutsu prohibido creado por el Segundo Hokage?",
+    "opciones": ["Edo Tensei (Reencarnación del Mundo Impuro)", "Raikiri", "Susano'o", "Múltiples Clones de Sombra"],
+    "correcta": "Edo Tensei (Reencarnación del Mundo Impuro)"
+  },
+  {
+    "pregunta": "¿Cómo se llama el hermano de Sasuke Uchiha, quien masacró al clan?",
+    "opciones": ["Madara", "Obito", "Shisui", "Itachi"],
+    "correcta": "Itachi"
+  },
+  {
+    "pregunta": "¿Cuál es el pasatiempo favorito de Shikamaru Nara?",
+    "opciones": ["Entrenar", "Comer", "Dormir y mirar las nubes", "Estudiar jutsus"],
+    "correcta": "Dormir y mirar las nubes"
+  },
+  {
+    "pregunta": "¿Qué aldea oculta es conocida como la 'Aldea Escondida de la Hoja'?",
+    "opciones": ["Konohagakure", "Otogakure", "Amegakure", "Takigakure"],
+    "correcta": "Konohagakure"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del sabio que creó el Ninshū y es el padre de todos los ninjas?",
+    "opciones": ["Asura Ōtsutsuki", "Indra Ōtsutsuki", "Hagoromo Ōtsutsuki", "Hamura Ōtsutsuki"],
+    "correcta": "Hagoromo Ōtsutsuki"
+  },
+  {
+    "pregunta": "¿Quién es la kunoichi conocida por su habilidad con marionetas y su cuerpo de marioneta?",
+    "opciones": ["Konan", "Temari", "Kurotsuchi", "Chiyo"],
+    "correcta": "Chiyo"
+  },
+  {
+    "pregunta": "¿Qué jutsu utiliza el Clan Yamanaka para controlar la mente de sus oponentes?",
+    "opciones": ["Jutsu de Posesión de Sombra", "Jutsu de Intercambio de Mentes", "Jutsu de Cuerpo Completo", "Jutsu de Expansión de Cuerpo"],
+    "correcta": "Jutsu de Intercambio de Mentes"
+  },
+  {
+    "pregunta": "¿Cómo se llama el Cuarto Raikage, conocido por su velocidad extrema?",
+    "opciones": ["A", "B", "Omoi", "Darui"],
+    "correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el título que se le otorga al líder de la Aldea de la Cascada?",
+    "opciones": ["Hokage", "Raikage", "Mizukage", "Mizukage"],
+    "correcta": "Mizukage"
+  },
+  {
+    "pregunta": "¿Qué villano es el líder del equipo 'Taka' y busca destruir Konoha?",
+    "opciones": ["Pain", "Orochimaru", "Sasuke Uchiha", "Kabuto Yakushi"],
+    "correcta": "Sasuke Uchiha"
+  },
+  {
+    "pregunta": "¿Cuál es la herramienta ninja utilizada por el Clan Nara para ejecutar su Jutsu de Sombra?",
+    "opciones": ["Cuerdas", "Shurikens", "Chakras", "Sombras"],
+    "correcta": "Sombras"
+  },
+  {
+    "pregunta": "¿Qué personaje es el Jinchuriki de las Ocho Colas?",
+    "opciones": ["Gaara", "Yugito Nii", "Killer Bee", "Roshi"],
+    "correcta": "Killer Bee"
+  },
+  {
+    "pregunta": "¿Qué nombre de jutsu le dio Minato Namikaze al Rasengan antes de morir?",
+    "opciones": ["Rasengan", "Orbe Rasengan", "Técnica de Rotación", "Ninguno"],
+    "correcta": "Ninguno"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la madre de Naruto Uzumaki?",
+    "opciones": ["Tsunade Senju", "Hinata Hyuga", "Kushina Uzumaki", "Mikoto Uchiha"],
+    "correcta": "Kushina Uzumaki"
+  },
+  {
+    "pregunta": "¿Cuál es el apodo de Kisame Hoshigaki de la Akatsuki?",
+    "opciones": ["Ninja de la Niebla", "Espadachín de la Niebla", "Monstruo de la Niebla Oculta", "Tiburon de la Niebla"],
+    "correcta": "Monstruo de la Niebla Oculta"
+  },
+  {
+    "pregunta": "¿Quién es la estudiante que se casa con Naruto Uzumaki?",
+    "opciones": ["Sakura Haruno", "Ino Yamanaka", "Tenten", "Hinata Hyuga"],
+    "correcta": "Hinata Hyuga"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del jutsu que le permite a Pain (Nagato) revivir a los muertos?",
+    "opciones": ["Camino Exterior: Jutsu de la Vida Celestial de Samsara", "Edo Tensei", "Jutsu del Dios Trueno Volador", "Reencarnación de Samsara"],
+    "correcta": "Camino Exterior: Jutsu de la Vida Celestial de Samsara"
+  },
+  {
+    "pregunta": "¿Qué personaje tiene el Kekkei Genkai de Hielo?",
+    "opciones": ["Haku", "Zabuza", "Kimimaro", "Gaara"],
+    "correcta": "Haku"
+  },
+  {
+    "pregunta": "¿Quién es el actual (Séptimo) Hokage de Konohagakure?",
+    "opciones": ["Kakashi Hatake", "Naruto Uzumaki", "Shikamaru Nara", "Sasuke Uchiha"],
+    "correcta": "Naruto Uzumaki"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la serpiente gigante que invoca Orochimaru?",
+    "opciones": ["Katsuyu", "Gamabunta", "Aoda", "Manda"],
+    "correcta": "Manda"
+  },
+  {
+    "pregunta": "¿Qué personaje tiene el Quirk de 'Maldición de Esqueleto' o manipulación ósea (Shikotsumyaku)?",
+    "opciones": ["Jugo", "Sakon", "Kidomaru", "Kimimaro"],
+    "correcta": "Kimimaro"
+  },
+  {
+    "pregunta": "¿Quién es el espadachín que empuña la espada 'Samehada' (Piel de Tiburón)?",
+    "opciones": ["Zabuza Momochi", "Kisame Hoshigaki", "Suigetsu Hozuki", "Raiga Kurosuki"],
+    "correcta": "Kisame Hoshigaki"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la organización que originalmente fundaron Nagato, Yahiko y Konan?",
+    "opciones": ["Fundación", "Equipo Taka", "Akatsuki (original)", "Raíz"],
+    "correcta": "Akatsuki (original)"
+  },
+  {
+    "pregunta": "¿Qué nombre de aldea se conoce por el título de 'Kazekage'?",
+    "opciones": ["Aldea de la Roca", "Aldea de la Nube", "Aldea de la Arena", "Aldea de la Cascada"],
+    "correcta": "Aldea de la Arena"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del ataque definitivo de Might Guy con las Ocho Puertas Abiertas?",
+    "opciones": ["Puño Suave: Palma de la Hoja", "Tigre del Mediodía", "Elefante Nocturno", "Loto Primario"],
+    "correcta": "Elefante Nocturno"
+  },
+  {
+    "pregunta": "¿Qué miembro del Equipo 8 puede detectar a sus oponentes usando su olfato?",
+    "opciones": ["Shino Aburame", "Hinata Hyuga", "Kiba Inuzuka", "Kurenai Yuhi"],
+    "correcta": "Kiba Inuzuka"
+  },
+  {
+    "pregunta": "¿Cómo se llama el jutsu de clonación de chakra que permite a Naruto entrenar a alta velocidad?",
+    "opciones": ["Jutsu de Transformación", "Jutsu de Clonación de Sombra", "Jutsu de Cuerpo Parpadeante", "Jutsu de Sustitución"],
+    "correcta": "Jutsu de Clonación de Sombra"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del padre de Sasuke y líder del clan Uchiha al momento de la masacre?",
+    "opciones": ["Obito Uchiha", "Fugaku Uchiha", "Madara Uchiha", "Shisui Uchiha"],
+    "correcta": "Fugaku Uchiha"
+  },
+  {
+    "pregunta": "¿Qué personaje usa los 'Puppet Jutsus' y puede almacenar varias marionetas dentro de sí mismo?",
+    "opciones": ["Kankuro", "Chiyo", "Sasori", "Gaara"],
+    "correcta": "Sasori"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la 'Bestia de Diez Colas'?",
+    "opciones": ["Kurama", "Hachibi", "Jūbi", "Shukaku"],
+    "correcta": "Jūbi"
+  },
+  {
+    "pregunta": "¿Qué Sannin es conocido por su invocación de babosas gigantes?",
+    "opciones": ["Orochimaru", "Jiraiya", "Tsunade", "Hiruzen"],
+    "correcta": "Tsunade"
+  },
+  {
+    "pregunta": "¿Qué objeto lleva siempre puesto Deidara de la Akatsuki?",
+    "opciones": ["Máscara", "Un gran sombrero", "Un anillo en el pulgar derecho", "Unas gafas"],
+    "correcta": "Un anillo en el pulgar derecho"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la dimensión a la que Obito puede teletransportarse usando su Mangekyo Sharingan?",
+    "opciones": ["Amegakure", "El Vacío", "Kamui", "Limbo"],
+    "correcta": "Kamui"
+  },
+  {
+    "pregunta": "¿Quién es el ninja que murió en el Bosque de la Muerte protegiendo a Naruto y Sakura de Orochimaru?",
+    "opciones": ["Anko Mitarashi", "Rock Lee", "Yoroi Akado", "Ninguno"],
+    "correcta": "Ninguno"
+  },
+  {
+    "pregunta": "¿Qué ninja es el mejor amigo y rival de Rock Lee?",
+    "opciones": ["Naruto Uzumaki", "Neji Hyuga", "Kiba Inuzuka", "Shikamaru Nara"],
+    "correcta": "Neji Hyuga"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del Cuarto Hokage?",
+    "opciones": ["Tobirama Senju", "Hiruzen Sarutobi", "Minato Namikaze", "Hashirama Senju"],
+    "correcta": "Minato Namikaze"
+  },
+  {
+    "pregunta": "¿Cuál es el título que se le da a un Jinchuriki que domina completamente a su Bestia con Cola?",
+    "opciones": ["Kage", "Pseudo Jinchuriki", "Fuerza Portadora Perfecta", "Sage"],
+    "correcta": "Fuerza Portadora Perfecta"
+  },
+  {
+    "pregunta": "¿Qué personaje es el líder de la Aldea Oculta de la Lluvia y maneja los Seis Caminos del Dolor?",
+    "opciones": ["Konan", "Yahiko", "Nagato", "Hanzō"],
+    "correcta": "Nagato"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la hija de Sasuke y Sakura?",
+    "opciones": ["Himawari", "Sarada", "Chocho", "Mirai"],
+    "correcta": "Sarada"
+  },
+  {
+    "pregunta": "¿Qué tipo de chakra utiliza Deidara en sus explosiones?",
+    "opciones": ["Fuego", "Tierra", "Explosión (Kekkei Genkai)", "Viento"],
+    "correcta": "Explosión (Kekkei Genkai)"
+  },
+  {
+    "pregunta": "¿Qué ninja fue conocido por tener la 'Voluntad de Fuego' más fuerte de su generación, pero murió joven?",
+    "opciones": ["Jiraiya", "Minato Namikaze", "Obito Uchiha", "Hiruzen Sarutobi"],
+    "correcta": "Minato Namikaze"
+  },
+  {
+    "pregunta": "¿Qué organización era un grupo mercenario antes de convertirse en villanos con el objetivo de paz a través del dolor?",
+    "opciones": ["ANBU", "Los Seis Caminos del Dolor", "Akatsuki", "Los Diez Anillos"],
+    "correcta": "Akatsuki"
+  },
+  {
+    "pregunta": "¿Cuál es la última palabra que le dijo Itachi a Sasuke antes de morir en su primera pelea?",
+    "opciones": ["Te odio", "Perdóname", "Te amo", "Ya no hay futuro"],
+    "correcta": "Perdóname"
+  },
+  {
+    "pregunta": "¿Qué personaje es un usuario experto del Elemento Viento y tiene un contrato con los sapos?",
+    "opciones": ["Gara", "Temari", "Naruto Uzumaki", "Asuma Sarutobi"],
+    "correcta": "Naruto Uzumaki"
+  },
+  {
+    "pregunta": "¿Qué nombre se da al jutsu final de Sasuke que utiliza la fuerza de todas las Bestias con Cola?",
+    "opciones": ["Chidori Kagutsuchi", "Flecha de Indra", "Susano'o Perfecto", "Kirigakure"],
+    "correcta": "Flecha de Indra"
+  },
+  {
+    "pregunta": "¿Qué personaje es un usuario del Elemento Madera y fue el Primer Hokage?",
+    "opciones": ["Hashirama Senju", "Tobirama Senju", "Madara Uchiha", "Hiruzen Sarutobi"],
+    "correcta": "Hashirama Senju"
+  },
+  {
+    "pregunta": "¿Cómo se llama el primer puente construido por la misión de Team 7, nombrado en honor a un personaje?",
+    "opciones": ["Puente de la Niebla", "Gran Puente Naruto", "Puente Uzumaki", "Puente Tazuna"],
+    "correcta": "Gran Puente Naruto"
+  },
+  {
+    "pregunta": "¿Qué personaje tiene el Quirk de 'Explosión' en My Hero Academia (una pregunta cruzada)?",
+    "opciones": ["Bakugo", "Midoriya", "Todoroki", "All Might"],
+    "correcta": "Bakugo"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la máscara que usa Tobi/Obito en el Arco de la Cuarta Gran Guerra Ninja?",
+    "opciones": ["Máscara Espiral", "Máscara Zetsu", "Máscara Rinnegan", "Máscara del Sabio"],
+    "correcta": "Máscara Espiral"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la bestia de una cola, cuyo Jinchuriki fue Gaara?",
+    "opciones": ["Kurama", "Gyuki", "Shukaku", "Son Goku"],
+    "correcta": "Shukaku"
+  },
+  {
+    "pregunta": "¿Qué personaje femenino es la Kage (Mizukage) de la Aldea de la Niebla en el Concilio de los 5 Kages?",
+    "opciones": ["Mei Terumi", "Tsunade Senju", "Konan", "Kurotsuchi"],
+    "correcta": "Mei Terumi"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del perro ninja de Kakashi Hatake?",
+    "opciones": ["Kamatari", "Akamaru", "Pakkun", "Kuromaru"],
+    "correcta": "Pakkun"
+  },
+  {
+    "pregunta": "¿Qué personaje es conocido por su extrema timidez y su habilidad con el Byakugan?",
+    "opciones": ["Hanabi Hyuga", "Hinata Hyuga", "Tenten", "Shizune"],
+    "correcta": "Hinata Hyuga"
+  },
+  {
+    "pregunta": "¿Qué par de hermanos son los hijos del Sabio de los Seis Caminos y los ancestros de los clanes Uchiha y Senju?",
+    "opciones": ["Madara y Izuna", "Hashirama y Tobirama", "Ashura e Indra", "Hagoromo y Hamura"],
+    "correcta": "Ashura e Indra"
+  },
+  {
+    "pregunta": "¿Qué personaje de la Akatsuki usa técnicas de arcilla explosiva?",
+    "opciones": ["Sasori", "Deidara", "Kisame", "Hidan"],
+    "correcta": "Deidara"
+  },
+  {
+    "pregunta": "¿Quién es el actor de doblaje en español latino de Naruto Uzumaki?",
+    "opciones": ["René García", "Isabel Martiñón", "Alfonso Obregón", "Mario Castañeda"],
+    "correcta": "Isabel Martiñón"
+  },
+  {
+    "pregunta": "¿Cuál es el rango mínimo que un ninja debe alcanzar para participar en el Examen Chunin?",
+    "opciones": ["Academia", "Genin", "Chunin", "Jonin"],
+    "correcta": "Genin"
+  },
+  {
+    "pregunta": "¿Qué personaje es el único miembro femenino original de la Akatsuki (aparte de Tobi/Obito)?",
+    "opciones": ["Yugito Nii", "Konan", "Tsunade", "Tayuya"],
+    "correcta": "Konan"
+  },
+  {
+    "pregunta": "¿Cuál es el jutsu que utiliza Shisui Uchiha para manipular las mentes de los demás sin que se den cuenta?",
+    "opciones": ["Kotoamatsukami", "Amaterasu", "Tsukuyomi", "Izanami"],
+    "correcta": "Kotoamatsukami"
+  },
+  {
+    "pregunta": "¿Cómo se llama el pergamino que Naruto roba al principio de la serie para aprender el Jutsu de Clones de Sombra?",
+    "opciones": ["Pergamino de los Secretos", "Pergamino Prohibido", "Pergamino de la Llama", "Pergamino de la Aldea"],
+    "correcta": "Pergamino Prohibido"
+  },
+  {
+    "pregunta": "¿Qué personaje es conocido por su Jutsu de Posesión de Sombra?",
+    "opciones": ["Choji Akimichi", "Shikamaru Nara", "Kiba Inuzuka", "Shino Aburame"],
+    "correcta": "Shikamaru Nara"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la organización de la que Kakashi se vuelve líder en Boruto?",
+    "opciones": ["ANBU", "Unidad de Vigilancia", "Equipo 7", "Ninguna"],
+    "correcta": "Ninguna"
+  }
+]

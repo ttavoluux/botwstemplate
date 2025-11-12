@@ -1,0 +1,152 @@
+[
+  {
+    "pregunta": "¿Quién es el protagonista principal de Attack on Titan?",
+    "opciones": ["Armin Arlert", "Eren Yeager", "Levi Ackerman", "Mikasa Ackerman"],
+    "correcta": "Eren Yeager"
+  },
+  {
+    "pregunta": "¿Qué organización combate a los titanes?",
+    "opciones": ["Policía Militar", "Cuerpo de Exploración", "Gendarmería", "Realeza"],
+    "correcta": "Cuerpo de Exploración"
+  },
+  {
+    "pregunta": "¿Quién es el titán colosal?",
+    "opciones": ["Reiner Braun", "Bertolt Hoover", "Zeke Yeager", "Annie Leonhart"],
+    "correcta": "Bertolt Hoover"
+  },
+  {
+    "pregunta": "¿Qué le sucedió a la madre de Eren?",
+    "opciones": ["Fue devorada por un titán", "Escapó del distrito", "Se convirtió en titán", "Fue rescatada"],
+    "correcta": "Fue devorada por un titán"
+  },
+  {
+    "pregunta": "¿Quién es el Titán Acorazado?",
+    "opciones": ["Reiner Braun", "Bertolt Hoover", "Annie Leonhart", "Porco Galliard"],
+    "correcta": "Reiner Braun"
+  },
+  {
+    "pregunta": "¿Qué relación tiene Mikasa con Eren?",
+    "opciones": ["Hermana adoptiva", "Prima", "Novia", "Amiga de la infancia"],
+    "correcta": "Hermana adoptiva"
+  },
+  {
+    "pregunta": "¿Quién es conocido como 'El soldado más fuerte de la humanidad'?",
+    "opciones": ["Erwin Smith", "Levi Ackerman", "Eren Yeager", "Jean Kirstein"],
+    "correcta": "Levi Ackerman"
+  },
+  {
+    "pregunta": "¿Qué titán posee Eren inicialmente?",
+    "opciones": ["Titán de Ataque", "Titán Fundador", "Titán Martillo de Guerra", "Titán Bestia"],
+    "correcta": "Titán de Ataque"
+  },
+  {
+    "pregunta": "¿Quién es el Titán Hembra?",
+    "opciones": ["Annie Leonhart", "Pieck Finger", "Ymir", "Historia Reiss"],
+    "correcta": "Annie Leonhart"
+  },
+  {
+    "pregunta": "¿Qué distrito es atacado primero en la serie?",
+    "opciones": ["Distrito Shiganshina", "Distrito Trost", "Distrito Stohess", "Mitras"],
+    "correcta": "Distrito Shiganshina"
+  },
+  {
+    "pregunta": "¿Quién se convierte en la Reina de las murallas?",
+    "opciones": ["Historia Reiss", "Ymir", "Annie Leonhart", "Carla Yeager"],
+    "correcta": "Historia Reiss"
+  },
+  {
+    "pregunta": "¿Qué personaje es el Titán Bestia?",
+    "opciones": ["Zeke Yeager", "Reiner Braun", "Grisha Yeager", "Falco Grice"],
+    "correcta": "Zeke Yeager"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del equipo especial liderado por Levi?",
+    "opciones": ["Escuadrón de Operaciones Especiales", "Escuadrón Levi", "Tropa de reconocimiento", "Equipo de élite"],
+    "correcta": "Escuadrón de Operaciones Especiales"
+  },
+  {
+    "pregunta": "¿Quién mata a Erwin Smith?",
+    "opciones": ["Titán Bestia", "Titán Colosal", "Titán Acorazado", "No muere en la serie"],
+    "correcta": "Titán Bestia"
+  },
+  {
+    "pregunta": "¿Qué personaje posee el poder del Titán Fundador?",
+    "opciones": ["Eren Yeager", "Historia Reiss", "Rod Reiss", "Grisha Yeager"],
+    "correcta": "Eren Yeager"
+  },
+  {
+    "pregunta": "¿Quién es el padre de Eren?",
+    "opciones": ["Grisha Yeager", "Keith Shadis", "Rod Reiss", "Dot Pixis"],
+    "correcta": "Grisha Yeager"
+  },
+  {
+    "pregunta": "¿Qué personaje se sacrifica para salvar a Armin?",
+    "opciones": ["Erwin Smith", "Levi Ackerman", "Marlo Freudenberg", "No muere nadie"],
+    "correcta": "Erwin Smith"
+  },
+  {
+    "pregunta": "¿Quién es el comandante del Cuerpo de Exploración antes de Hange?",
+    "opciones": ["Erwin Smith", "Keith Shadis", "Dot Pixis", "Nile Dawk"],
+    "correcta": "Erwin Smith"
+  },
+  {
+    "pregunta": "¿Qué titán posee la capacidad de endurecer partes de su cuerpo?",
+    "opciones": ["Titán Acorazado", "Titán Martillo de Guerra", "Titán Fundador", "Titán de Ataque"],
+    "correcta": "Titán Acorazado"
+  },
+  {
+    "pregunta": "¿Quién mata a Sasha Blouse?",
+    "opciones": ["Gabi Braun", "Falco Grice", "Reiner Braun", "Porco Galliard"],
+    "correcta": "Gabi Braun"
+  },
+  {
+    "pregunta": "¿Qué personaje es conocido como 'El Martillo de Guerra'?",
+    "opciones": ["Lara Tybur", "Willy Tybur", "Theo Magath", "Kiyomi Azumabito"],
+    "correcta": "Lara Tybur"
+  },
+  {
+    "pregunta": "¿Cuál es el verdadero nombre de Ymir?",
+    "opciones": ["Marcel Galliard", "No se revela", "Historia Reiss", "Frieda Reiss"],
+    "correcta": "No se revela"
+  },
+  {
+    "pregunta": "¿Quién lidera el Cuerpo de Exploración después de Erwin?",
+    "opciones": ["Hange Zoë", "Levi Ackerman", "Moblit Berner", "Nana"],
+    "correcta": "Hange Zoë"
+  },
+  {
+    "pregunta": "¿Qué personaje posee la sangre real de Eldia?",
+    "opciones": ["Historia Reiss", "Eren Yeager", "Zeke Yeager", "Levi Ackerman"],
+    "correcta": "Historia Reiss"
+  },
+  {
+    "pregunta": "¿Quién es el creador de los titanes?",
+    "opciones": ["Ymir Fritz", "Karl Fritz", "Eren Yeager", "El Rey Fundador"],
+    "correcta": "Ymir Fritz"
+  },
+  {
+    "pregunta": "¿Qué personaje se convierte en el Titán Jaw después de Ymir?",
+    "opciones": ["Porco Galliard", "Falco Grice", "Marcel Galliard", "Reiner Braun"],
+    "correcta": "Porco Galliard"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo final del Plan Eutanasia de Zeke?",
+    "opciones": ["Esterilizar a todos los eldianos", "Destruir el mundo", "Salvar a Paradis", "Crear más titanes"],
+    "correcta": "Esterilizar a todos los eldianos"
+  },
+  {
+    "pregunta": "¿Quién mata a Levi?",
+    "opciones": ["Zeke Yeager", "Nadie (sobrevive)", "Eren Yeager", "Titán Colosal"],
+    "correcta": "Nadie (sobrevive)"
+  },
+  {
+    "pregunta": "¿Qué personaje hereda el Titán Bestia al final?",
+    "opciones": ["Falco Grice", "Armin Arlert", "Jean Kirstein", "Connie Springer"],
+    "correcta": "Falco Grice"
+  },
+  {
+    "pregunta": "¿Cuál es el destino final de Eren?",
+    "opciones": ["Es decapitado por Mikasa", "Se convierte en rey", "Muere de vejez", "Escapa con Mikasa"],
+    "correcta": "Es decapitado por Mikasa"
+  }
+]

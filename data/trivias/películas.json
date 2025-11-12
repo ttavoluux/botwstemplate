@@ -1,0 +1,252 @@
+[
+  {
+    "pregunta": "¿Quién dirigió 'Titanic'?",
+    "opciones": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Ridley Scott"],
+    "correcta": "James Cameron"
+  },
+  {
+    "pregunta": "¿En qué película aparece el personaje 'Forrest Gump'?",
+    "opciones": ["Forrest Gump", "Náufrago", "Salvar al Soldado Ryan", "Apolo 13"],
+    "correcta": "Forrest Gump"
+  },
+  {
+    "pregunta": "¿Qué saga tiene el anillo único?",
+    "opciones": ["Harry Potter", "El Señor de los Anillos", "Narnia", "Star Wars"],
+    "correcta": "El Señor de los Anillos"
+  },
+  {
+    "pregunta": "¿Qué actor interpretó al 'Joker' en la película 'El Caballero Oscuro' (The Dark Knight)?",
+    "opciones": ["Joaquin Phoenix", "Jared Leto", "Heath Ledger", "Jack Nicholson"],
+    "correcta": "Heath Ledger"
+  },
+  {
+    "pregunta": "¿Cuál es la famosa frase asociada con la película 'E.T., el Extraterrestre'?",
+    "opciones": ["Hasta la vista, baby", "Mi nombre es Bond, James Bond", "E.T., teléfono, casa", "Que la fuerza te acompañe"],
+    "correcta": "E.T., teléfono, casa"
+  },
+  {
+    "pregunta": "¿Qué director es conocido por películas como 'Pulp Fiction' y 'Kill Bill'?",
+    "opciones": ["Martin Scorsese", "Quentin Tarantino", "Stanley Kubrick", "Tim Burton"],
+    "correcta": "Quentin Tarantino"
+  },
+  {
+    "pregunta": "¿En qué película de Disney aparece la canción 'Let It Go' ('Libre Soy')?",
+    "opciones": ["La Sirenita", "Enredados", "Frozen", "Moana"],
+    "correcta": "Frozen"
+  },
+  {
+    "pregunta": "¿Cuál fue el primer largometraje de animación de Disney?",
+    "opciones": ["Pinocho", "Bambi", "Blancanieves y los siete enanitos", "Dumbo"],
+    "correcta": "Blancanieves y los siete enanitos"
+  },
+  {
+    "pregunta": "¿Qué actor de cine de acción es famoso por el papel de 'Terminator'?",
+    "opciones": ["Sylvester Stallone", "Bruce Willis", "Arnold Schwarzenegger", "Jean-Claude Van Damme"],
+    "correcta": "Arnold Schwarzenegger"
+  },
+  {
+    "pregunta": "¿Qué película ganó el Óscar a Mejor Película en 2020?",
+    "opciones": ["1917", "Parásitos", "Érase una vez en Hollywood", "Joker"],
+    "correcta": "Parásitos"
+  },
+  {
+    "pregunta": "¿Quién es el protagonista de la saga 'Indiana Jones'?",
+    "opciones": ["Harrison Ford", "Tom Cruise", "Brad Pitt", "Mel Gibson"],
+    "correcta": "Harrison Ford"
+  },
+  {
+    "pregunta": "¿En qué ciudad se desarrolla la mayor parte de la acción de 'El Padrino'?",
+    "opciones": ["Los Ángeles", "Nueva York", "Chicago", "Miami"],
+    "correcta": "Nueva York"
+  },
+  {
+    "pregunta": "¿Qué actriz es la protagonista de 'Los Juegos del Hambre' (Katniss Everdeen)?",
+    "opciones": ["Emma Watson", "Shailene Woodley", "Jennifer Lawrence", "Dakota Fanning"],
+    "correcta": "Jennifer Lawrence"
+  },
+  {
+    "pregunta": "¿Cómo se llama el planeta natal de Superman?",
+    "opciones": ["Tatooine", "Krypton", "Génesis", "Vulcano"],
+    "correcta": "Krypton"
+  },
+  {
+    "pregunta": "¿Qué famoso director de cine es conocido por suspenso y terror, como 'Psicosis'?",
+    "opciones": ["Orson Welles", "Alfred Hitchcock", "Steven Spielberg", "Billy Wilder"],
+    "correcta": "Alfred Hitchcock"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del perro de Marty McFly en 'Regreso al Futuro'?",
+    "opciones": ["Einstein", "Tótem", "Plutón", "Max"],
+    "correcta": "Einstein"
+  },
+  {
+    "pregunta": "¿Qué película de ciencia ficción de 1999 presenta la famosa elección entre la píldora azul y la roja?",
+    "opciones": ["Blade Runner", "Matrix", "Minority Report", "El Quinto Elemento"],
+    "correcta": "Matrix"
+  },
+  {
+    "pregunta": "¿Quién escribió y dirigió 'El Viaje de Chihiro'?",
+    "opciones": ["Makoto Shinkai", "Mamoru Hosoda", "Isao Takahata", "Hayao Miyazaki"],
+    "correcta": "Hayao Miyazaki"
+  },
+  {
+    "pregunta": "¿Qué actor interpretó a Tony Stark (Iron Man) en el UCM?",
+    "opciones": ["Chris Evans", "Mark Ruffalo", "Robert Downey Jr.", "Chris Hemsworth"],
+    "correcta": "Robert Downey Jr."
+  },
+  {
+    "pregunta": "¿Qué saga de fantasía ocurre en el mundo mágico de 'Hogwarts'?",
+    "opciones": ["Las Crónicas de Narnia", "Percy Jackson", "Harry Potter", "Juegos del Hambre"],
+    "correcta": "Harry Potter"
+  },
+  {
+    "pregunta": "¿Cuál es la película más taquillera de todos los tiempos (ajustada a la inflación)?",
+    "opciones": ["Avatar", "Vengadores: Endgame", "Titanic", "Lo que el viento se llevó"],
+    "correcta": "Lo que el viento se llevó"
+  },
+  {
+    "pregunta": "¿Quién interpretó a Jack Dawson en 'Titanic'?",
+    "opciones": ["Matthew McConaughey", "Brad Pitt", "Tom Cruise", "Leonardo DiCaprio"],
+    "correcta": "Leonardo DiCaprio"
+  },
+  {
+    "pregunta": "¿Qué famosa película de terror de 1973 está basada en un libro de William Peter Blatty?",
+    "opciones": ["Psicosis", "El Exorcista", "La Profecía", "Carrie"],
+    "correcta": "El Exorcista"
+  },
+  {
+    "pregunta": "¿Cómo se llama el muñeco poseído protagonista de una saga de terror?",
+    "opciones": ["Annabelle", "Billy", "Chucky", "Pinhead"],
+    "correcta": "Chucky"
+  },
+  {
+    "pregunta": "¿Qué director es conocido por su uso del color, la simetría y 'El Gran Hotel Budapest'?",
+    "opciones": ["Denis Villeneuve", "Wes Anderson", "Alejandro G. Iñárritu", "Darren Aronofsky"],
+    "correcta": "Wes Anderson"
+  },
+  {
+    "pregunta": "¿Qué película incluye la famosa línea 'Yo soy tu padre'?",
+    "opciones": ["Star Trek", "El Señor de los Anillos", "Star Wars: Episodio V", "Dune"],
+    "correcta": "Star Wars: Episodio V"
+  },
+  {
+    "pregunta": "¿Qué actor interpretó a James Bond más veces?",
+    "opciones": ["Daniel Craig", "Sean Connery", "Roger Moore", "Pierce Brosnan"],
+    "correcta": "Roger Moore"
+  },
+  {
+    "pregunta": "¿Qué película de 1994 está ambientada principalmente en una cárcel y es considerada una de las mejores de la historia?",
+    "opciones": ["Pulp Fiction", "Cadena Perpetua", "Fargo", "El Silencio de los Corderos"],
+    "correcta": "Cadena Perpetua"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del león protagonista en la película de Disney de 1994?",
+    "opciones": ["Mufasa", "Scar", "Simba", "Timón"],
+    "correcta": "Simba"
+  },
+  {
+    "pregunta": "¿Qué famosa escena de 'Cantando bajo la lluvia' involucra a Gene Kelly cantando en la calle?",
+    "opciones": ["Good Morning", "Singin' in the Rain", "Make 'Em Laugh", "Moses Supposes"],
+    "correcta": "Singin' in the Rain"
+  },
+  {
+    "pregunta": "¿Qué película de Martin Scorsese sigue la historia de un corredor de bolsa en los años 90?",
+    "opciones": ["Taxi Driver", "Infiltrados", "El Lobo de Wall Street", "Casino"],
+    "correcta": "El Lobo de Wall Street"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del robot que viaja en el tiempo en 'Terminator'?",
+    "opciones": ["T-800", "T-1000", "Robocop", "Ultron"],
+    "correcta": "T-800"
+  },
+  {
+    "pregunta": "¿Quién es el protagonista de 'Gladiador' (Maximus Decimus Meridius)?",
+    "opciones": ["Russell Crowe", "Joaquin Phoenix", "Mel Gibson", "Brad Pitt"],
+    "correcta": "Russell Crowe"
+  },
+  {
+    "pregunta": "¿Qué película de Christopher Nolan trata sobre un ladrón que roba información a través de los sueños?",
+    "opciones": ["Memento", "Interstellar", "El Caballero Oscuro", "Origen (Inception)"],
+    "correcta": "Origen (Inception)"
+  },
+  {
+    "pregunta": "¿Qué actor es el protagonista de 'Piratas del Caribe' (Jack Sparrow)?",
+    "opciones": ["Orlando Bloom", "Johnny Depp", "Geoffrey Rush", "Keira Knightley"],
+    "correcta": "Johnny Depp"
+  },
+  {
+    "pregunta": "¿Cuál es el título de la precuela de 'El Señor de los Anillos'?",
+    "opciones": ["Silmarillion", "El Hobbit", "Las Dos Torres", "La Comunidad del Anillo"],
+    "correcta": "El Hobbit"
+  },
+  {
+    "pregunta": "¿En qué película el personaje principal tiene que vivir el mismo día una y otra vez?",
+    "opciones": ["Al Filo del Mañana", "Atrapado en el tiempo (Groundhog Day)", "Source Code", "Donnie Darko"],
+    "correcta": "Atrapado en el tiempo (Groundhog Day)"
+  },
+  {
+    "pregunta": "¿Qué película de Steven Spielberg trata sobre un parque temático lleno de dinosaurios?",
+    "opciones": ["Encuentros Cercanos del Tercer Tipo", "Tiburón", "Parque Jurásico", "E.T."],
+    "correcta": "Parque Jurásico"
+  },
+  {
+    "pregunta": "¿Quién es el actor que interpretó a Neo en 'Matrix'?",
+    "opciones": ["Leonardo DiCaprio", "Tom Cruise", "Keanu Reeves", "Will Smith"],
+    "correcta": "Keanu Reeves"
+  },
+  {
+    "pregunta": "¿Qué película de Pixar sigue las aventuras de un robot de limpieza en un futuro postapocalíptico?",
+    "opciones": ["Up", "Toy Story", "WALL-E", "Bichos"],
+    "correcta": "WALL-E"
+  },
+  {
+    "pregunta": "¿Cómo se llama el compañero de 'Batman' en los cómics y en algunas películas?",
+    "opciones": ["Nightwing", "Batgirl", "Alfred", "Robin"],
+    "correcta": "Robin"
+  },
+  {
+    "pregunta": "¿Qué director mexicano ganó tres premios Óscar consecutivos a Mejor Director?",
+    "opciones": ["Alfonso Cuarón", "Alejandro G. Iñárritu", "Guillermo del Toro", "Carlos Reygadas"],
+    "correcta": "Alejandro G. Iñárritu"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del estudio de animación japonés famoso por 'Mi Vecino Totoro'?",
+    "opciones": ["Kyoto Animation", "Studio Ghibli", "Toei Animation", "Madhouse"],
+    "correcta": "Studio Ghibli"
+  },
+  {
+    "pregunta": "¿Qué película de los 80 trata sobre un niño que monta en bicicleta con un alienígena?",
+    "opciones": ["Los Goonies", "Explorers", "E.T., el Extraterrestre", "Cortocircuito"],
+    "correcta": "E.T., el Extraterrestre"
+  },
+  {
+    "pregunta": "¿Quién es la actriz principal de 'El Diablo Viste a la Moda'?",
+    "opciones": ["Meryl Streep", "Anne Hathaway", "Emily Blunt", "Jessica Biel"],
+    "correcta": "Anne Hathaway"
+  },
+  {
+    "pregunta": "¿En qué película actúa Tom Hanks interpretando a un náufrago con un balón de voleibol como amigo?",
+    "opciones": ["Rescatando al Soldado Ryan", "Apolo 13", "Náufrago", "Capitán Phillips"],
+    "correcta": "Náufrago"
+  },
+  {
+    "pregunta": "¿Qué género musical es el centro de la película 'La La Land'?",
+    "opciones": ["Rock", "Pop", "Jazz", "Hip-Hop"],
+    "correcta": "Jazz"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de la saga 'Rocky'?",
+    "opciones": ["Apollo Creed", "Ivan Drago", "Rocky Balboa", "Mickey Goldmill"],
+    "correcta": "Rocky Balboa"
+  },
+  {
+    "pregunta": "¿Qué famoso director de cine es conocido por su estilo visual y temáticas como el 'Sueño Americano' roto ('Ciudadano Kane')?",
+    "opciones": ["Francis Ford Coppola", "Stanley Kubrick", "Orson Welles", "John Ford"],
+    "correcta": "Orson Welles"
+  },
+  {
+    "pregunta": "¿Qué actor protagonizó la película 'El Renacido' y ganó su primer Óscar?",
+    "opciones": ["Matthew McConaughey", "Leonardo DiCaprio", "Tom Hardy", "Christian Bale"],
+    "correcta": "Leonardo DiCaprio"
+  }
+]

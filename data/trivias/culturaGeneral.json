@@ -1,0 +1,367 @@
+[
+  {
+    "pregunta": "¿Cuántos continentes hay en el mundo?",
+    "opciones": ["5", "6", "7", "8"],
+    "correcta": "7"
+  },
+  {
+    "pregunta": "¿Qué idioma se habla en Brasil?",
+    "opciones": ["Español", "Portugués", "Francés", "Inglés"],
+    "correcta": "Portugués"
+  },
+  {
+    "pregunta": "¿Qué animal es conocido como el 'Rey de la selva'?",
+    "opciones": ["Tigre", "León", "Elefante", "Jaguar"],
+    "correcta": "León"
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo?",
+    "opciones": ["Nilo", "Amazonas", "Misisipi", "Yangtsé"],
+    "correcta": "Amazonas"
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la luna?",
+    "opciones": ["1965", "1969", "1972", "1958"],
+    "correcta": "1969"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Australia?",
+    "opciones": ["Sídney", "Melbourne", "Canberra", "Brisbane"],
+    "correcta": "Canberra"
+  },
+  {
+    "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+    "opciones": ["Mario Vargas Llosa", "Gabriel García Márquez", "Julio Cortázar", "Pablo Neruda"],
+    "correcta": "Gabriel García Márquez"
+  },
+  {
+    "pregunta": "¿Qué instrumento musical tocaba Beethoven?",
+    "opciones": ["Violín", "Piano", "Flauta", "Guitarra"],
+    "correcta": "Piano"
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo?",
+    "opciones": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+    "correcta": "Pacífico"
+  },
+  {
+    "pregunta": "¿En qué país se encuentra la Torre Eiffel?",
+    "opciones": ["Italia", "Francia", "España", "Alemania"],
+    "correcta": "Francia"
+  },
+  {
+    "pregunta": "¿Qué planeta es el más grande del sistema solar?",
+    "opciones": ["Tierra", "Júpiter", "Saturno", "Neptuno"],
+    "correcta": "Júpiter"
+  },
+  {
+    "pregunta": "¿Quién pintó 'La última cena'?",
+    "opciones": ["Miguel Ángel", "Leonardo da Vinci", "Rafael", "Caravaggio"],
+    "correcta": "Leonardo da Vinci"
+  },
+  {
+    "pregunta": "¿Cuál es el país más grande del mundo por territorio?",
+    "opciones": ["China", "Estados Unidos", "Rusia", "Canadá"],
+    "correcta": "Rusia"
+  },
+  {
+    "pregunta": "¿Qué deporte juega Lionel Messi?",
+    "opciones": ["Tenis", "Fútbol", "Baloncesto", "Rugby"],
+    "correcta": "Fútbol"
+  },
+  {
+    "pregunta": "¿Cuál es la moneda oficial de Japón?",
+    "opciones": ["Yuan", "Won", "Yen", "Dólar"],
+    "correcta": "Yen"
+  },
+  {
+    "pregunta": "¿Quién escribió 'Romeo y Julieta'?",
+    "opciones": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "correcta": "William Shakespeare"
+  },
+  {
+    "pregunta": "¿Qué elemento químico tiene el símbolo 'O'?",
+    "opciones": ["Oro", "Oxígeno", "Osmio", "Oganesón"],
+    "correcta": "Oxígeno"
+  },
+  {
+    "pregunta": "¿Cuál es la montaña más alta del mundo?",
+    "opciones": ["K2", "Monte Everest", "Aconcagua", "Kilimanjaro"],
+    "correcta": "Monte Everest"
+  },
+  {
+    "pregunta": "¿En qué continente se encuentra Egipto?",
+    "opciones": ["Asia", "África", "Europa", "América"],
+    "correcta": "África"
+  },
+  {
+    "pregunta": "¿Qué famoso científico formuló la teoría de la relatividad?",
+    "opciones": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Galileo Galilei"],
+    "correcta": "Albert Einstein"
+  },
+  {
+    "pregunta": "¿Cuál es el país más poblado del mundo?",
+    "opciones": ["India", "Estados Unidos", "China", "Indonesia"],
+    "correcta": "China"
+  },
+  {
+    "pregunta": "¿Qué fruto seco se usa para hacer el turrón?",
+    "opciones": ["Cacahuete", "Almendra", "Nuez", "Avellana"],
+    "correcta": "Almendra"
+  },
+  {
+    "pregunta": "¿Quién compuso 'La Quinta Sinfonía'?",
+    "opciones": ["Mozart", "Beethoven", "Bach", "Chopin"],
+    "correcta": "Beethoven"
+  },
+  {
+    "pregunta": "¿Cuál es el desierto más grande del mundo?",
+    "opciones": ["Sahara", "Kalahari", "Gobi", "Antártico"],
+    "correcta": "Antártico"
+  },
+  {
+    "pregunta": "¿Qué ciudad es conocida como 'La Ciudad Eterna'?",
+    "opciones": ["Atenas", "Roma", "París", "Jerusalén"],
+    "correcta": "Roma"
+  },
+  {
+    "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+    "opciones": ["1939", "1941", "1937", "1945"],
+    "correcta": "1939"
+  },
+  {
+    "pregunta": "¿Qué planeta es conocido como 'el planeta rojo'?",
+    "opciones": ["Venus", "Marte", "Júpiter", "Saturno"],
+    "correcta": "Marte"
+  },
+  {
+    "pregunta": "¿Quién fue el primer hombre en el espacio?",
+    "opciones": ["Neil Armstrong", "Yuri Gagarin", "John Glenn", "Alan Shepard"],
+    "correcta": "Yuri Gagarin"
+  },
+  {
+    "pregunta": "¿Cuál es el idioma más hablado del mundo?",
+    "opciones": ["Inglés", "Español", "Chino mandarín", "Hindi"],
+    "correcta": "Chino mandarín"
+  },
+  {
+    "pregunta": "¿Qué instrumento se toca con arco?",
+    "opciones": ["Guitarra", "Violín", "Piano", "Flauta"],
+    "correcta": "Violín"
+  },
+  {
+    "pregunta": "¿En qué país se originó el sushi?",
+    "opciones": ["China", "Japón", "Corea", "Tailandia"],
+    "correcta": "Japón"
+  },
+  {
+    "pregunta": "¿Qué escritor creó 'Don Quijote de la Mancha'?",
+    "opciones": ["Miguel de Cervantes", "Federico García Lorca", "Lope de Vega", "Francisco de Quevedo"],
+    "correcta": "Miguel de Cervantes"
+  },
+  {
+    "pregunta": "¿Cuál es el metal más caro del mundo?",
+    "opciones": ["Oro", "Platino", "Rodio", "Paladio"],
+    "correcta": "Rodio"
+  },
+  {
+    "pregunta": "¿Qué país tiene forma de bota?",
+    "opciones": ["Grecia", "Italia", "España", "Francia"],
+    "correcta": "Italia"
+  },
+  {
+    "pregunta": "¿Quién pintó 'El grito'?",
+    "opciones": ["Vincent van Gogh", "Edvard Munch", "Pablo Picasso", "Salvador Dalí"],
+    "correcta": "Edvard Munch"
+  },
+  {
+    "pregunta": "¿Cuál es el animal más rápido del mundo?",
+    "opciones": ["Guepardo", "Leopardo", "Águila", "Halconcillo"],
+    "correcta": "Guepardo"
+  },
+  {
+    "pregunta": "¿En qué ciudad se encuentra la estatua de la Libertad?",
+    "opciones": ["Los Ángeles", "Nueva York", "Washington", "Miami"],
+    "correcta": "Nueva York"
+  },
+  {
+    "pregunta": "¿Qué planeta tiene anillos?",
+    "opciones": ["Júpiter", "Saturno", "Urano", "Neptuno"],
+    "correcta": "Saturno"
+  },
+  {
+    "pregunta": "¿Quién escribió '1984'?",
+    "opciones": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "H.G. Wells"],
+    "correcta": "George Orwell"
+  },
+  {
+    "pregunta": "¿Cuál es el país más pequeño del mundo?",
+    "opciones": ["Mónaco", "Vaticano", "San Marino", "Liechtenstein"],
+    "correcta": "Vaticano"
+  },
+  {
+    "pregunta": "¿Qué deporte se juega en Wimbledon?",
+    "opciones": ["Golf", "Tenis", "Críquet", "Rugby"],
+    "correcta": "Tenis"
+  },
+  {
+    "pregunta": "¿En qué país se encuentra el Machu Picchu?",
+    "opciones": ["México", "Perú", "Bolivia", "Colombia"],
+    "correcta": "Perú"
+  },
+  {
+    "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+    "opciones": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John Adams"],
+    "correcta": "George Washington"
+  },
+  {
+    "pregunta": "¿Qué fruta es conocida como 'el rey de las frutas'?",
+    "opciones": ["Mango", "Durian", "Piña", "Guayaba"],
+    "correcta": "Durian"
+  },
+  {
+    "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+    "opciones": ["Fémur", "Tibia", "Húmero", "Radio"],
+    "correcta": "Fémur"
+  },
+  {
+    "pregunta": "¿Qué ciudad es la capital de Canadá?",
+    "opciones": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "correcta": "Ottawa"
+  },
+  {
+    "pregunta": "¿Quién compuso 'Las cuatro estaciones'?",
+    "opciones": ["Vivaldi", "Mozart", "Haydn", "Handel"],
+    "correcta": "Vivaldi"
+  },
+  {
+    "pregunta": "¿Qué animal es el símbolo de los Estados Unidos?",
+    "opciones": ["Águila calva", "Búho", "Oso", "Bisonte"],
+    "correcta": "Águila calva"
+  },
+  {
+    "pregunta": "¿En qué año cayó el muro de Berlín?",
+    "opciones": ["1987", "1989", "1991", "1985"],
+    "correcta": "1989"
+  },
+  {
+    "pregunta": "¿Qué planeta es el más cercano al Sol?",
+    "opciones": ["Venus", "Mercurio", "Tierra", "Marte"],
+    "correcta": "Mercurio"
+  },
+  {
+    "pregunta": "¿Quién escribió 'El principito'?",
+    "opciones": ["Jules Verne", "Antoine de Saint-Exupéry", "Victor Hugo", "Charles Perrault"],
+    "correcta": "Antoine de Saint-Exupéry"
+  },
+  {
+    "pregunta": "¿Cuál es el lago más profundo del mundo?",
+    "opciones": ["Lago Superior", "Lago Baikal", "Lago Tanganica", "Lago Victoria"],
+    "correcta": "Lago Baikal"
+  },
+  {
+    "pregunta": "¿Qué ciudad es conocida como 'La Perla del Adriático'?",
+    "opciones": ["Venecia", "Dubrovnik", "Split", "Atenas"],
+    "correcta": "Dubrovnik"
+  },
+  {
+    "pregunta": "¿En qué deporte se usa un puck?",
+    "opciones": ["Hockey sobre hielo", "Fútbol", "Rugby", "Béisbol"],
+    "correcta": "Hockey sobre hielo"
+  },
+  {
+    "pregunta": "¿Quién pintó 'Los girasoles'?",
+    "opciones": ["Claude Monet", "Vincent van Gogh", "Paul Cézanne", "Paul Gauguin"],
+    "correcta": "Vincent van Gogh"
+  },
+  {
+    "pregunta": "¿Cuál es el país con más islas del mundo?",
+    "opciones": ["Filipinas", "Indonesia", "Suecia", "Japón"],
+    "correcta": "Suecia"
+  },
+  {
+    "pregunta": "¿Qué instrumento musical tiene 88 teclas?",
+    "opciones": ["Órgano", "Piano", "Acordeón", "Clavecín"],
+    "correcta": "Piano"
+  },
+  {
+    "pregunta": "¿En qué país se encuentra la Gran Barrera de Coral?",
+    "opciones": ["Brasil", "Australia", "Indonesia", "Filipinas"],
+    "correcta": "Australia"
+  },
+  {
+    "pregunta": "¿Quién fue el primer ser vivo en orbitar la Tierra?",
+    "opciones": ["La perra Laika", "El chimpancé Ham", "Yuri Gagarin", "Neil Armstrong"],
+    "correcta": "La perra Laika"
+  },
+  {
+    "pregunta": "¿Qué ciudad es la capital de Argentina?",
+    "opciones": ["Buenos Aires", "Santiago", "Lima", "Montevideo"],
+    "correcta": "Buenos Aires"
+  },
+  {
+    "pregunta": "¿Cuál es el metal líquido a temperatura ambiente?",
+    "opciones": ["Mercurio", "Plomo", "Estaño", "Cinc"],
+    "correcta": "Mercurio"
+  },
+  {
+    "pregunta": "¿Qué escritor creó a Sherlock Holmes?",
+    "opciones": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "Charles Dickens"],
+    "correcta": "Arthur Conan Doyle"
+  },
+  {
+    "pregunta": "¿En qué país se encuentra el Taj Mahal?",
+    "opciones": ["Pakistán", "India", "Bangladés", "Sri Lanka"],
+    "correcta": "India"
+  },
+  {
+    "pregunta": "¿Qué planeta tiene el día más largo?",
+    "opciones": ["Venus", "Mercurio", "Júpiter", "Marte"],
+    "correcta": "Venus"
+  },
+  {
+    "pregunta": "¿Quién compuso 'El lago de los cisnes'?",
+    "opciones": ["Tchaikovsky", "Mozart", "Beethoven", "Chopin"],
+    "correcta": "Tchaikovsky"
+  },
+  {
+    "pregunta": "¿Cuál es el mamífero más grande del mundo?",
+    "opciones": ["Elefante africano", "Ballena azul", "Jirafa", "Rinoceronte"],
+    "correcta": "Ballena azul"
+  },
+  {
+    "pregunta": "¿Qué ciudad es la capital de Egipto?",
+    "opciones": ["Alejandría", "El Cairo", "Luxor", "Giza"],
+    "correcta": "El Cairo"
+  },
+  {
+    "pregunta": "¿En qué año se fundó la ONU?",
+    "opciones": ["1945", "1950", "1939", "1948"],
+    "correcta": "1945"
+  },
+  {
+    "pregunta": "¿Qué pintor es conocido por cortarse una oreja?",
+    "opciones": ["Pablo Picasso", "Vincent van Gogh", "Salvador Dalí", "Claude Monet"],
+    "correcta": "Vincent van Gogh"
+  },
+  {
+    "pregunta": "¿Cuál es el país más visitado del mundo?",
+    "opciones": ["España", "Francia", "Estados Unidos", "Italia"],
+    "correcta": "Francia"
+  },
+  {
+    "pregunta": "¿Qué instrumento se toca soplando?",
+    "opciones": ["Guitarra", "Flauta", "Violín", "Piano"],
+    "correcta": "Flauta"
+  },
+  {
+    "pregunta": "¿En qué país se originó el fútbol?",
+    "opciones": ["Brasil", "Inglaterra", "Argentina", "Alemania"],
+    "correcta": "Inglaterra"
+  },
+  {
+    "pregunta": "¿Quién escribió 'Orgullo y prejuicio'?",
+    "opciones": ["Charlotte Brontë", "Jane Austen", "Emily Brontë", "Virginia Woolf"],
+    "correcta": "Jane Austen"
+  }
+]

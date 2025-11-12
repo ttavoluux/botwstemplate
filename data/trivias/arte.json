@@ -1,0 +1,252 @@
+[
+  {
+    "pregunta": "¿Quién pintó 'La Mona Lisa'?",
+    "opciones": ["Leonardo da Vinci", "Picasso", "Van Gogh", "Dalí"],
+    "correcta": "Leonardo da Vinci"
+  },
+  {
+    "pregunta": "¿Qué estilo de arte utilizaba Salvador Dalí?",
+    "opciones": ["Cubismo", "Surrealismo", "Impresionismo", "Realismo"],
+    "correcta": "Surrealismo"
+  },
+  {
+    "pregunta": "¿Dónde se encuentra el museo del Louvre?",
+    "opciones": ["Londres", "Madrid", "París", "Roma"],
+    "correcta": "París"
+  },
+  {
+    "pregunta": "¿Quién pintó 'La noche estrellada'?",
+    "opciones": ["Vincent van Gogh", "Claude Monet", "Pablo Picasso", "Edvard Munch"],
+    "correcta": "Vincent van Gogh"
+  },
+  {
+    "pregunta": "¿Qué artista es conocido por sus pinturas de lirios de agua?",
+    "opciones": ["Monet", "Renoir", "Degas", "Cézanne"],
+    "correcta": "Monet"
+  },
+  {
+    "pregunta": "¿Quién esculpió 'El David'?",
+    "opciones": ["Miguel Ángel", "Donatello", "Bernini", "Rodin"],
+    "correcta": "Miguel Ángel"
+  },
+  {
+    "pregunta": "¿En qué museo se encuentra 'El Guernica' de Picasso?",
+    "opciones": ["Museo del Prado", "Museo Reina Sofía", "Museo del Louvre", "Tate Modern"],
+    "correcta": "Museo Reina Sofía"
+  },
+  {
+    "pregunta": "¿Qué movimiento artístico lideró Andy Warhol?",
+    "opciones": ["Pop Art", "Expresionismo", "Dadaísmo", "Fauvismo"],
+    "correcta": "Pop Art"
+  },
+  {
+    "pregunta": "¿Quién pintó 'El grito'?",
+    "opciones": ["Edvard Munch", "Van Gogh", "Kandinsky", "Klimt"],
+    "correcta": "Edvard Munch"
+  },
+  {
+    "pregunta": "¿Qué artista cortó parte de su propia oreja?",
+    "opciones": ["Vincent van Gogh", "Paul Gauguin", "Henri de Toulouse-Lautrec", "Caravaggio"],
+    "correcta": "Vincent van Gogh"
+  },
+  {
+    "pregunta": "¿Quién pintó 'Las meninas'?",
+    "opciones": ["Diego Velázquez", "Francisco de Goya", "El Greco", "Bartolomé Esteban Murillo"],
+    "correcta": "Diego Velázquez"
+  },
+  {
+    "pregunta": "¿Qué estilo artístico se caracteriza por pinceladas sueltas y captura de la luz?",
+    "opciones": ["Impresionismo", "Cubismo", "Realismo", "Barroco"],
+    "correcta": "Impresionismo"
+  },
+  {
+    "pregunta": "¿Quién es el autor de 'La última cena'?",
+    "opciones": ["Leonardo da Vinci", "Rafael", "Tiziano", "Tintoretto"],
+    "correcta": "Leonardo da Vinci"
+  },
+  {
+    "pregunta": "¿Qué artista es famoso por sus pinturas de bailarinas?",
+    "opciones": ["Edgar Degas", "Pierre-Auguste Renoir", "Édouard Manet", "Paul Cézanne"],
+    "correcta": "Edgar Degas"
+  },
+  {
+    "pregunta": "¿Quién pintó 'El jardín de las delicias'?",
+    "opciones": ["El Bosco", "Brueghel el Viejo", "Van Eyck", "Rembrandt"],
+    "correcta": "El Bosco"
+  },
+  {
+    "pregunta": "¿Qué museo de Madrid alberga principalmente arte europeo de los siglos XVI-XIX?",
+    "opciones": ["Museo del Prado", "Museo Reina Sofía", "Museo Thyssen", "Museo Arqueológico"],
+    "correcta": "Museo del Prado"
+  },
+  {
+    "pregunta": "¿Quién es considerado el padre del cubismo?",
+    "opciones": ["Pablo Picasso", "Georges Braque", "Juan Gris", "Fernand Léger"],
+    "correcta": "Pablo Picasso"
+  },
+  {
+    "pregunta": "¿Qué artista mexicano es famoso por sus murales?",
+    "opciones": ["Diego Rivera", "Frida Kahlo", "David Alfaro Siqueiros", "José Clemente Orozco"],
+    "correcta": "Diego Rivera"
+  },
+  {
+    "pregunta": "¿Quién pintó 'El nacimiento de Venus'?",
+    "opciones": ["Sandro Botticelli", "Rafael", "Miguel Ángel", "Leonardo da Vinci"],
+    "correcta": "Sandro Botticelli"
+  },
+  {
+    "pregunta": "¿Qué estilo artístico se desarrolló en el siglo XX y usa formas geométricas?",
+    "opciones": ["Cubismo", "Impresionismo", "Romanticismo", "Realismo"],
+    "correcta": "Cubismo"
+  },
+  {
+    "pregunta": "¿Quién esculpió 'El beso'?",
+    "opciones": ["Auguste Rodin", "Constantin Brancusi", "Henry Moore", "Alberto Giacometti"],
+    "correcta": "Auguste Rodin"
+  },
+  {
+    "pregunta": "¿Qué artista holandés es famoso por sus autorretratos?",
+    "opciones": ["Rembrandt", "Vermeer", "Van Gogh", "Mondrian"],
+    "correcta": "Rembrandt"
+  },
+  {
+    "pregunta": "¿Quién pintó 'La ronda de noche'?",
+    "opciones": ["Rembrandt", "Vermeer", "Frans Hals", "Hieronymus Bosch"],
+    "correcta": "Rembrandt"
+  },
+  {
+    "pregunta": "¿Qué movimiento artístico se caracteriza por colores vibrantes y emociones intensas?",
+    "opciones": ["Expresionismo", "Impresionismo", "Neoclasicismo", "Realismo"],
+    "correcta": "Expresionismo"
+  },
+  {
+    "pregunta": "¿Quién es el arquitecto de la Sagrada Familia en Barcelona?",
+    "opciones": ["Antoni Gaudí", "Santiago Calatrava", "Ricardo Bofill", "Óscar Tusquets"],
+    "correcta": "Antoni Gaudí"
+  },
+  {
+    "pregunta": "¿Qué artista es conocido por sus 'móviles' o esculturas en movimiento?",
+    "opciones": ["Alexander Calder", "Henry Moore", "Louise Nevelson", "David Smith"],
+    "correcta": "Alexander Calder"
+  },
+  {
+    "pregunta": "¿Quién pintó 'American Gothic'?",
+    "opciones": ["Grant Wood", "Edward Hopper", "Andrew Wyeth", "Norman Rockwell"],
+    "correcta": "Grant Wood"
+  },
+  {
+    "pregunta": "¿Qué estilo arquitectónico se caracteriza por arcos apuntados y vitrales?",
+    "opciones": ["Gótico", "Románico", "Renacentista", "Barroco"],
+    "correcta": "Gótico"
+  },
+  {
+    "pregunta": "¿Quién es el autor de 'Las señoritas de Avignon'?",
+    "opciones": ["Pablo Picasso", "Henri Matisse", "Georges Braque", "Amedeo Modigliani"],
+    "correcta": "Pablo Picasso"
+  },
+  {
+    "pregunta": "¿Qué artista es famoso por sus pinturas de flores y naturaleza muerta?",
+    "opciones": ["Georgia O'Keeffe", "Frida Kahlo", "Tamara de Lempicka", "Mary Cassatt"],
+    "correcta": "Georgia O'Keeffe"
+  },
+  {
+    "pregunta": "¿Quién pintó 'El juicio final' en la Capilla Sixtina?",
+    "opciones": ["Miguel Ángel", "Rafael", "Leonardo da Vinci", "Tiziano"],
+    "correcta": "Miguel Ángel"
+  },
+  {
+    "pregunta": "¿Qué movimiento artístico rechazó la lógica y la razón después de la Primera Guerra Mundial?",
+    "opciones": ["Dadaísmo", "Surrealismo", "Futurismo", "Constructivismo"],
+    "correcta": "Dadaísmo"
+  },
+  {
+    "pregunta": "¿Quién es el pintor de 'La persistencia de la memoria'?",
+    "opciones": ["Salvador Dalí", "René Magritte", "Joan Miró", "Max Ernst"],
+    "correcta": "Salvador Dalí"
+  },
+  {
+    "pregunta": "¿Qué artista británico es conocido por sus instalaciones con animales en formol?",
+    "opciones": ["Damien Hirst", "Tracey Emin", "Banksy", "Anish Kapoor"],
+    "correcta": "Damien Hirst"
+  },
+  {
+    "pregunta": "¿Quién pintó 'El caminante sobre el mar de nubes'?",
+    "opciones": ["Caspar David Friedrich", "William Turner", "John Constable", "Thomas Gainsborough"],
+    "correcta": "Caspar David Friedrich"
+  },
+  {
+    "pregunta": "¿Qué estilo artístico se desarrolló en Rusia después de la Revolución?",
+    "opciones": ["Constructivismo", "Suprematismo", "Realismo socialista", "Futurismo"],
+    "correcta": "Constructivismo"
+  },
+  {
+    "pregunta": "¿Quién es el arquitecto del Museo Guggenheim de Bilbao?",
+    "opciones": ["Frank Gehry", "Zaha Hadid", "Norman Foster", "I. M. Pei"],
+    "correcta": "Frank Gehry"
+  },
+  {
+    "pregunta": "¿Qué artista francés es conocido por pintar escenas de Tahití?",
+    "opciones": ["Paul Gauguin", "Henri Matisse", "Paul Cézanne", "Pierre Bonnard"],
+    "correcta": "Paul Gauguin"
+  },
+  {
+    "pregunta": "¿Quién esculpió 'El pensador'?",
+    "opciones": ["Auguste Rodin", "Michelangelo", "Donatello", "Alberto Giacometti"],
+    "correcta": "Auguste Rodin"
+  },
+  {
+    "pregunta": "¿Qué movimiento artístico se caracteriza por representar la velocidad y el movimiento?",
+    "opciones": ["Futurismo", "Cubismo", "Surrealismo", "Expresionismo"],
+    "correcta": "Futurismo"
+  },
+  {
+    "pregunta": "¿Quién pintó 'Niña con un arete de perla'?",
+    "opciones": ["Johannes Vermeer", "Rembrandt", "Frans Hals", "Pieter de Hooch"],
+    "correcta": "Johannes Vermeer"
+  },
+  {
+    "pregunta": "¿Qué artista es conocido por sus 'ready-mades' como la Fuente?",
+    "opciones": ["Marcel Duchamp", "Man Ray", "Francis Picabia", "Kurt Schwitters"],
+    "correcta": "Marcel Duchamp"
+  },
+  {
+    "pregunta": "¿Quién pintó 'El carnaval del arlequín'?",
+    "opciones": ["Joan Miró", "Salvador Dalí", "Pablo Picasso", "Antoni Tàpies"],
+    "correcta": "Joan Miró"
+  },
+  {
+    "pregunta": "¿Qué estilo arquitectónico usa líneas curvas y decoración excesiva?",
+    "opciones": ["Barroco", "Rococó", "Neoclásico", "Gótico"],
+    "correcta": "Barroco"
+  },
+  {
+    "pregunta": "¿Quién es el pintor de 'El angelus'?",
+    "opciones": ["Jean-François Millet", "Gustave Courbet", "Théodore Rousseau", "Camille Corot"],
+    "correcta": "Jean-François Millet"
+  },
+  {
+    "pregunta": "¿Qué artista es famoso por sus pinturas de gatos?",
+    "opciones": ["Louis Wain", "Henri Rousseau", "Marc Chagall", "Wassily Kandinsky"],
+    "correcta": "Louis Wain"
+  },
+  {
+    "pregunta": "¿Quién diseñó la Torre Eiffel?",
+    "opciones": ["Gustave Eiffel", "Alexandre-Gustave Eiffel", "Hector Guimard", "Charles Garnier"],
+    "correcta": "Gustave Eiffel"
+  },
+  {
+    "pregunta": "¿Qué movimiento artístico buscaba capturar la esencia espiritual a través del color?",
+    "opciones": ["Expresionismo abstracto", "Impresionismo", "Fauvismo", "Simbolismo"],
+    "correcta": "Expresionismo abstracto"
+  },
+  {
+    "pregunta": "¿Quién pintó 'La libertad guiando al pueblo'?",
+    "opciones": ["Eugène Delacroix", "Théodore Géricault", "Jacques-Louis David", "Jean-Auguste-Dominique Ingres"],
+    "correcta": "Eugène Delacroix"
+  },
+  {
+    "pregunta": "¿Qué artista español es conocido por su período azul?",
+    "opciones": ["Pablo Picasso", "Joan Miró", "Salvador Dalí", "Antoni Tàpies"],
+    "correcta": "Pablo Picasso"
+  }
+]

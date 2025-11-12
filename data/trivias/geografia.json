@@ -1,0 +1,267 @@
+[
+  {
+    "pregunta": "¿Cuál es el país más grande del mundo?",
+    "opciones": ["China", "Canadá", "Rusia", "Estados Unidos"],
+    "correcta": "Rusia"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Australia?",
+    "opciones": ["Sídney", "Melbourne", "Canberra", "Perth"],
+    "correcta": "Canberra"
+  },
+  {
+    "pregunta": "¿Qué río atraviesa Egipto?",
+    "opciones": ["Nilo", "Amazonas", "Misisipi", "Yangtsé"],
+    "correcta": "Nilo"
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo?",
+    "opciones": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+    "correcta": "Pacífico"
+  },
+  {
+    "pregunta": "¿Cuál es la montaña más alta sobre el nivel del mar?",
+    "opciones": ["K2", "Kangchenjunga", "Monte Everest", "Aconcagua"],
+    "correcta": "Monte Everest"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Japón?",
+    "opciones": ["Osaka", "Kioto", "Tokio", "Seúl"],
+    "correcta": "Tokio"
+  },
+  {
+    "pregunta": "¿En qué continente se encuentra el desierto del Sahara?",
+    "opciones": ["Asia", "África", "América del Sur", "Oceanía"],
+    "correcta": "África"
+  },
+  {
+    "pregunta": "¿Cuál es el canal artificial que conecta el Océano Atlántico con el Océano Pacífico?",
+    "opciones": ["Canal de Suez", "Estrecho de Gibraltar", "Canal de Panamá", "Canal de Kiel"],
+    "correcta": "Canal de Panamá"
+  },
+  {
+    "pregunta": "¿Qué país tiene la mayor población del mundo?",
+    "opciones": ["China", "Estados Unidos", "Indonesia", "India"],
+    "correcta": "India"
+  },
+  {
+    "pregunta": "¿Qué estrecho separa Europa de África?",
+    "opciones": ["Estrecho de Bering", "Estrecho de Magallanes", "Estrecho de Gibraltar", "Estrecho de Malaca"],
+    "correcta": "Estrecho de Gibraltar"
+  },
+  {
+    "pregunta": "¿Cuál es el lago más profundo del mundo?",
+    "opciones": ["Lago Superior", "Mar Caspio", "Lago Tanganica", "Lago Baikal"],
+    "correcta": "Lago Baikal"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Brasil?",
+    "opciones": ["Río de Janeiro", "São Paulo", "Brasilia", "Salvador"],
+    "correcta": "Brasilia"
+  },
+  {
+    "pregunta": "¿En qué cordillera se encuentra el Monte Everest?",
+    "opciones": ["Montañas Rocosas", "Andes", "Himalaya", "Alpes"],
+    "correcta": "Himalaya"
+  },
+  {
+    "pregunta": "¿Qué isla es la más grande del mundo?",
+    "opciones": ["Madagascar", "Groenlandia", "Nueva Guinea", "Borneo"],
+    "correcta": "Groenlandia"
+  },
+  {
+    "pregunta": "¿Qué país es conocido como la 'Tierra del Sol Naciente'?",
+    "opciones": ["China", "Corea del Sur", "Japón", "Vietnam"],
+    "correcta": "Japón"
+  },
+  {
+    "pregunta": "¿Qué continente es el menos poblado del mundo (excluyendo la Antártida)?",
+    "opciones": ["Oceanía", "Europa", "América del Sur", "América del Norte"],
+    "correcta": "Oceanía"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Canadá?",
+    "opciones": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+    "correcta": "Ottawa"
+  },
+  {
+    "pregunta": "¿Qué mar interior está en peligro de secarse y se encuentra entre Kazajistán y Uzbekistán?",
+    "opciones": ["Mar Muerto", "Mar de Aral", "Mar Caspio", "Mar Negro"],
+    "correcta": "Mar de Aral"
+  },
+  {
+    "pregunta": "¿Cuál es el punto más bajo de la Tierra (la fosa oceánica)?",
+    "opciones": ["Fosa de Puerto Rico", "Fosa de las Marianas", "Fosa de Sunda", "Fosa de Kermadec"],
+    "correcta": "Fosa de las Marianas"
+  },
+  {
+    "pregunta": "¿Qué país es una península famosa por su forma de 'bota'?",
+    "opciones": ["Grecia", "España", "Portugal", "Italia"],
+    "correcta": "Italia"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Alemania?",
+    "opciones": ["Múnich", "Fráncfort", "Hamburgo", "Berlín"],
+    "correcta": "Berlín"
+  },
+  {
+    "pregunta": "¿Qué desierto cubre gran parte del norte de Chile y el sur de Perú, siendo uno de los más secos?",
+    "opciones": ["Desierto de Gobi", "Desierto del Kalahari", "Desierto Patagónico", "Desierto de Atacama"],
+    "correcta": "Desierto de Atacama"
+  },
+  {
+    "pregunta": "¿Qué país se extiende por dos continentes (Europa y Asia) y tiene su capital en el lado europeo?",
+    "opciones": ["Egipto", "Rusia", "Kazajistán", "Turquía"],
+    "correcta": "Turquía"
+  },
+  {
+    "pregunta": "¿Qué ciudad es la más poblada del mundo (por área metropolitana)?",
+    "opciones": ["Nueva York", "Shanghái", "Ciudad de México", "Tokio"],
+    "correcta": "Tokio"
+  },
+  {
+    "pregunta": "¿Cuál es el río más caudaloso (mayor volumen de agua) del mundo?",
+    "opciones": ["Nilo", "Misisipi", "Amazonas", "Yangtsé"],
+    "correcta": "Amazonas"
+  },
+  {
+    "pregunta": "¿Qué país de América del Sur no tiene costa en el Océano Atlántico ni en el Océano Pacífico?",
+    "opciones": ["Chile", "Perú", "Colombia", "Bolivia"],
+    "correcta": "Bolivia"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Sudáfrica (administrativa)?",
+    "opciones": ["Ciudad del Cabo", "Pretoria", "Johannesburgo", "Durban"],
+    "correcta": "Pretoria"
+  },
+  {
+    "pregunta": "¿Qué línea imaginaria divide la Tierra en los hemisferios norte y sur?",
+    "opciones": ["Trópico de Cáncer", "Meridiano de Greenwich", "Trópico de Capricornio", "Ecuador"],
+    "correcta": "Ecuador"
+  },
+  {
+    "pregunta": "¿Cómo se llama el volcán más famoso de Japón, considerado un símbolo nacional?",
+    "opciones": ["Monte Aso", "Monte Fuji", "Monte Sakurajima", "Monte Ontake"],
+    "correcta": "Monte Fuji"
+  },
+  {
+    "pregunta": "¿Qué país es una monarquía insular en el noroeste de Europa?",
+    "opciones": ["Francia", "España", "Reino Unido", "Alemania"],
+    "correcta": "Reino Unido"
+  },
+  {
+    "pregunta": "¿Qué archipiélago del Pacífico es conocido como la 'Perla de las Antillas' (históricamente)?",
+    "opciones": ["Hawái", "Puerto Rico", "Filipinas", "Cuba"],
+    "correcta": "Cuba"
+  },
+  {
+    "pregunta": "¿Cuál es la ciudad más grande de Marruecos?",
+    "opciones": ["Rabat", "Marrakech", "Fez", "Casablanca"],
+    "correcta": "Casablanca"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso sistema de arrecifes en la costa de Australia?",
+    "opciones": ["Arrecife de Coral de Belice", "Atolón de Bikini", "Arrecife de Tubbataha", "Gran Barrera de Coral"],
+    "correcta": "Gran Barrera de Coral"
+  },
+  {
+    "pregunta": "¿Qué país tiene el mayor número de husos horarios?",
+    "opciones": ["Rusia", "China", "Estados Unidos", "Francia"],
+    "correcta": "Francia"
+  },
+  {
+    "pregunta": "¿Qué meseta se encuentra en el centro-sur de la India?",
+    "opciones": ["Meseta tibetana", "Meseta de Anatolia", "Meseta de Columbia", "Meseta de Deccan"],
+    "correcta": "Meseta de Deccan"
+  },
+  {
+    "pregunta": "¿Qué capital sudamericana se encuentra a mayor altitud?",
+    "opciones": ["Quito", "La Paz", "Bogotá", "Santiago"],
+    "correcta": "La Paz"
+  },
+  {
+    "pregunta": "¿Qué país escandinavo es conocido por sus fiordos?",
+    "opciones": ["Suecia", "Finlandia", "Dinamarca", "Noruega"],
+    "correcta": "Noruega"
+  },
+  {
+    "pregunta": "¿Qué cadena montañosa separa a Europa de Asia (parcialmente)?",
+    "opciones": ["Alpes", "Cárpatos", "Urales", "Apeninos"],
+    "correcta": "Urales"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de China?",
+    "opciones": ["Shanghái", "Hong Kong", "Pekín", "Guangzhou"],
+    "correcta": "Pekín"
+  },
+  {
+    "pregunta": "¿Qué país es una nación sin salida al mar en América del Sur?",
+    "opciones": ["Ecuador", "Uruguay", "Venezuela", "Paraguay"],
+    "correcta": "Paraguay"
+  },
+  {
+    "pregunta": "¿Cómo se llama el istmo que conecta América del Norte y América del Sur?",
+    "opciones": ["Istmo de Tehuantepec", "Istmo de Panamá", "Istmo de Corinto", "Istmo de Suez"],
+    "correcta": "Istmo de Panamá"
+  },
+  {
+    "pregunta": "¿Qué ciudad es la sede de la ONU en Estados Unidos?",
+    "opciones": ["Washington D.C.", "Boston", "Los Ángeles", "Nueva York"],
+    "correcta": "Nueva York"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del río que fluye a través de Londres?",
+    "opciones": ["Sena", "Rin", "Danubio", "Támesis"],
+    "correcta": "Támesis"
+  },
+  {
+    "pregunta": "¿Cuál es la isla más poblada del mundo?",
+    "opciones": ["Groenlandia", "Honshu", "Java", "Gran Bretaña"],
+    "correcta": "Java"
+  },
+  {
+    "pregunta": "¿Qué país africano es el más poblado?",
+    "opciones": ["Egipto", "Etiopía", "Nigeria", "Kenia"],
+    "correcta": "Nigeria"
+  },
+  {
+    "pregunta": "¿Qué capital europea es famosa por su estructura conocida como el Coliseo?",
+    "opciones": ["Atenas", "París", "Madrid", "Roma"],
+    "correcta": "Roma"
+  },
+  {
+    "pregunta": "¿Qué océano rodea la Antártida?",
+    "opciones": ["Océano Pacífico", "Océano Índico", "Océano Atlántico", "Océano Austral (o Antártico)"],
+    "correcta": "Océano Austral (o Antártico)"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de la India?",
+    "opciones": ["Bombay", "Bangalore", "Nueva Delhi", "Calcuta"],
+    "correcta": "Nueva Delhi"
+  },
+  {
+    "pregunta": "¿Qué país ocupa la mayor parte de la Península Arábiga?",
+    "opciones": ["Qatar", "Emiratos Árabes Unidos", "Omán", "Arabia Saudita"],
+    "correcta": "Arabia Saudita"
+  },
+  {
+    "pregunta": "¿Qué montaña es el pico más alto de África?",
+    "opciones": ["Monte Kenia", "Monte Kilimanjaro", "Monte Camerún", "Monte Elgon"],
+    "correcta": "Monte Kilimanjaro"
+  },
+  {
+    "pregunta": "¿Cuál es el cuerpo de agua más salado de la Tierra?",
+    "opciones": ["Mar Caspio", "Mar Negro", "Mar Muerto", "Mar Rojo"],
+    "correcta": "Mar Muerto"
+  },
+  {
+    "pregunta": "¿Qué país limita con España al oeste?",
+    "opciones": ["Francia", "Marruecos", "Portugal", "Andorra"],
+    "correcta": "Portugal"
+  },
+  {
+    "pregunta": "¿Qué país se encuentra en la mayor parte de la isla de Gran Bretaña?",
+    "opciones": ["Irlanda", "Escocia", "Gales", "Inglaterra"],
+    "correcta": "Inglaterra"
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "pregunta": "¿Quién es el protagonista principal de 'Naruto'?",
+    "opciones": ["Sasuke Uchiha", "Naruto Uzumaki", "Kakashi Hatake", "Sakura Haruno"],
+    "correcta": "Naruto Uzumaki"
+  },
+  {
+    "pregunta": "¿Qué objeto usa Goku para viajar rápidamente?",
+    "opciones": ["Nube Voladora", "Cápsula Hoi-Poi", "Radar del Dragón", "Coche de Bulma"],
+    "correcta": "Nube Voladora"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del Shinigami en Death Note?",
+    "opciones": ["Rem", "Ryuk", "Light", "L"],
+    "correcta": "Ryuk"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del hermano menor de Edward Elric en Fullmetal Alchemist?",
+    "opciones": ["Alphonse Elric", "Roy Mustang", "Winry Rockbell", "Maes Hughes"],
+    "correcta": "Alphonse Elric"
+  },
+  {
+    "pregunta": "¿Qué fruta del diablo comió Luffy en One Piece?",
+    "opciones": ["Gomu Gomu no Mi", "Mera Mera no Mi", "Gura Gura no Mi", "Hito Hito no Mi"],
+    "correcta": "Gomu Gomu no Mi"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Attack on Titan?",
+    "opciones": ["Eren Jaeger", "Mikasa Ackerman", "Armin Arlert", "Levi Ackerman"],
+    "correcta": "Eren Jaeger"
+  },
+  {
+    "pregunta": "¿Qué tipo de cazador es Gon Freecss en Hunter x Hunter?",
+    "opciones": ["Cazador de Tesoros", "Cazador de Recompensas", "Cazador de Monstruos", "Cazador de Aventuras"],
+    "correcta": "Cazador de Tesoros"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del robot gigante en Neon Genesis Evangelion?",
+    "opciones": ["EVA-01", "Gundam", "Mazinger Z", "Gurren Lagann"],
+    "correcta": "EVA-01"
+  },
+  {
+    "pregunta": "¿Qué deporte practica Sakuragi en Slam Dunk?",
+    "opciones": ["Baloncesto", "Fútbol", "Béisbol", "Voleibol"],
+    "correcta": "Baloncesto"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del villano principal en Dragon Ball Z?",
+    "opciones": ["Freezer", "Cell", "Majin Buu", "Piccolo"],
+    "correcta": "Freezer"
+  },
+  {
+    "pregunta": "¿Qué significa 'NARUTO' en el nombre de Naruto Uzumaki?",
+    "opciones": ["Torbellino", "Ramen", "Zorro", "Hokage"],
+    "correcta": "Torbellino"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del espadachín ciego en Rurouni Kenshin?",
+    "opciones": ["Kenshin Himura", "Saito Hajime", "Sanosuke Sagara", "Aoshi Shinomori"],
+    "correcta": "Kenshin Himura"
+  },
+  {
+    "pregunta": "¿Qué poder tiene Light Yagami en Death Note?",
+    "opciones": ["Matar escribiendo nombres", "Leer mentes", "Viajar en el tiempo", "Invisibilidad"],
+    "correcta": "Matar escribiendo nombres"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del gato negro en Sailor Moon?",
+    "opciones": ["Luna", "Artemis", "Diana", "Phoebe"],
+    "correcta": "Luna"
+  },
+  {
+    "pregunta": "¿Qué tipo de pokémon es Pikachu?",
+    "opciones": ["Eléctrico", "Fuego", "Agua", "Planta"],
+    "correcta": "Eléctrico"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del equipo de baloncesto en Kuroko no Basket?",
+    "opciones": ["Generación de los Milagros", "Kaijo High", "Shutoku High", "Seirin High"],
+    "correcta": "Generación de los Milagros"
+  },
+  {
+    "pregunta": "¿Qué quiere convertirse Naruto Uzumaki?",
+    "opciones": ["Hokage", "Jounin", "Anbu", "Sannin"],
+    "correcta": "Hokage"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del hermano de Vegeta?",
+    "opciones": ["Tarble", "Raditz", "Nappa", "Broly"],
+    "correcta": "Tarble"
+  },
+  {
+    "pregunta": "¿Qué instrumento toca Kousei Arima en Your Lie in April?",
+    "opciones": ["Piano", "Violín", "Guitarra", "Flauta"],
+    "correcta": "Piano"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Cowboy Bebop?",
+    "opciones": ["Spike Spiegel", "Jet Black", "Faye Valentine", "Edward Wong"],
+    "correcta": "Spike Spiegel"
+  },
+  {
+    "pregunta": "¿Qué es un 'Shinigami' en Death Note?",
+    "opciones": ["Dios de la Muerte", "Ángel", "Demonio", "Fantasma"],
+    "correcta": "Dios de la Muerte"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del mejor amigo de Naruto?",
+    "opciones": ["Sasuke Uchiha", "Shikamaru Nara", "Kiba Inuzuka", "Rock Lee"],
+    "correcta": "Sasuke Uchiha"
+  },
+  {
+    "pregunta": "¿Qué tipo de cazador es Killua Zoldyck?",
+    "opciones": ["Asesino", "Cazador de Tesoros", "Cazador de Recompensas", "Cazador de Monstruos"],
+    "correcta": "Asesino"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la nave en One Piece?",
+    "opciones": ["Thousand Sunny", "Going Merry", "Red Force", "Moby Dick"],
+    "correcta": "Thousand Sunny"
+  },
+  {
+    "pregunta": "¿Qué poder tiene Saitama en One Punch Man?",
+    "opciones": ["Derrotar enemigos de un golpe", "Volar", "Super velocidad", "Invisibilidad"],
+    "correcta": "Derrotar enemigos de un golpe"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Bleach?",
+    "opciones": ["Ichigo Kurosaki", "Rukia Kuchiki", "Renji Abarai", "Uryu Ishida"],
+    "correcta": "Ichigo Kurosaki"
+  },
+  {
+    "pregunta": "¿Qué es un 'Akuma' en Blue Exorcist?",
+    "opciones": ["Demonio", "Ángel", "Humano", "Espíritu"],
+    "correcta": "Demonio"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del profesor en Assassination Classroom?",
+    "opciones": ["Koro-sensei", "Itona Horibe", "Tadaomi Karasuma", "Irina Jelavić"],
+    "correcta": "Koro-sensei"
+  },
+  {
+    "pregunta": "¿Qué deporte practica Yuri Katsuki en Yuri on Ice?",
+    "opciones": ["Patinaje artístico", "Hockey", "Patinaje de velocidad", "Snowboard"],
+    "correcta": "Patinaje artístico"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de My Hero Academia?",
+    "opciones": ["Izuku Midoriya", "Katsuki Bakugo", "Shoto Todoroki", "All Might"],
+    "correcta": "Izuku Midoriya"
+  },
+  {
+    "pregunta": "¿Qué tipo de don tiene Lelouch en Code Geass?",
+    "opciones": ["Geass", "Sharingan", "Byakugan", "Rinnegan"],
+    "correcta": "Geass"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del hermano de Inuyasha?",
+    "opciones": ["Sesshomaru", "Koga", "Miroku", "Sango"],
+    "correcta": "Sesshomaru"
+  },
+  {
+    "pregunta": "¿Qué es un 'Titan' en Attack on Titan?",
+    "opciones": ["Gigantes humanoides", "Robots", "Aliens", "Dioses"],
+    "correcta": "Gigantes humanoides"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Demon Slayer?",
+    "opciones": ["Tanjiro Kamado", "Nezuko Kamado", "Zenitsu Agatsuma", "Inosuke Hashibira"],
+    "correcta": "Tanjiro Kamado"
+  },
+  {
+    "pregunta": "¿Qué tipo de cazador es Hisoka?",
+    "opciones": ["Cazador de Recompensas", "Cazador de Tesoros", "Cazador de Monstruos", "Cazador de Aventuras"],
+    "correcta": "Cazador de Recompensas"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de One Punch Man?",
+    "opciones": ["Saitama", "Genos", "Speed-o'-Sound Sonic", "Mumen Rider"],
+    "correcta": "Saitama"
+  },
+  {
+    "pregunta": "¿Qué poder tiene All Might?",
+    "opciones": ["One For All", "All For One", "Explosion", "Half-Cold Half-Hot"],
+    "correcta": "One For All"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del villano en JoJo's Bizarre Adventure?",
+    "opciones": ["Dio Brando", "Jotaro Kujo", "Joseph Joestar", "Jonathan Joestar"],
+    "correcta": "Dio Brando"
+  },
+  {
+    "pregunta": "¿Qué tipo de ser es Alucard en Hellsing?",
+    "opciones": ["Vampiro", "Hombre lobo", "Fantasma", "Demonio"],
+    "correcta": "Vampiro"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Food Wars?",
+    "opciones": ["Soma Yukihira", "Erina Nakiri", "Megumi Tadokoro", "Takumi Aldini"],
+    "correcta": "Soma Yukihira"
+  },
+  {
+    "pregunta": "¿Qué tipo de poder tiene Natsu en Fairy Tail?",
+    "opciones": ["Dragón de Fuego", "Dragón de Hielo", "Dragón de Rayo", "Dragón de Hierro"],
+    "correcta": "Dragón de Fuego"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Tokyo Ghoul?",
+    "opciones": ["Ken Kaneki", "Touka Kirishima", "Rize Kamishiro", "Hideyoshi Nagachika"],
+    "correcta": "Ken Kaneki"
+  },
+  {
+    "pregunta": "¿Qué tipo de ser es Rem en Re:Zero?",
+    "opciones": ["Oni", "Humana", "Elfa", "Hada"],
+    "correcta": "Oni"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Sword Art Online?",
+    "opciones": ["Kirito", "Asuna", "Leafa", "Sinon"],
+    "correcta": "Kirito"
+  },
+  {
+    "pregunta": "¿Qué tipo de cazador es Gon Freecss?",
+    "opciones": ["Reforzador", "Transmutador", "Emisor", "Manipulador"],
+    "correcta": "Reforzador"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Black Clover?",
+    "opciones": ["Asta", "Yuno", "Noelle Silva", "Yami Sukehiro"],
+    "correcta": "Asta"
+  },
+  {
+    "pregunta": "¿Qué tipo de poder tiene Yuno en Black Clover?",
+    "opciones": ["Magia de Viento", "Magia de Fuego", "Magia de Agua", "Magia de Tierra"],
+    "correcta": "Magia de Viento"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Dr. Stone?",
+    "opciones": ["Senku Ishigami", "Taiju Oki", "Yuzuriha Ogawa", "Chrome"],
+    "correcta": "Senku Ishigami"
+  },
+  {
+    "pregunta": "¿Qué tipo de ser es Rimuru en That Time I Got Reincarnated as a Slime?",
+    "opciones": ["Slime", "Humano", "Demonio", "Dragón"],
+    "correcta": "Slime"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de The Rising of the Shield Hero?",
+    "opciones": ["Naofumi Iwatani", "Raphtalia", "Filo", "Motoyasu Kitamura"],
+    "correcta": "Naofumi Iwatani"
+  },
+  {
+    "pregunta": "¿Qué tipo de héroe es Naofumi?",
+    "opciones": ["Héroe del Escudo", "Héroe de la Lanza", "Héroe de la Espada", "Héroe del Arco"],
+    "correcta": "Héroe del Escudo"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Konosuba?",
+    "opciones": ["Kazuma Satou", "Aqua", "Megumin", "Darkness"],
+    "correcta": "Kazuma Satou"
+  },
+  {
+    "pregunta": "¿Qué tipo de magia usa Megumin?",
+    "opciones": ["Explosión", "Fuego", "Hielo", "Rayo"],
+    "correcta": "Explosión"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Re:Zero?",
+    "opciones": ["Subaru Natsuki", "Emilia", "Rem", "Ram"],
+    "correcta": "Subaru Natsuki"
+  },
+  {
+    "pregunta": "¿Qué poder tiene Subaru en Re:Zero?",
+    "opciones": ["Return by Death", "Teletransportación", "Invisibilidad", "Super fuerza"],
+    "correcta": "Return by Death"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Overlord?",
+    "opciones": ["Ainz Ooal Gown", "Albedo", "Shalltear Bloodfallen", "Demiurge"],
+    "correcta": "Ainz Ooal Gown"
+  },
+  {
+    "pregunta": "¿Qué tipo de ser es Ainz?",
+    "opciones": ["No Muerto", "Humano", "Demonio", "Ángel"],
+    "correcta": "No Muerto"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de No Game No Life?",
+    "opciones": ["Sora", "Shiro", "Stephanie Dola", "Jibril"],
+    "correcta": "Sora"
+  },
+  {
+    "pregunta": "¿Qué tipo de juegos juegan Sora y Shiro?",
+    "opciones": ["Todos los tipos", "Solo videojuegos", "Solo juegos de mesa", "Solo juegos de cartas"],
+    "correcta": "Todos los tipos"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de The Devil is a Part-Timer!?",
+    "opciones": ["Sadao Maou", "Emi Yusa", "Shiro Ashiya", "Chiho Sasaki"],
+    "correcta": "Sadao Maou"
+  },
+  {
+    "pregunta": "¿Dónde trabaja Sadao Maou?",
+    "opciones": ["MgRonald's", "WcDonald's", "Burger King", "KFC"],
+    "correcta": "MgRonald's"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Toradora!?",
+    "opciones": ["Ryuuji Takasu", "Taiga Aisaka", "Minori Kushieda", "Yusaku Kitamura"],
+    "correcta": "Ryuuji Takasu"
+  },
+  {
+    "pregunta": "¿Qué apodo tiene Taiga Aisaka?",
+    "opciones": ["Tigre Palmito", "Dragoncito", "Gatita", "Osito"],
+    "correcta": "Tigre Palmito"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Clannad?",
+    "opciones": ["Tomoya Okazaki", "Nagisa Furukawa", "Kyou Fujibayashi", "Tomoyo Sakagami"],
+    "correcta": "Tomoya Okazaki"
+  },
+  {
+    "pregunta": "¿Qué club quiere revivir Nagisa en Clannad?",
+    "opciones": ["Club de Teatro", "Club de Fútbol", "Club de Literatura", "Club de Música"],
+    "correcta": "Club de Teatro"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Anohana?",
+    "opciones": ["Jinta Yadomi", "Menma", "Naruko Anjo", "Atsumu Matsuyuki"],
+    "correcta": "Jinta Yadomi"
+  },
+  {
+    "pregunta": "¿Qué le pasó a Menma en Anohana?",
+    "opciones": ["Murió ahogada", "Murió en un accidente", "Murió de enfermedad", "Desapareció"],
+    "correcta": "Murió ahogada"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Your Name?",
+    "opciones": ["Taki Tachibana", "Mitsuha Miyamizu", "Yotsuha Miyamizu", "Katsuhiko Teshigawara"],
+    "correcta": "Taki Tachibana"
+  },
+  {
+    "pregunta": "¿Qué fenómeno experimentan Taki y Mitsuha?",
+    "opciones": ["Intercambio de cuerpos", "Viaje en el tiempo", "Teletransportación", "Leer mentes"],
+    "correcta": "Intercambio de cuerpos"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de A Silent Voice?",
+    "opciones": ["Shoya Ishida", "Shoko Nishimiya", "Yuzuru Nishimiya", "Naoka Ueno"],
+    "correcta": "Shoya Ishida"
+  },
+  {
+    "pregunta": "¿Qué discapacidad tiene Shoko Nishimiya?",
+    "opciones": ["Sordera", "Ceguera", "Mudez", "Parálisis"],
+    "correcta": "Sordera"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Weathering With You?",
+    "opciones": ["Hodaka Morishima", "Hina Amano", "Nagisa Amano", "Keisuke Suga"],
+    "correcta": "Hodaka Morishima"
+  },
+  {
+    "pregunta": "¿Qué poder tiene Hina en Weathering With You?",
+    "opciones": ["Controlar el clima", "Volar", "Invisibilidad", "Teletransportación"],
+    "correcta": "Controlar el clima"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Spirited Away?",
+    "opciones": ["Chihiro Ogino", "Haku", "Yubaba", "No-Face"],
+    "correcta": "Chihiro Ogino"
+  },
+  {
+    "pregunta": "¿Dónde trabaja Chihiro en Spirited Away?",
+    "opciones": ["Casa de Baños", "Restaurante", "Tienda", "Hotel"],
+    "correcta": "Casa de Baños"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de My Neighbor Totoro?",
+    "opciones": ["Satsuki Kusakabe", "Mei Kusakabe", "Totoro", "Kanta Ogi"],
+    "correcta": "Satsuki Kusakabe"
+  },
+  {
+    "pregunta": "¿Qué tipo de criatura es Totoro?",
+    "opciones": ["Espíritu del Bosque", "Oso", "Gato", "Conejo"],
+    "correcta": "Espíritu del Bosque"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Princess Mononoke?",
+    "opciones": ["Ashitaka", "San", "Eboshi", "Jigo"],
+    "correcta": "Ashitaka"
+  },
+  {
+    "pregunta": "¿Qué le pasa a Ashitaka al principio de la película?",
+    "opciones": ["Es maldecido", "Es herido", "Es capturado", "Es desterrado"],
+    "correcta": "Es maldecido"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Howl's Moving Castle?",
+    "opciones": ["Sophie Hatter", "Howl Jenkins Pendragon", "Calcifer", "Markl"],
+    "correcta": "Sophie Hatter"
+  },
+  {
+    "pregunta": "¿Qué le pasa a Sophie en Howl's Moving Castle?",
+    "opciones": ["Se convierte en anciana", "Se convierte en niña", "Se convierte en animal", "Se convierte en fantasma"],
+    "correcta": "Se convierte en anciana"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Kiki's Delivery Service?",
+    "opciones": ["Kiki", "Jiji", "Ursula", "Tombo"],
+    "correcta": "Kiki"
+  },
+  {
+    "pregunta": "¿Qué tipo de bruja es Kiki?",
+    "opciones": ["Bruja de la Entrega", "Bruja del Fuego", "Bruja del Agua", "Bruja del Viento"],
+    "correcta": "Bruja de la Entrega"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Ponyo?",
+    "opciones": ["Sosuke", "Ponyo", "Fujimoto", "Lisa"],
+    "correcta": "Sosuke"
+  },
+  {
+    "pregunta": "¿Qué tipo de ser es Ponyo?",
+    "opciones": ["Pez dorado", "Humana", "Sirena", "Hada"],
+    "correcta": "Pez dorado"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de The Cat Returns?",
+    "opciones": ["Haru Yoshioka", "Baron", "Muta", "Toto"],
+    "correcta": "Haru Yoshioka"
+  },
+  {
+    "pregunta": "¿Qué salva Haru al principio de la película?",
+    "opciones": ["Un gato", "Un perro", "Un pájaro", "Un conejo"],
+    "correcta": "Un gato"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Arrietty?",
+    "opciones": ["Arrietty", "Sho", "Homily", "Pod"],
+    "correcta": "Arrietty"
+  },
+  {
+    "pregunta": "¿Qué tipo de seres son Arrietty y su familia?",
+    "opciones": ["Pequeños seres que viven bajo el suelo", "Hadas", "Duendes", "Insectos"],
+    "correcta": "Pequeños seres que viven bajo el suelo"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de From Up on Poppy Hill?",
+    "opciones": ["Umi Matsuzaki", "Shun Kazama", "Shiro Mizunuma", "Yoshiko Takahashi"],
+    "correcta": "Umi Matsuzaki"
+  },
+  {
+    "pregunta": "¿Qué quiere salvar el club en From Up on Poppy Hill?",
+    "opciones": ["El clubhouse", "La escuela", "El barco", "El parque"],
+    "correcta": "El clubhouse"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de The Wind Rises?",
+    "opciones": ["Jiro Horikoshi", "Naoko Satomi", "Kurokawa", "Honjo"],
+    "correcta": "Jiro Horikoshi"
+  },
+  {
+    "pregunta": "¿Qué diseña Jiro en The Wind Rises?",
+    "opciones": ["Aviones", "Barcos", "Trenes", "Coches"],
+    "correcta": "Aviones"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de The Tale of the Princess Kaguya?",
+    "opciones": ["Kaguya", "Sutemaru", "Miyatsuko", "Inbe"],
+    "correcta": "Kaguya"
+  },
+  {
+    "pregunta": "¿De dónde viene Kaguya?",
+    "opciones": ["La Luna", "La Tierra", "El Cielo", "El Mar"],
+    "correcta": "La Luna"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de When Marnie Was There?",
+    "opciones": ["Anna Sasaki", "Marnie", "Hisako", "Setsu"],
+    "correcta": "Anna Sasaki"
+  },
+  {
+    "pregunta": "¿Qué descubre Anna sobre Marnie?",
+    "opciones": ["Es su abuela", "Es su hermana", "Es su madre", "Es su tía"],
+    "correcta": "Es su abuela"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de The Red Turtle?",
+    "opciones": ["El náufrago", "La tortuga", "El cangrejo", "La gaviota"],
+    "correcta": "El náufrago"
+  },
+  {
+    "pregunta": "¿Qué le pasa al náufrago en The Red Turtle?",
+    "opciones": ["Naufraga en una isla", "Es rescatado", "Vuelve a casa", "Muere"],
+    "correcta": "Naufraga en una isla"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Mary and the Witch's Flower?",
+    "opciones": ["Mary Smith", "Peter", "Madame Mumblechook", "Doctor Dee"],
+    "correcta": "Mary Smith"
+  },
+  {
+    "pregunta": "¿Qué encuentra Mary en el bosque?",
+    "opciones": ["La flor de la bruja", "Un gato", "Una escoba", "Un libro"],
+    "correcta": "La flor de la bruja"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Mirai?",
+    "opciones": ["Kun", "Mirai", "Yoshio", "Reiko"],
+    "correcta": "Kun"
+  },
+  {
+    "pregunta": "¿Qué le pasa a Kun en Mirai?",
+    "opciones": ["Viaja en el tiempo", "Se convierte en adulto", "Se convierte en animal", "Se convierte en fantasma"],
+    "correcta": "Viaja en el tiempo"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de The Boy and the Beast?",
+    "opciones": ["Ren", "Kumatetsu", "Tatara", "Chiko"],
+    "correcta": "Ren"
+  },
+  {
+    "pregunta": "¿Qué tipo de ser es Kumatetsu?",
+    "opciones": ["Hombre bestia", "Humano", "Demonio", "Ángel"],
+    "correcta": "Hombre bestia"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Wolf Children?",
+    "opciones": ["Hana", "Ame", "Yuki", "Ookami"],
+    "correcta": "Hana"
+  },
+  {
+    "pregunta": "¿Qué tipo de seres son los hijos de Hana?",
+    "opciones": ["Hombre lobo", "Humanos", "Demonios", "Ángeles"],
+    "correcta": "Hombre lobo"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de Summer Wars?",
+    "opciones": ["Kenji Koiso", "Natsuki Shinohara", "Wabisuke Jinnouchi", "Kazuma Ikezawa"],
+    "correcta": "Kenji Koiso"
+  },
+  {
+    "pregunta": "¿Qué mundo virtual existe en Summer Wars?",
+    "opciones": ["OZ", "The Oasis", "Second Life", "VR Chat"],
+    "correcta": "OZ"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del protagonista de The Girl Who Leapt Through Time?",
+    "opciones": ["Makoto Konno", "Chiaki Mamiya", "Kousuke Tsuda", "Yuri Hayakawa"],
+    "correcta": "Makoto Konno"
+  },
+  {
+    "pregunta": "¿Qué poder descubre Makoto?",
+    "opciones": ["Viajar en el tiempo", "Volar", "Invisibilidad", "Leer mentes"],
+    "correcta": "Viajar en el tiempo"
+  }
+]
