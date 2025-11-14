@@ -1,3 +1,3 @@
 export function getOwner() {
-    return "7733424698"
+    return "7731632400"
 }

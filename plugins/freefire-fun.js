@@ -1,3 +1,14 @@
+// Nombre clan/team:
+// emojiTitulo =
+//⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎 =
+// 🇲🇽│𝐌𝐄𝐗: =
+// 🇨🇴│𝐂𝐎𝐋: =
+// 🇦🇷│𝐀𝐑𝐆: =
+// emojiLider =
+// emojiJugador =
+// emojiSuplTitulo =
+// emojiSuplJugador =
+
 import path from "path";
 import fs from 'fs'
 import {boolean} from "mathjs";
@@ -9,6 +20,10 @@ let handler = async (m, { conn, command, usedPrefix,text}) => {
     let ismasc = false;
 
     let colorv = '✨𝐶𝑂𝐿𝑂𝑅 𝐷𝐸 𝑉𝐸𝑆𝑇𝐼𝑀𝐸𝑁𝑇𝐴('
+    let horario = '⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎'
+    let horarioMX = '🇲🇽│𝐌𝐄𝐗:'
+    let horarioCOL = '🇨🇴│𝐂𝐎𝐋:'
+    let horarioARG = '🇦🇷│𝐀𝐑𝐆:'
     let hex = '𝐇𝐄𝐗𝐀𝐆𝐎𝐍𝐀𝐋 𝐇𝐎𝐘'
     let scrimtext = '𝐒𝐂𝐑𝐈𝐌𝐒 𝐇𝐎𝐘'
     let cuadri = '𝐂𝐔𝐀𝐃𝐑𝐈𝐋𝐀𝐓𝐄𝐑𝐎 𝐇𝐎𝐘'
@@ -31,6 +46,8 @@ let handler = async (m, { conn, command, usedPrefix,text}) => {
     let internai6 = '𝐈𝐍𝐓𝐄𝐑𝐍𝐀 𝟔 𝐕𝐒 𝟔 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐎'
     let internavv2 = '𝐈𝐍𝐓𝐄𝐑𝐍𝐀 𝟒 𝐕𝐒 𝟒 𝐕𝐕𝟐'
     let internavv26 = '𝐈𝐍𝐓𝐄𝐑𝐍𝐀 𝟔 𝐕𝐒 𝟔 𝐕𝐕𝟐'
+    let isAngels = false;
+    let isKbras = false;
     try {
         if (fs.existsSync(CONFIG_PATH)) {
             const rawData = fs.readFileSync(CONFIG_PATH)
@@ -38,6 +55,12 @@ let handler = async (m, { conn, command, usedPrefix,text}) => {
             tag = (groupConfig[m.chat]?.tag || '┇');
             if(groupConfig[m.chat]?.design === 'M'){
                 ismasc = true;
+            }
+            if(groupConfig[m.chat]?.angels === 'yes'){
+                isAngels = true
+            }
+            if(groupConfig[m.chat]?.kbras === 'yes'){
+                isKbras = true
             }
         }
     } catch (e) {
@@ -63,6 +86,30 @@ let handler = async (m, { conn, command, usedPrefix,text}) => {
         emoji3 = '☠️'
         emoji4 = '👾'
         emoji5 = '☁️'
+    }
+
+    if(isAngels){
+emoji4 = '👼🏻'
+horario = '•⏰┇𝑯𝑶𝑹𝑨𝑹𝑰𝑶•'
+horarioMX = '🇲🇽┇𝑴𝑬𝑿:'
+horarioCOL = '🇨🇴┇𝑪𝑶𝑳:'
+horarioARG = '🇦🇷│𝐀𝐑𝐆:'
+lider = '👑'
+jugador = '🪽'
+suplentes = '👼🏻'
+suplentes2 = '🪽'
+    }
+    
+    if(isKbras){
+emoji4 = '🦦'
+horario = '⌛️𝐇𝐎𝐑𝐀:'
+horarioMX = '🇲🇽 │ *_MEX:_*'
+horarioCOL = '🇨🇴 │ *_COL:_*'
+horarioARG = '🇦🇷 │ *_ARG:_*'
+lider = '🐐'
+jugador = '🥷'
+suplentes = '🦦'
+suplentes2 = '🥷🏻'
     }
 
 
@@ -136,14 +183,14 @@ let handler = async (m, { conn, command, usedPrefix,text}) => {
 
 //
 //
-// 🇨🇴│𝐂𝐎𝐋:
-// 🇦🇷│𝐀𝐑𝐆:
+// ${horarioCOL}
+// ${horarioARG}
         let scrims12 = `*${emoji4} ${vs16} ${emoji4}*
 
-⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*
+${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*
 
 ㅤ𝗘𝗦𝗖𝗨𝗔𝗗𝗥𝗔 𝟭
 
@@ -221,10 +268,10 @@ ${suplentes2} ${tag} `
 
         let scrims12 = `*${emoji4} ${vs12} ${emoji4}*
 
-⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*
+${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*
 
 ㅤ𝗘𝗦𝗖𝗨𝗔𝗗𝗥𝗔 𝟭
 
@@ -319,10 +366,10 @@ ${suplentes2} ${tag} `
 
         let cuadrilatero = `*${emoji4} ${cuadri} ${emoji4}*
 
-⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*
+${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*
 
 ${colorv}${colorVestimenta})
 
@@ -396,10 +443,10 @@ ${suplentes2} ${tag} `
 
         let cuadrilatero = `*${emoji4} ${trilatero} ${emoji4}*
 
-⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*
+${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*
 
 ${colorv}${colorVestimenta})
 
@@ -480,10 +527,10 @@ ${suplentes2} ${tag} `
 
         let cuadrilatero = `*${emoji4} ${hex} ${emoji4}*
 
-⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*
+${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*
 
 ${colorv}${colorVestimenta})
 
@@ -547,10 +594,10 @@ ${suplentes2} ${tag} `
 
         let scrims = `*${emoji4} ${scrimtext} ${emoji4}*
 
-⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*
+${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*
 
 ${lider} ${tag} 
 ${jugador} ${tag} 
@@ -613,10 +660,10 @@ ${jugador} ${tag} `
                 horaCO12 = horaCO+' PM';
                 horaAR12 = horaAR+' PM';
             }
-            mensaje = `⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*`
+            mensaje = `${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*`
         }
 
         let scrims12 = `${emoji4} ${tipoSala} ${emoji4}
@@ -689,10 +736,10 @@ ${suplentes2} ${tag} `
                 horaCO12 = horaCO+' PM';
                 horaAR12 = horaAR+' PM';
             }
-            mensaje = `⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*`
+            mensaje = `${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*`
         }
 
         let scrims12 = `${emoji4} ${tipoSala} ${emoji4}
@@ -760,10 +807,10 @@ ${suplentes2} ${tag} `
                 horaCO12 = horaCO+' PM';
                 horaAR12 = horaAR+' PM';
             }
-            mensaje = `⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*`
+            mensaje = `${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*`
         }
 
         let scrims12 = `${emoji4} ${vs4} ${emoji4}
@@ -819,10 +866,10 @@ ${suplentes2} ${tag} `
                 horaCO12 = horaCO+' PM';
                 horaAR12 = horaAR+' PM';
             }
-            mensaje = `⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*`
+            mensaje = `${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*`
         }
 
         let scrims12 = `${emoji4} ${vs4clk} ${emoji4}
@@ -878,10 +925,10 @@ ${suplentes2} ${tag} `
                 horaCO12 = horaCO+' PM';
                 horaAR12 = horaAR+' PM';
             }
-            mensaje = `⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*`
+            mensaje = `${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*`
         }
 
         let scrims12 = `${emoji4} ${vs4inf} ${emoji4}
@@ -937,10 +984,10 @@ ${suplentes2} ${tag} `
                 horaCO12 = horaCO+' PM';
                 horaAR12 = horaAR+' PM';
             }
-            mensaje = `⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*`
+            mensaje = `${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*`
         }
 
         let scrims12 = `${emoji4} ${vs4vv2} ${emoji4}
@@ -998,10 +1045,10 @@ ${suplentes2} ${tag} `
                 horaCO12 = horaCO+' PM';
                 horaAR12 = horaAR+' PM';
             }
-            mensaje = `⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*`
+            mensaje = `${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*`
         }
 
         let scrims12 = `${emoji4} ${vs6} ${emoji4}
@@ -1059,10 +1106,10 @@ ${suplentes2} ${tag} `
                 horaCO12 = horaCO+' PM';
                 horaAR12 = horaAR+' PM';
             }
-            mensaje = `⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*`
+            mensaje = `${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*`
         }
 
         let scrims12 = `${emoji4} ${vs6clk} ${emoji4}
@@ -1120,10 +1167,10 @@ ${suplentes2} ${tag} `
                 horaCO12 = horaCO+' PM';
                 horaAR12 = horaAR+' PM';
             }
-            mensaje = `⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*`
+            mensaje = `${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*`
         }
 
         let scrims12 = `${emoji4} ${vs6inf} ${emoji4}
@@ -1181,10 +1228,10 @@ ${suplentes2} ${tag} `
                 horaCO12 = horaCO+' PM';
                 horaAR12 = horaAR+' PM';
             }
-            mensaje = `⏰│𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇲🇽│𝐌𝐄𝐗: *${horaMX12}*
-🇨🇴│𝐂𝐎𝐋: *${horaCO12}*
-🇦🇷│𝐀𝐑𝐆: *${horaAR12}*`
+            mensaje = `${horario}
+${horarioMX} *${horaMX12}*
+${horarioCOL} *${horaCO12}*
+${horarioARG} *${horaAR12}*`
         }
 
         let scrims12 = `${emoji4} ${vs6vv2} ${emoji4}

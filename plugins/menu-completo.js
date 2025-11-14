@@ -83,8 +83,8 @@ let handler = async (m, { conn, command, usedPrefix }) => {
 
 > *.welcome*
 > *.on welcome*
-> *.set welcome*
-> *.set bye*
+> *.setwelcome*
+> *.setbye*
 > *.imagenbye* [imagen]
 > *.imagenwelcome* [imagen]
 
@@ -191,6 +191,7 @@ let handler = async (m, { conn, command, usedPrefix }) => {
 > *.interna4* (hora)
 > *.diseñoM* 
 > *.diseñoF*
+> *.creardiseñolist*
 
 > i Infinito | c CLK | v VV2
 > Parametro opcional ( )

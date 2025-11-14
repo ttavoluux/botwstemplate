@@ -66,12 +66,35 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
         else if (command === 'diseñof') {
            // if (!fieldValue) return m.reply(`⚠️ Ingresa diseñof/diseñom para un diseño de listas: ${usedPrefix}diseñof @diseñom`)
             groupConfig[groupId].design = 'F'
+            groupConfig[groupId].angels = 'no'
+            groupConfig[groupId].kbras = 'no'
             fieldName = 'Diseño de listas 🌸 Fem'
         }
         else if (command === 'diseñom') {
             //if (!fieldValue) return m.reply(`⚠️ Ingresa diseñof/diseñom para un diseño de listas: ${usedPrefix}diseñof @diseñom`)
             groupConfig[groupId].design = 'M'
+            groupConfig[groupId].angels = 'no'
+            groupConfig[groupId].kbras = 'no'
             fieldName = 'Diseño de listas 👹 Masc'
+        }
+        
+         else if (command === 'desingangels') {
+            //if (!fieldValue) return m.reply(`⚠️ Ingresa diseñof/diseñom para un diseño de listas: ${usedPrefix}diseñof @diseñom`)
+            //groupConfig[groupId].design = 'M'
+            //fieldName = 'Diseño de listas 👹 Masc'
+            groupConfig[groupId].angels = 'yes'
+             groupConfig[groupId].design = ''
+             groupConfig[groupId].kbras = 'no'
+            fieldName = '🪽 Design Angels 🪽'
+        }
+         else if (command === 'desingkbras') {
+            //if (!fieldValue) return m.reply(`⚠️ Ingresa diseñof/diseñom para un diseño de listas: ${usedPrefix}diseñof @diseñom`)
+            //groupConfig[groupId].design = 'M'
+            //fieldName = 'Diseño de listas 👹 Masc'
+            groupConfig[groupId].angels = ''
+             groupConfig[groupId].design = ''
+             groupConfig[groupId].kbras = 'yes'
+            fieldName = '🐐 Design Kbras 🐐'
         }
 
         // Escribir en el archivo JSON
@@ -86,5 +109,5 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 }
 
 handler.admin = true
-handler.command = /^(settag|setidclan|setdiscord|setigclan|diseñof|diseñom)$/i
+handler.command = /^(settag|setidclan|setdiscord|setigclan|diseñof|diseñom|desingangels|desingkbras)$/i
 export default handler

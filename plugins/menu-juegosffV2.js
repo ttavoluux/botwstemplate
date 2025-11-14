@@ -42,6 +42,8 @@ let handler = async (m, { conn, command, usedPrefix }) => {
 > *.interna4* (hora)
 > *.diseñoM* 
 > *.diseñoF*
+> *.desingkbras* (TEAM LAS KBRAS 🐐)
+> *.creardiseñolist*
 
 > i Infinito | c CLK | v VV2
 > Parametro opcional ( )

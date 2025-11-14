@@ -1098,7 +1098,7 @@ export async function handler(chatUpdate) {
             const decoded = conn.decodeJid(jid);
             // Mapeo manual de @lid a IDs reales (¡Actualiza con tus valores!)
             const LID_TO_NUMBER = {
-                '102031930953898@lid': '5217733424698@s.whatsapp.net',
+                '256586262044708@lid': '5217731632400@s.whatsapp.net',
                 //'256586262044708@lid': '5217731632400@s.whatsapp.net',
                 // Añade más mapeos si es necesario
             };
@@ -1832,3 +1832,5 @@ watchFile(file, async () => {
         for (const userr of users) {
             userr.subreloadHandler(false)
         }}});
+
+//template
